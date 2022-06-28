@@ -6,4 +6,5 @@ kmodes==0.12.1
 catboost==1.0.6
 openpyxl
 pickle-mixin
+pillow==.0.0
 numba==0.48.0
