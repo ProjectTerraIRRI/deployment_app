@@ -102,9 +102,9 @@ method = st.selectbox('How was rice harvested in the immediate previous season?'
 
 if st.button('Show Fertilizer ranges'):
     test = [yield_1*yield_2, season, method, cluster]
-    N_range = 4.62
-    P_range = 1.39
-    K_range = 2.67
+    N_range = 4.50
+    P_range = 1.37
+    K_range = 2.58
     
     p_N = loaded_model.predict(test)
     p_P = loaded_model_P.predict(test)
