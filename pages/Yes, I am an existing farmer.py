@@ -147,8 +147,8 @@ if st.button('Show SHAP plots'):
                                show=False
                            )
     st.success('SHAP plots show the contribution of each farm characteristic to '
-            "the prediction. Red bars indicate a decline from the model's average value, "
-             'while blue bars indicate an increase. '
+            "the prediction. Red bars indicate an increase from the model's average value, "
+             'while blue bars indicate a decline. '
              'Actual prediction is in bold.')
     st.pyplot(figN, use_container_width=True)
     st.pyplot(figP, use_container_width=True)
