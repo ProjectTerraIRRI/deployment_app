@@ -1,0 +1,2277 @@
+,,,,,Recommended N (kg/ha),Recommended N (kg/ha),Recommended P2O5 (kg/ha),Recommended P2O5 (kg/ha),Recommended K2O (kg/ha),Recommended K2O (kg/ha)
+,,,,,min,max,min,max,min,max
+Location_Region,cluster,Growing season,RCM Harvesting Method,yield,,,,,,
+ARMM,1,Dry season,Combined,"(0, 2]",57.0,70.0,12.0,14.0,12.0,14.0
+ARMM,1,Dry season,Combined,"(2, 4]",57.0,77.0,12.0,22.0,12.0,22.0
+ARMM,1,Dry season,Combined,"(4, 6]",95.0,118.0,24.0,29.0,24.0,29.0
+ARMM,1,Dry season,Manual,"(0, 2]",44.0,57.0,15.0,17.0,15.0,17.0
+ARMM,1,Dry season,Manual,"(2, 4]",57.0,84.0,15.0,22.0,15.0,22.0
+ARMM,1,Dry season,Manual,"(4, 6]",74.0,120.0,19.0,34.0,19.0,34.0
+ARMM,1,Dry season,Reaper,"(4, 6]",88.0,88.0,23.0,23.0,23.0,23.0
+ARMM,1,Wet season,Combined,"(0, 2]",44.0,70.0,12.0,15.0,12.0,15.0
+ARMM,1,Wet season,Combined,"(2, 4]",54.0,80.0,12.0,19.0,12.0,19.0
+ARMM,1,Wet season,Combined,"(4, 6]",80.0,113.0,17.0,29.0,17.0,29.0
+ARMM,1,Wet season,Combined,"(6, 8]",126.0,126.0,31.0,31.0,31.0,31.0
+ARMM,1,Wet season,Manual,"(0, 2]",43.0,70.0,15.0,18.0,15.0,18.0
+ARMM,1,Wet season,Manual,"(2, 4]",54.0,80.0,15.0,21.0,15.0,27.0
+ARMM,1,Wet season,Manual,"(4, 6]",72.0,100.0,19.0,29.0,19.0,44.0
+ARMM,2,Dry season,Combined,"(0, 2]",43.0,44.0,13.0,15.0,13.0,15.0
+ARMM,2,Dry season,Combined,"(2, 4]",43.0,82.0,13.0,24.0,13.0,36.0
+ARMM,2,Dry season,Combined,"(4, 6]",80.0,124.0,22.0,33.0,22.0,54.0
+ARMM,2,Dry season,Combined,"(6, 8]",133.0,146.0,35.0,38.0,61.0,77.0
+ARMM,2,Dry season,Combined,"(8, 10]",137.0,137.0,36.0,36.0,62.0,62.0
+ARMM,2,Dry season,Manual,"(0, 2]",30.0,46.0,10.0,17.0,0.0,17.0
+ARMM,2,Dry season,Manual,"(2, 4]",30.0,82.0,10.0,26.0,0.0,52.0
+ARMM,2,Dry season,Manual,"(4, 6]",72.0,126.0,24.0,37.0,41.0,79.0
+ARMM,2,Dry season,Manual,"(6, 8]",116.0,148.0,33.0,42.0,66.0,93.0
+ARMM,2,Dry season,Manual,"(8, 10]",143.0,143.0,41.0,41.0,90.0,90.0
+ARMM,2,Wet season,Combined,"(0, 2]",43.0,44.0,14.0,14.0,14.0,14.0
+ARMM,2,Wet season,Combined,"(2, 4]",43.0,88.0,14.0,25.0,14.0,25.0
+ARMM,2,Wet season,Combined,"(4, 6]",72.0,120.0,21.0,33.0,21.0,57.0
+ARMM,2,Wet season,Combined,"(6, 8]",133.0,133.0,36.0,36.0,66.0,66.0
+ARMM,2,Wet season,Manual,"(0, 2]",43.0,44.0,16.0,17.0,16.0,17.0
+ARMM,2,Wet season,Manual,"(2, 4]",43.0,80.0,16.0,25.0,16.0,46.0
+ARMM,2,Wet season,Manual,"(4, 6]",70.0,118.0,22.0,34.0,38.0,73.0
+ARMM,2,Wet season,Manual,"(6, 8]",120.0,148.0,35.0,42.0,73.0,90.0
+ARMM,2,Wet season,Manual,"(8, 10]",137.0,146.0,38.0,41.0,82.0,89.0
+ARMM,3,Dry season,Combined,"(0, 2]",43.0,70.0,12.0,15.0,12.0,15.0
+ARMM,3,Dry season,Combined,"(2, 4]",43.0,88.0,12.0,25.0,12.0,38.0
+ARMM,3,Dry season,Combined,"(4, 6]",43.0,128.0,14.0,33.0,14.0,63.0
+ARMM,3,Dry season,Combined,"(6, 8]",116.0,148.0,30.0,40.0,30.0,84.0
+ARMM,3,Dry season,Combined,"(8, 10]",116.0,148.0,30.0,39.0,30.0,72.0
+ARMM,3,Dry season,Manual,"(0, 2]",43.0,70.0,15.0,18.0,15.0,18.0
+ARMM,3,Dry season,Manual,"(2, 4]",43.0,84.0,11.0,25.0,11.0,50.0
+ARMM,3,Dry season,Manual,"(4, 6]",80.0,126.0,21.0,35.0,21.0,73.0
+ARMM,3,Dry season,Manual,"(6, 8]",128.0,146.0,36.0,40.0,51.0,65.0
+ARMM,3,Dry season,Manual,"(8, 10]",133.0,133.0,37.0,37.0,55.0,55.0
+ARMM,3,Dry season,Reaper,"(2, 4]",67.0,80.0,18.0,21.0,18.0,21.0
+ARMM,3,Dry season,Reaper,"(4, 6]",116.0,116.0,33.0,33.0,42.0,42.0
+ARMM,3,Wet season,Combined,"(0, 2]",43.0,70.0,11.0,15.0,11.0,15.0
+ARMM,3,Wet season,Combined,"(2, 4]",46.0,88.0,12.0,23.0,12.0,23.0
+ARMM,3,Wet season,Combined,"(4, 6]",80.0,120.0,17.0,33.0,17.0,57.0
+ARMM,3,Wet season,Combined,"(6, 8]",126.0,133.0,32.0,34.0,32.0,34.0
+ARMM,3,Wet season,Manual,"(0, 2]",43.0,70.0,15.0,18.0,15.0,18.0
+ARMM,3,Wet season,Manual,"(2, 4]",43.0,80.0,15.0,25.0,15.0,46.0
+ARMM,3,Wet season,Manual,"(4, 6]",80.0,116.0,20.0,32.0,20.0,60.0
+ARMM,3,Wet season,Manual,"(6, 8]",126.0,133.0,35.0,37.0,60.0,65.0
+ARMM,4,Dry season,Combined,"(0, 2]",56.0,70.0,12.0,14.0,12.0,14.0
+ARMM,4,Dry season,Combined,"(2, 4]",56.0,88.0,10.0,20.0,0.0,20.0
+ARMM,4,Dry season,Combined,"(4, 6]",70.0,128.0,14.0,32.0,14.0,32.0
+ARMM,4,Dry season,Combined,"(6, 8]",70.0,146.0,14.0,37.0,14.0,37.0
+ARMM,4,Dry season,Combined,"(8, 10]",116.0,146.0,30.0,37.0,30.0,37.0
+ARMM,4,Dry season,Manual,"(0, 2]",56.0,70.0,15.0,18.0,15.0,18.0
+ARMM,4,Dry season,Manual,"(2, 4]",56.0,88.0,14.0,23.0,0.0,23.0
+ARMM,4,Dry season,Manual,"(4, 6]",80.0,128.0,21.0,35.0,21.0,49.0
+ARMM,4,Dry season,Manual,"(6, 8]",124.0,152.0,35.0,41.0,36.0,65.0
+ARMM,4,Dry season,Manual,"(8, 10]",131.0,133.0,36.0,37.0,48.0,55.0
+ARMM,4,Dry season,Reaper,"(2, 4]",57.0,57.0,15.0,15.0,15.0,15.0
+ARMM,4,Dry season,Reaper,"(4, 6]",92.0,100.0,23.0,29.0,23.0,29.0
+ARMM,4,Wet season,Combined,"(0, 2]",57.0,70.0,12.0,14.0,12.0,14.0
+ARMM,4,Wet season,Combined,"(2, 4]",56.0,84.0,10.0,18.0,0.0,18.0
+ARMM,4,Wet season,Combined,"(4, 6]",77.0,120.0,17.0,30.0,17.0,30.0
+ARMM,4,Wet season,Combined,"(6, 8]",57.0,143.0,12.0,36.0,12.0,47.0
+ARMM,4,Wet season,Combined,"(8, 10]",124.0,126.0,31.0,31.0,31.0,31.0
+ARMM,4,Wet season,Manual,"(0, 2]",56.0,70.0,13.0,18.0,13.0,18.0
+ARMM,4,Wet season,Manual,"(2, 4]",56.0,82.0,15.0,21.0,15.0,31.0
+ARMM,4,Wet season,Manual,"(4, 6]",70.0,126.0,18.0,35.0,18.0,63.0
+ARMM,4,Wet season,Manual,"(6, 8]",124.0,143.0,34.0,40.0,59.0,77.0
+ARMM,4,Wet season,Manual,"(8, 10]",148.0,148.0,41.0,41.0,80.0,80.0
+ARMM,4,Wet season,Reaper,"(4, 6]",74.0,95.0,19.0,28.0,19.0,40.0
+ARMM,5,Dry season,Combined,"(0, 2]",43.0,43.0,15.0,16.0,15.0,16.0
+ARMM,5,Dry season,Combined,"(2, 4]",14.0,84.0,10.0,21.0,10.0,21.0
+ARMM,5,Dry season,Combined,"(4, 6]",37.0,126.0,10.0,27.0,10.0,27.0
+ARMM,5,Dry season,Combined,"(6, 8]",70.0,70.0,14.0,14.0,14.0,14.0
+ARMM,5,Dry season,Manual,"(0, 2]",43.0,44.0,15.0,18.0,15.0,31.0
+ARMM,5,Dry season,Manual,"(2, 4]",10.0,84.0,10.0,25.0,10.0,39.0
+ARMM,5,Dry season,Manual,"(4, 6]",29.0,126.0,10.0,33.0,12.0,52.0
+ARMM,5,Dry season,Manual,"(6, 8]",84.0,84.0,16.0,16.0,27.0,27.0
+ARMM,5,Dry season,Manual,"(8, 10]",70.0,70.0,11.0,18.0,18.0,25.0
+ARMM,5,Dry season,Reaper,"(4, 6]",42.0,68.0,15.0,20.0,15.0,20.0
+ARMM,5,Dry season,Reaper,"(6, 8]",89.0,89.0,17.0,17.0,28.0,28.0
+ARMM,5,Wet season,Combined,"(0, 2]",44.0,44.0,16.0,16.0,16.0,16.0
+ARMM,5,Wet season,Combined,"(2, 4]",43.0,74.0,13.0,19.0,13.0,19.0
+ARMM,5,Wet season,Combined,"(4, 6]",82.0,82.0,20.0,20.0,20.0,20.0
+ARMM,5,Wet season,Manual,"(0, 2]",43.0,49.0,17.0,18.0,17.0,31.0
+ARMM,5,Wet season,Manual,"(2, 4]",43.0,84.0,15.0,25.0,15.0,37.0
+ARMM,5,Wet season,Manual,"(4, 6]",70.0,120.0,21.0,32.0,21.0,49.0
+ARMM,5,Wet season,Manual,"(6, 8]",126.0,143.0,30.0,34.0,45.0,52.0
+ARMM,5,Wet season,Reaper,"(0, 2]",44.0,44.0,17.0,17.0,17.0,17.0
+ARMM,6,Dry season,Combined,"(0, 2]",43.0,44.0,10.0,15.0,0.0,15.0
+ARMM,6,Dry season,Combined,"(2, 4]",43.0,84.0,13.0,23.0,13.0,33.0
+ARMM,6,Dry season,Combined,"(4, 6]",90.0,113.0,25.0,32.0,25.0,56.0
+ARMM,6,Dry season,Combined,"(6, 8]",126.0,137.0,33.0,36.0,55.0,72.0
+ARMM,6,Dry season,Combined,"(8, 10]",137.0,137.0,36.0,36.0,62.0,62.0
+ARMM,6,Dry season,Manual,"(0, 2]",43.0,54.0,12.0,18.0,12.0,18.0
+ARMM,6,Dry season,Manual,"(2, 4]",43.0,84.0,14.0,27.0,14.0,54.0
+ARMM,6,Dry season,Manual,"(4, 6]",72.0,120.0,23.0,35.0,39.0,74.0
+ARMM,6,Dry season,Manual,"(6, 8]",133.0,133.0,38.0,38.0,79.0,79.0
+ARMM,6,Wet season,Combined,"(0, 2]",43.0,44.0,14.0,15.0,14.0,15.0
+ARMM,6,Wet season,Combined,"(2, 4]",44.0,82.0,14.0,24.0,14.0,33.0
+ARMM,6,Wet season,Combined,"(4, 6]",88.0,106.0,25.0,29.0,25.0,50.0
+ARMM,6,Wet season,Manual,"(0, 2]",43.0,44.0,14.0,17.0,14.0,17.0
+ARMM,6,Wet season,Manual,"(2, 4]",43.0,90.0,16.0,27.0,16.0,54.0
+ARMM,6,Wet season,Manual,"(4, 6]",80.0,113.0,25.0,33.0,49.0,69.0
+ARMM,6,Wet season,Manual,"(6, 8]",128.0,139.0,37.0,39.0,80.0,84.0
+BARMM,1,Dry season,Combined,"(2, 4]",62.0,62.0,13.0,13.0,13.0,13.0
+BARMM,2,Dry season,Combined,"(0, 2]",43.0,43.0,15.0,15.0,10.0,10.0
+BARMM,2,Dry season,Combined,"(2, 4]",43.0,80.0,13.0,24.0,10.0,34.0
+BARMM,2,Dry season,Combined,"(4, 6]",108.0,118.0,30.0,31.0,50.0,56.0
+BARMM,2,Dry season,Manual,"(0, 2]",44.0,44.0,16.0,16.0,16.0,16.0
+BARMM,2,Dry season,Manual,"(2, 4]",44.0,80.0,16.0,25.0,16.0,50.0
+BARMM,2,Dry season,Manual,"(4, 6]",98.0,120.0,29.0,35.0,56.0,82.0
+BARMM,2,Dry season,Reaper,"(2, 4]",59.0,67.0,20.0,22.0,34.0,35.0
+BARMM,2,Wet season,Combined,"(4, 6]",88.0,100.0,25.0,28.0,32.0,42.0
+BARMM,2,Wet season,Manual,"(2, 4]",43.0,84.0,16.0,26.0,19.0,50.0
+BARMM,3,Dry season,Combined,"(0, 2]",57.0,70.0,12.0,14.0,12.0,14.0
+BARMM,3,Dry season,Combined,"(2, 4]",46.0,88.0,12.0,20.0,11.0,16.0
+BARMM,3,Dry season,Combined,"(4, 6]",90.0,124.0,19.0,30.0,17.0,21.0
+BARMM,3,Dry season,Combined,"(6, 8]",137.0,154.0,35.0,39.0,31.0,44.0
+BARMM,3,Dry season,Combined,"(8, 10]",159.0,159.0,40.0,40.0,48.0,48.0
+BARMM,3,Dry season,Manual,"(0, 2]",57.0,70.0,15.0,18.0,18.0,21.0
+BARMM,3,Dry season,Manual,"(2, 4]",57.0,80.0,15.0,21.0,18.0,23.0
+BARMM,3,Dry season,Manual,"(4, 6]",84.0,110.0,22.0,31.0,24.0,66.0
+BARMM,3,Dry season,Reaper,"(2, 4]",57.0,57.0,15.0,15.0,18.0,18.0
+BARMM,3,Dry season,Reaper,"(4, 6]",90.0,92.0,23.0,28.0,26.0,58.0
+BARMM,3,Wet season,Combined,"(0, 2]",43.0,43.0,14.0,14.0,10.0,10.0
+BARMM,3,Wet season,Combined,"(2, 4]",74.0,74.0,21.0,21.0,22.0,22.0
+BARMM,3,Wet season,Combined,"(4, 6]",95.0,116.0,25.0,31.0,17.0,52.0
+BARMM,3,Wet season,Combined,"(6, 8]",126.0,126.0,32.0,32.0,36.0,36.0
+BARMM,3,Wet season,Manual,"(2, 4]",67.0,67.0,18.0,18.0,20.0,20.0
+BARMM,3,Wet season,Manual,"(4, 6]",95.0,95.0,28.0,28.0,40.0,40.0
+BARMM,4,Dry season,Combined,"(4, 6]",118.0,118.0,29.0,29.0,21.0,21.0
+BARMM,4,Dry season,Manual,"(2, 4]",57.0,74.0,15.0,19.0,18.0,22.0
+BARMM,4,Dry season,Manual,"(4, 6]",108.0,108.0,30.0,30.0,30.0,30.0
+BARMM,4,Dry season,Manual,"(6, 8]",133.0,133.0,37.0,37.0,50.0,50.0
+BARMM,4,Dry season,Reaper,"(2, 4]",57.0,57.0,15.0,15.0,18.0,18.0
+BARMM,4,Dry season,Reaper,"(4, 6]",116.0,116.0,32.0,32.0,36.0,36.0
+BARMM,4,Wet season,Combined,"(6, 8]",133.0,133.0,34.0,34.0,42.0,42.0
+BARMM,4,Wet season,Manual,"(0, 2]",57.0,57.0,15.0,15.0,18.0,18.0
+BARMM,4,Wet season,Manual,"(4, 6]",100.0,113.0,29.0,32.0,44.0,54.0
+BARMM,5,Dry season,Manual,"(2, 4]",19.0,19.0,10.0,10.0,17.0,17.0
+BARMM,5,Wet season,Manual,"(0, 2]",43.0,43.0,18.0,18.0,31.0,31.0
+BARMM,6,Dry season,Combined,"(0, 2]",46.0,46.0,14.0,14.0,11.0,11.0
+BARMM,6,Dry season,Manual,"(2, 4]",82.0,82.0,26.0,26.0,52.0,52.0
+BARMM,6,Wet season,Manual,"(2, 4]",66.0,84.0,22.0,26.0,37.0,50.0
+CALABARZON,0,Dry season,Combined,"(0, 2]",46.0,57.0,10.0,12.0,10.0,12.0
+CALABARZON,0,Dry season,Combined,"(2, 4]",46.0,100.0,10.0,25.0,0.0,25.0
+CALABARZON,0,Dry season,Combined,"(4, 6]",59.0,133.0,10.0,33.0,0.0,33.0
+CALABARZON,0,Dry season,Combined,"(6, 8]",96.0,161.0,20.0,40.0,0.0,44.0
+CALABARZON,0,Dry season,Combined,"(8, 10]",116.0,172.0,27.0,45.0,27.0,58.0
+CALABARZON,0,Dry season,Manual,"(0, 2]",33.0,70.0,10.0,18.0,0.0,18.0
+CALABARZON,0,Dry season,Manual,"(2, 4]",33.0,100.0,10.0,29.0,0.0,29.0
+CALABARZON,0,Dry season,Manual,"(4, 6]",49.0,139.0,11.0,38.0,0.0,54.0
+CALABARZON,0,Dry season,Manual,"(6, 8]",96.0,175.0,26.0,46.0,26.0,83.0
+CALABARZON,0,Dry season,Manual,"(8, 10]",118.0,175.0,31.0,46.0,45.0,86.0
+CALABARZON,0,Dry season,Manual,"(10, 13]",141.0,186.0,39.0,52.0,56.0,101.0
+CALABARZON,0,Dry season,Reaper,"(0, 2]",46.0,70.0,10.0,18.0,10.0,18.0
+CALABARZON,0,Dry season,Reaper,"(2, 4]",57.0,92.0,15.0,24.0,15.0,24.0
+CALABARZON,0,Dry season,Reaper,"(4, 6]",84.0,120.0,19.0,34.0,19.0,45.0
+CALABARZON,0,Wet season,Combined,"(0, 2]",56.0,70.0,10.0,14.0,10.0,14.0
+CALABARZON,0,Wet season,Combined,"(2, 4]",39.0,82.0,10.0,17.0,0.0,17.0
+CALABARZON,0,Wet season,Combined,"(4, 6]",54.0,110.0,10.0,27.0,0.0,27.0
+CALABARZON,0,Wet season,Combined,"(6, 8]",74.0,116.0,15.0,29.0,0.0,29.0
+CALABARZON,0,Wet season,Combined,"(8, 10]",80.0,106.0,18.0,25.0,14.0,25.0
+CALABARZON,0,Wet season,Manual,"(0, 2]",45.0,82.0,10.0,20.0,0.0,21.0
+CALABARZON,0,Wet season,Manual,"(2, 4]",33.0,82.0,10.0,21.0,0.0,36.0
+CALABARZON,0,Wet season,Manual,"(4, 6]",53.0,118.0,10.0,33.0,0.0,55.0
+CALABARZON,0,Wet season,Manual,"(6, 8]",72.0,137.0,16.0,37.0,16.0,67.0
+CALABARZON,0,Wet season,Manual,"(8, 10]",72.0,116.0,20.0,32.0,20.0,51.0
+CALABARZON,0,Wet season,Manual,"(10, 13]",80.0,84.0,21.0,23.0,21.0,35.0
+CALABARZON,0,Wet season,Reaper,"(0, 2]",57.0,70.0,15.0,18.0,15.0,21.0
+CALABARZON,0,Wet season,Reaper,"(2, 4]",57.0,82.0,13.0,21.0,13.0,34.0
+CALABARZON,0,Wet season,Reaper,"(4, 6]",64.0,106.0,14.0,31.0,14.0,55.0
+CALABARZON,0,Wet season,Reaper,"(6, 8]",82.0,106.0,23.0,30.0,33.0,43.0
+CALABARZON,1,Dry season,Combined,"(0, 2]",57.0,57.0,12.0,12.0,12.0,12.0
+CALABARZON,1,Dry season,Combined,"(2, 4]",57.0,88.0,11.0,18.0,11.0,18.0
+CALABARZON,1,Dry season,Combined,"(4, 6]",80.0,118.0,17.0,30.0,16.0,26.0
+CALABARZON,1,Dry season,Combined,"(6, 8]",133.0,133.0,34.0,34.0,24.0,24.0
+CALABARZON,1,Dry season,Manual,"(0, 2]",43.0,70.0,10.0,18.0,10.0,18.0
+CALABARZON,1,Dry season,Manual,"(2, 4]",39.0,90.0,10.0,24.0,10.0,46.0
+CALABARZON,1,Dry season,Manual,"(4, 6]",59.0,133.0,14.0,37.0,14.0,54.0
+CALABARZON,1,Dry season,Manual,"(6, 8]",116.0,139.0,31.0,38.0,43.0,55.0
+CALABARZON,1,Dry season,Manual,"(10, 13]",139.0,139.0,38.0,38.0,56.0,56.0
+CALABARZON,1,Dry season,Reaper,"(0, 2]",57.0,57.0,15.0,15.0,18.0,18.0
+CALABARZON,1,Dry season,Reaper,"(2, 4]",62.0,62.0,16.0,16.0,19.0,19.0
+CALABARZON,1,Dry season,Reaper,"(4, 6]",95.0,116.0,28.0,34.0,28.0,72.0
+CALABARZON,1,Wet season,Combined,"(0, 2]",57.0,57.0,12.0,12.0,12.0,12.0
+CALABARZON,1,Wet season,Combined,"(2, 4]",57.0,70.0,10.0,16.0,0.0,14.0
+CALABARZON,1,Wet season,Combined,"(4, 6]",61.0,106.0,10.0,27.0,10.0,40.0
+CALABARZON,1,Wet season,Combined,"(6, 8]",84.0,106.0,19.0,25.0,19.0,25.0
+CALABARZON,1,Wet season,Combined,"(8, 10]",84.0,84.0,19.0,19.0,19.0,19.0
+CALABARZON,1,Wet season,Manual,"(0, 2]",43.0,82.0,12.0,20.0,12.0,20.0
+CALABARZON,1,Wet season,Manual,"(2, 4]",43.0,82.0,11.0,21.0,0.0,34.0
+CALABARZON,1,Wet season,Manual,"(4, 6]",74.0,106.0,19.0,30.0,19.0,47.0
+CALABARZON,1,Wet season,Manual,"(6, 8]",84.0,92.0,23.0,23.0,23.0,34.0
+CALABARZON,1,Wet season,Manual,"(8, 10]",106.0,106.0,30.0,30.0,47.0,48.0
+CALABARZON,2,Dry season,Combined,"(2, 4]",61.0,82.0,23.0,26.0,23.0,39.0
+CALABARZON,2,Dry season,Combined,"(4, 6]",66.0,116.0,27.0,33.0,43.0,62.0
+CALABARZON,2,Dry season,Manual,"(0, 2]",43.0,70.0,14.0,18.0,14.0,30.0
+CALABARZON,2,Dry season,Manual,"(2, 4]",33.0,80.0,15.0,26.0,15.0,55.0
+CALABARZON,2,Dry season,Manual,"(4, 6]",51.0,116.0,24.0,37.0,24.0,78.0
+CALABARZON,2,Dry season,Manual,"(6, 8]",114.0,114.0,39.0,39.0,84.0,84.0
+CALABARZON,2,Wet season,Combined,"(0, 2]",43.0,43.0,13.0,15.0,13.0,15.0
+CALABARZON,2,Wet season,Combined,"(2, 4]",43.0,74.0,14.0,22.0,14.0,22.0
+CALABARZON,2,Wet season,Combined,"(4, 6]",59.0,90.0,23.0,25.0,23.0,35.0
+CALABARZON,2,Wet season,Manual,"(0, 2]",43.0,70.0,12.0,18.0,12.0,27.0
+CALABARZON,2,Wet season,Manual,"(2, 4]",43.0,77.0,12.0,25.0,12.0,51.0
+CALABARZON,2,Wet season,Manual,"(4, 6]",77.0,110.0,23.0,34.0,34.0,73.0
+CALABARZON,2,Wet season,Manual,"(6, 8]",106.0,106.0,32.0,32.0,66.0,66.0
+CALABARZON,2,Wet season,Reaper,"(0, 2]",43.0,43.0,16.0,16.0,16.0,16.0
+CALABARZON,2,Wet season,Reaper,"(2, 4]",43.0,74.0,16.0,24.0,16.0,46.0
+CALABARZON,3,Dry season,Combined,"(0, 2]",57.0,70.0,11.0,14.0,11.0,14.0
+CALABARZON,3,Dry season,Combined,"(2, 4]",57.0,90.0,10.0,20.0,10.0,20.0
+CALABARZON,3,Dry season,Combined,"(4, 6]",72.0,128.0,10.0,33.0,0.0,33.0
+CALABARZON,3,Dry season,Combined,"(6, 8]",133.0,173.0,33.0,43.0,33.0,43.0
+CALABARZON,3,Dry season,Manual,"(0, 2]",57.0,70.0,10.0,18.0,10.0,18.0
+CALABARZON,3,Dry season,Manual,"(2, 4]",46.0,100.0,10.0,29.0,0.0,29.0
+CALABARZON,3,Dry season,Manual,"(4, 6]",72.0,128.0,17.0,36.0,17.0,52.0
+CALABARZON,3,Dry season,Manual,"(6, 8]",131.0,165.0,36.0,45.0,48.0,77.0
+CALABARZON,3,Dry season,Manual,"(8, 10]",137.0,176.0,37.0,46.0,54.0,87.0
+CALABARZON,3,Dry season,Reaper,"(2, 4]",62.0,90.0,15.0,23.0,15.0,23.0
+CALABARZON,3,Dry season,Reaper,"(4, 6]",90.0,118.0,20.0,33.0,20.0,33.0
+CALABARZON,3,Wet season,Combined,"(0, 2]",57.0,82.0,12.0,16.0,12.0,16.0
+CALABARZON,3,Wet season,Combined,"(2, 4]",57.0,82.0,10.0,17.0,11.0,17.0
+CALABARZON,3,Wet season,Combined,"(4, 6]",61.0,110.0,10.0,27.0,10.0,26.0
+CALABARZON,3,Wet season,Combined,"(6, 8]",74.0,106.0,17.0,27.0,13.0,27.0
+CALABARZON,3,Wet season,Manual,"(0, 2]",57.0,82.0,15.0,20.0,15.0,21.0
+CALABARZON,3,Wet season,Manual,"(2, 4]",57.0,82.0,11.0,21.0,0.0,30.0
+CALABARZON,3,Wet season,Manual,"(4, 6]",72.0,106.0,19.0,30.0,19.0,45.0
+CALABARZON,3,Wet season,Manual,"(6, 8]",90.0,106.0,23.0,30.0,23.0,43.0
+CALABARZON,3,Wet season,Manual,"(8, 10]",106.0,106.0,30.0,30.0,47.0,47.0
+CALABARZON,3,Wet season,Reaper,"(0, 2]",33.0,82.0,10.0,20.0,10.0,21.0
+CALABARZON,3,Wet season,Reaper,"(2, 4]",57.0,82.0,15.0,21.0,15.0,34.0
+CALABARZON,3,Wet season,Reaper,"(4, 6]",77.0,88.0,19.0,22.0,19.0,38.0
+CALABARZON,5,Dry season,Combined,"(4, 6]",53.0,86.0,10.0,11.0,10.0,11.0
+CALABARZON,5,Dry season,Combined,"(6, 8]",91.0,117.0,12.0,16.0,12.0,16.0
+CALABARZON,5,Dry season,Combined,"(8, 10]",115.0,125.0,10.0,15.0,10.0,15.0
+CALABARZON,5,Dry season,Manual,"(0, 2]",10.0,37.0,10.0,10.0,10.0,20.0
+CALABARZON,5,Dry season,Manual,"(2, 4]",10.0,47.0,10.0,16.0,0.0,21.0
+CALABARZON,5,Dry season,Manual,"(4, 6]",37.0,100.0,10.0,28.0,0.0,43.0
+CALABARZON,5,Dry season,Manual,"(6, 8]",84.0,110.0,16.0,29.0,16.0,56.0
+CALABARZON,5,Dry season,Manual,"(8, 10]",99.0,133.0,25.0,32.0,25.0,32.0
+CALABARZON,5,Dry season,Reaper,"(2, 4]",10.0,10.0,10.0,10.0,10.0,10.0
+CALABARZON,5,Dry season,Reaper,"(4, 6]",50.0,70.0,11.0,16.0,11.0,24.0
+CALABARZON,5,Wet season,Combined,"(0, 2]",43.0,70.0,15.0,19.0,15.0,27.0
+CALABARZON,5,Wet season,Combined,"(2, 4]",43.0,77.0,10.0,19.0,10.0,19.0
+CALABARZON,5,Wet season,Combined,"(4, 6]",59.0,98.0,10.0,22.0,10.0,22.0
+CALABARZON,5,Wet season,Combined,"(6, 8]",80.0,106.0,14.0,22.0,14.0,22.0
+CALABARZON,5,Wet season,Manual,"(0, 2]",30.0,70.0,10.0,20.0,0.0,41.0
+CALABARZON,5,Wet season,Manual,"(2, 4]",33.0,80.0,10.0,25.0,0.0,54.0
+CALABARZON,5,Wet season,Manual,"(4, 6]",54.0,108.0,13.0,29.0,13.0,41.0
+CALABARZON,5,Wet season,Manual,"(6, 8]",80.0,118.0,21.0,35.0,23.0,76.0
+CALABARZON,5,Wet season,Manual,"(8, 10]",102.0,102.0,33.0,33.0,74.0,74.0
+CALABARZON,5,Wet season,Reaper,"(0, 2]",43.0,70.0,17.0,20.0,17.0,35.0
+CALABARZON,5,Wet season,Reaper,"(2, 4]",43.0,77.0,16.0,22.0,16.0,22.0
+CALABARZON,5,Wet season,Reaper,"(4, 6]",82.0,106.0,21.0,28.0,21.0,40.0
+CALABARZON,6,Dry season,Combined,"(2, 4]",56.0,77.0,17.0,25.0,17.0,45.0
+CALABARZON,6,Dry season,Combined,"(4, 6]",64.0,80.0,26.0,30.0,41.0,50.0
+CALABARZON,6,Dry season,Combined,"(6, 8]",133.0,133.0,36.0,36.0,69.0,69.0
+CALABARZON,6,Dry season,Manual,"(0, 2]",30.0,59.0,10.0,20.0,0.0,32.0
+CALABARZON,6,Dry season,Manual,"(2, 4]",32.0,92.0,16.0,28.0,16.0,57.0
+CALABARZON,6,Dry season,Manual,"(4, 6]",49.0,124.0,24.0,37.0,41.0,81.0
+CALABARZON,6,Dry season,Manual,"(6, 8]",146.0,159.0,40.0,44.0,85.0,97.0
+CALABARZON,6,Dry season,Reaper,"(2, 4]",84.0,84.0,26.0,26.0,49.0,49.0
+CALABARZON,6,Dry season,Reaper,"(4, 6]",116.0,116.0,34.0,34.0,70.0,70.0
+CALABARZON,6,Wet season,Combined,"(0, 2]",43.0,43.0,13.0,15.0,13.0,15.0
+CALABARZON,6,Wet season,Combined,"(2, 4]",43.0,77.0,14.0,22.0,11.0,27.0
+CALABARZON,6,Wet season,Combined,"(4, 6]",61.0,110.0,22.0,31.0,22.0,56.0
+CALABARZON,6,Wet season,Manual,"(0, 2]",30.0,44.0,10.0,17.0,0.0,17.0
+CALABARZON,6,Wet season,Manual,"(2, 4]",30.0,80.0,10.0,25.0,0.0,48.0
+CALABARZON,6,Wet season,Manual,"(4, 6]",64.0,116.0,18.0,33.0,26.0,69.0
+CALABARZON,6,Wet season,Manual,"(6, 8]",80.0,116.0,25.0,34.0,44.0,70.0
+CALABARZON,6,Wet season,Manual,"(8, 10]",118.0,118.0,34.0,34.0,69.0,69.0
+CALABARZON,6,Wet season,Reaper,"(2, 4]",43.0,74.0,16.0,24.0,16.0,46.0
+CAR,0,Dry season,Combined,"(0, 2]",45.0,82.0,10.0,22.0,0.0,22.0
+CAR,0,Dry season,Combined,"(2, 4]",56.0,100.0,10.0,29.0,0.0,42.0
+CAR,0,Dry season,Combined,"(4, 6]",80.0,141.0,14.0,37.0,0.0,60.0
+CAR,0,Dry season,Combined,"(6, 8]",128.0,175.0,25.0,44.0,25.0,69.0
+CAR,0,Dry season,Combined,"(8, 10]",152.0,186.0,29.0,49.0,29.0,76.0
+CAR,0,Dry season,Combined,"(10, 13]",186.0,186.0,30.0,43.0,30.0,43.0
+CAR,0,Dry season,Manual,"(0, 2]",53.0,82.0,10.0,22.0,0.0,24.0
+CAR,0,Dry season,Manual,"(2, 4]",48.0,116.0,10.0,33.0,0.0,50.0
+CAR,0,Dry season,Manual,"(4, 6]",72.0,152.0,16.0,39.0,0.0,63.0
+CAR,0,Dry season,Manual,"(6, 8]",124.0,175.0,28.0,47.0,28.0,85.0
+CAR,0,Dry season,Manual,"(8, 10]",160.0,186.0,32.0,50.0,32.0,87.0
+CAR,0,Dry season,Manual,"(10, 13]",165.0,186.0,32.0,46.0,32.0,47.0
+CAR,0,Dry season,Reaper,"(0, 2]",48.0,82.0,10.0,23.0,0.0,23.0
+CAR,0,Dry season,Reaper,"(2, 4]",57.0,98.0,12.0,28.0,12.0,45.0
+CAR,0,Dry season,Reaper,"(4, 6]",87.0,139.0,18.0,38.0,0.0,69.0
+CAR,0,Dry season,Reaper,"(6, 8]",136.0,173.0,32.0,46.0,32.0,86.0
+CAR,0,Dry season,Reaper,"(8, 10]",165.0,186.0,38.0,55.0,38.0,118.0
+CAR,0,Dry season,Reaper,"(10, 13]",171.0,186.0,39.0,43.0,39.0,52.0
+CAR,0,Wet season,Combined,"(0, 2]",57.0,82.0,10.0,24.0,12.0,52.0
+CAR,0,Wet season,Combined,"(2, 4]",56.0,88.0,10.0,24.0,0.0,52.0
+CAR,0,Wet season,Combined,"(4, 6]",80.0,124.0,10.0,33.0,10.0,58.0
+CAR,0,Wet season,Combined,"(6, 8]",92.0,137.0,18.0,35.0,18.0,70.0
+CAR,0,Wet season,Combined,"(8, 10]",102.0,128.0,12.0,26.0,12.0,25.0
+CAR,0,Wet season,Manual,"(0, 2]",44.0,82.0,10.0,23.0,10.0,44.0
+CAR,0,Wet season,Manual,"(2, 4]",56.0,84.0,11.0,22.0,10.0,44.0
+CAR,0,Wet season,Manual,"(4, 6]",72.0,120.0,14.0,32.0,14.0,54.0
+CAR,0,Wet season,Manual,"(6, 8]",91.0,131.0,10.0,36.0,0.0,72.0
+CAR,0,Wet season,Manual,"(8, 10]",108.0,124.0,22.0,30.0,22.0,30.0
+CAR,0,Wet season,Reaper,"(0, 2]",82.0,82.0,20.0,23.0,37.0,47.0
+CAR,0,Wet season,Reaper,"(2, 4]",56.0,82.0,15.0,22.0,15.0,35.0
+CAR,0,Wet season,Reaper,"(4, 6]",77.0,120.0,19.0,34.0,19.0,54.0
+CAR,0,Wet season,Reaper,"(6, 8]",116.0,126.0,29.0,34.0,29.0,58.0
+CAR,0,Wet season,Reaper,"(8, 10]",120.0,128.0,29.0,31.0,31.0,31.0
+CAR,1,Dry season,Combined,"(2, 4]",80.0,100.0,14.0,24.0,14.0,49.0
+CAR,1,Dry season,Combined,"(4, 6]",98.0,139.0,23.0,36.0,23.0,66.0
+CAR,1,Dry season,Combined,"(6, 8]",143.0,173.0,28.0,39.0,28.0,39.0
+CAR,1,Dry season,Manual,"(0, 2]",44.0,82.0,15.0,23.0,15.0,31.0
+CAR,1,Dry season,Manual,"(2, 4]",64.0,98.0,15.0,29.0,15.0,29.0
+CAR,1,Dry season,Manual,"(4, 6]",92.0,113.0,21.0,30.0,21.0,30.0
+CAR,1,Dry season,Manual,"(6, 8]",146.0,146.0,38.0,38.0,58.0,58.0
+CAR,1,Dry season,Manual,"(8, 10]",172.0,172.0,40.0,40.0,44.0,44.0
+CAR,1,Wet season,Combined,"(2, 4]",70.0,82.0,13.0,17.0,13.0,17.0
+CAR,1,Wet season,Combined,"(4, 6]",77.0,116.0,12.0,31.0,12.0,35.0
+CAR,1,Wet season,Combined,"(6, 8]",95.0,95.0,21.0,22.0,21.0,22.0
+CAR,1,Wet season,Manual,"(0, 2]",56.0,56.0,17.0,17.0,26.0,31.0
+CAR,1,Wet season,Manual,"(2, 4]",70.0,80.0,17.0,24.0,17.0,42.0
+CAR,1,Wet season,Manual,"(4, 6]",88.0,116.0,22.0,31.0,22.0,37.0
+CAR,1,Wet season,Manual,"(8, 10]",120.0,120.0,33.0,33.0,55.0,55.0
+CAR,1,Wet season,Reaper,"(2, 4]",30.0,82.0,10.0,22.0,0.0,36.0
+CAR,1,Wet season,Reaper,"(4, 6]",95.0,95.0,27.0,27.0,27.0,27.0
+CAR,2,Dry season,Combined,"(0, 2]",43.0,46.0,12.0,17.0,0.0,29.0
+CAR,2,Dry season,Combined,"(2, 4]",43.0,92.0,10.0,25.0,0.0,48.0
+CAR,2,Dry season,Combined,"(4, 6]",88.0,137.0,18.0,33.0,18.0,65.0
+CAR,2,Dry season,Combined,"(6, 8]",137.0,154.0,26.0,38.0,26.0,65.0
+CAR,2,Dry season,Manual,"(0, 2]",43.0,62.0,14.0,22.0,14.0,43.0
+CAR,2,Dry season,Manual,"(2, 4]",44.0,106.0,15.0,30.0,15.0,57.0
+CAR,2,Dry season,Manual,"(4, 6]",82.0,146.0,23.0,40.0,26.0,83.0
+CAR,2,Dry season,Manual,"(6, 8]",128.0,175.0,33.0,43.0,52.0,97.0
+CAR,2,Dry season,Reaper,"(0, 2]",44.0,44.0,15.0,15.0,15.0,15.0
+CAR,2,Dry season,Reaper,"(2, 4]",52.0,92.0,16.0,24.0,16.0,42.0
+CAR,2,Dry season,Reaper,"(4, 6]",90.0,133.0,23.0,34.0,23.0,70.0
+CAR,2,Dry season,Reaper,"(6, 8]",131.0,175.0,31.0,39.0,48.0,81.0
+CAR,2,Wet season,Combined,"(0, 2]",43.0,44.0,11.0,17.0,0.0,17.0
+CAR,2,Wet season,Combined,"(2, 4]",43.0,77.0,11.0,23.0,0.0,50.0
+CAR,2,Wet season,Combined,"(4, 6]",77.0,120.0,10.0,28.0,10.0,54.0
+CAR,2,Wet season,Combined,"(6, 8]",108.0,131.0,16.0,35.0,16.0,68.0
+CAR,2,Wet season,Combined,"(8, 10]",116.0,124.0,17.0,23.0,17.0,23.0
+CAR,2,Wet season,Manual,"(0, 2]",43.0,44.0,14.0,18.0,14.0,32.0
+CAR,2,Wet season,Manual,"(2, 4]",43.0,80.0,14.0,25.0,14.0,52.0
+CAR,2,Wet season,Manual,"(4, 6]",74.0,116.0,19.0,32.0,19.0,63.0
+CAR,2,Wet season,Manual,"(6, 8]",108.0,120.0,27.0,30.0,27.0,38.0
+CAR,2,Wet season,Reaper,"(0, 2]",43.0,43.0,17.0,18.0,28.0,32.0
+CAR,2,Wet season,Reaper,"(2, 4]",44.0,77.0,17.0,23.0,18.0,32.0
+CAR,2,Wet season,Reaper,"(4, 6]",90.0,95.0,25.0,26.0,37.0,38.0
+CAR,2,Wet season,Reaper,"(6, 8]",124.0,124.0,32.0,32.0,49.0,49.0
+CAR,3,Dry season,Combined,"(0, 2]",70.0,70.0,16.0,18.0,16.0,18.0
+CAR,3,Dry season,Combined,"(2, 4]",62.0,92.0,10.0,22.0,10.0,21.0
+CAR,3,Dry season,Combined,"(4, 6]",88.0,141.0,18.0,34.0,18.0,47.0
+CAR,3,Dry season,Combined,"(6, 8]",128.0,167.0,28.0,40.0,28.0,47.0
+CAR,3,Dry season,Combined,"(8, 10]",170.0,172.0,44.0,45.0,44.0,45.0
+CAR,3,Dry season,Combined,"(10, 13]",169.0,169.0,32.0,32.0,32.0,32.0
+CAR,3,Dry season,Manual,"(0, 2]",70.0,70.0,20.0,20.0,20.0,20.0
+CAR,3,Dry season,Manual,"(2, 4]",70.0,82.0,17.0,23.0,17.0,28.0
+CAR,3,Dry season,Manual,"(4, 6]",98.0,116.0,28.0,30.0,28.0,30.0
+CAR,3,Dry season,Manual,"(6, 8]",141.0,141.0,39.0,39.0,58.0,58.0
+CAR,3,Wet season,Combined,"(0, 2]",70.0,82.0,14.0,20.0,14.0,20.0
+CAR,3,Wet season,Combined,"(2, 4]",70.0,82.0,10.0,20.0,10.0,20.0
+CAR,3,Wet season,Combined,"(4, 6]",82.0,120.0,11.0,31.0,0.0,45.0
+CAR,3,Wet season,Combined,"(6, 8]",102.0,120.0,16.0,32.0,16.0,44.0
+CAR,3,Wet season,Combined,"(8, 10]",113.0,120.0,18.0,19.0,18.0,19.0
+CAR,3,Wet season,Manual,"(0, 2]",70.0,70.0,19.0,19.0,19.0,19.0
+CAR,3,Wet season,Manual,"(2, 4]",70.0,82.0,18.0,21.0,18.0,21.0
+CAR,3,Wet season,Reaper,"(2, 4]",62.0,82.0,16.0,22.0,30.0,39.0
+CAR,3,Wet season,Reaper,"(4, 6]",67.0,120.0,10.0,29.0,0.0,39.0
+CAR,3,Wet season,Reaper,"(6, 8]",120.0,120.0,29.0,32.0,29.0,32.0
+CAR,5,Dry season,Combined,"(2, 4]",14.0,42.0,10.0,11.0,0.0,11.0
+CAR,5,Dry season,Combined,"(4, 6]",50.0,91.0,10.0,16.0,10.0,16.0
+CAR,5,Dry season,Combined,"(6, 8]",89.0,117.0,10.0,16.0,10.0,16.0
+CAR,5,Dry season,Combined,"(8, 10]",115.0,121.0,18.0,28.0,18.0,28.0
+CAR,5,Dry season,Combined,"(10, 13]",105.0,105.0,12.0,12.0,12.0,12.0
+CAR,5,Dry season,Manual,"(0, 2]",37.0,37.0,10.0,10.0,10.0,20.0
+CAR,5,Dry season,Manual,"(2, 4]",10.0,70.0,10.0,15.0,10.0,21.0
+CAR,5,Dry season,Manual,"(4, 6]",27.0,99.0,10.0,25.0,9.0,37.0
+CAR,5,Dry season,Manual,"(6, 8]",73.0,110.0,12.0,26.0,12.0,35.0
+CAR,5,Dry season,Manual,"(8, 10]",94.0,141.0,20.0,29.0,20.0,39.0
+CAR,5,Dry season,Manual,"(10, 13]",102.0,121.0,16.0,23.0,16.0,23.0
+CAR,5,Dry season,Reaper,"(2, 4]",29.0,29.0,12.0,12.0,12.0,12.0
+CAR,5,Dry season,Reaper,"(4, 6]",58.0,78.0,16.0,16.0,16.0,27.0
+CAR,5,Wet season,Combined,"(0, 2]",44.0,82.0,13.0,21.0,13.0,30.0
+CAR,5,Wet season,Combined,"(2, 4]",44.0,82.0,11.0,20.0,0.0,22.0
+CAR,5,Wet season,Combined,"(4, 6]",84.0,118.0,17.0,26.0,16.0,26.0
+CAR,5,Wet season,Combined,"(6, 8]",108.0,128.0,21.0,27.0,21.0,27.0
+CAR,5,Wet season,Manual,"(0, 2]",43.0,70.0,14.0,20.0,14.0,39.0
+CAR,5,Wet season,Manual,"(2, 4]",43.0,84.0,11.0,25.0,11.0,54.0
+CAR,5,Wet season,Manual,"(4, 6]",77.0,116.0,17.0,31.0,17.0,46.0
+CAR,5,Wet season,Manual,"(6, 8]",102.0,124.0,25.0,32.0,25.0,47.0
+CAR,5,Wet season,Manual,"(8, 10]",118.0,120.0,27.0,29.0,27.0,29.0
+CAR,5,Wet season,Reaper,"(0, 2]",43.0,43.0,17.0,17.0,17.0,28.0
+CAR,5,Wet season,Reaper,"(2, 4]",43.0,77.0,16.0,23.0,16.0,50.0
+CAR,5,Wet season,Reaper,"(4, 6]",80.0,84.0,20.0,24.0,21.0,33.0
+CAR,5,Wet season,Reaper,"(6, 8]",108.0,108.0,27.0,27.0,29.0,29.0
+CAR,6,Dry season,Combined,"(0, 2]",43.0,57.0,10.0,18.0,10.0,33.0
+CAR,6,Dry season,Combined,"(2, 4]",46.0,98.0,10.0,28.0,0.0,59.0
+CAR,6,Dry season,Combined,"(4, 6]",84.0,137.0,18.0,36.0,0.0,79.0
+CAR,6,Dry season,Combined,"(6, 8]",128.0,170.0,27.0,42.0,26.0,82.0
+CAR,6,Dry season,Combined,"(8, 10]",173.0,173.0,33.0,43.0,33.0,87.0
+CAR,6,Dry season,Manual,"(0, 2]",43.0,46.0,15.0,18.0,26.0,33.0
+CAR,6,Dry season,Manual,"(2, 4]",44.0,113.0,16.0,33.0,16.0,70.0
+CAR,6,Dry season,Manual,"(4, 6]",88.0,137.0,25.0,37.0,26.0,77.0
+CAR,6,Dry season,Manual,"(6, 8]",133.0,165.0,32.0,41.0,52.0,82.0
+CAR,6,Dry season,Manual,"(10, 13]",170.0,170.0,40.0,40.0,58.0,58.0
+CAR,6,Dry season,Reaper,"(2, 4]",54.0,95.0,17.0,29.0,17.0,62.0
+CAR,6,Dry season,Reaper,"(4, 6]",90.0,131.0,23.0,34.0,23.0,73.0
+CAR,6,Dry season,Reaper,"(6, 8]",143.0,170.0,36.0,44.0,57.0,95.0
+CAR,6,Dry season,Reaper,"(10, 13]",186.0,186.0,44.0,44.0,64.0,64.0
+CAR,6,Wet season,Combined,"(0, 2]",43.0,44.0,15.0,17.0,15.0,17.0
+CAR,6,Wet season,Combined,"(2, 4]",43.0,80.0,10.0,24.0,10.0,48.0
+CAR,6,Wet season,Combined,"(4, 6]",77.0,120.0,16.0,29.0,15.0,56.0
+CAR,6,Wet season,Combined,"(6, 8]",108.0,124.0,21.0,28.0,19.0,28.0
+CAR,6,Wet season,Combined,"(8, 10]",124.0,124.0,22.0,22.0,22.0,22.0
+CAR,6,Wet season,Manual,"(0, 2]",30.0,44.0,10.0,18.0,0.0,30.0
+CAR,6,Wet season,Manual,"(2, 4]",43.0,80.0,12.0,25.0,12.0,50.0
+CAR,6,Wet season,Manual,"(4, 6]",80.0,110.0,20.0,29.0,21.0,50.0
+CAR,6,Wet season,Manual,"(6, 8]",108.0,116.0,28.0,29.0,28.0,50.0
+CAR,6,Wet season,Reaper,"(0, 2]",43.0,43.0,16.0,16.0,16.0,16.0
+CAR,6,Wet season,Reaper,"(2, 4]",46.0,46.0,17.0,17.0,17.0,17.0
+CAR,6,Wet season,Reaper,"(4, 6]",90.0,120.0,23.0,33.0,25.0,57.0
+CAR,6,Wet season,Reaper,"(6, 8]",116.0,133.0,28.0,34.0,28.0,50.0
+MIMAROPA,0,Dry season,Combined,"(0, 2]",57.0,82.0,10.0,16.0,0.0,16.0
+MIMAROPA,0,Dry season,Combined,"(2, 4]",52.0,102.0,10.0,26.0,0.0,26.0
+MIMAROPA,0,Dry season,Combined,"(4, 6]",72.0,146.0,14.0,36.0,0.0,36.0
+MIMAROPA,0,Dry season,Combined,"(6, 8]",124.0,175.0,29.0,43.0,29.0,50.0
+MIMAROPA,0,Dry season,Combined,"(8, 10]",141.0,176.0,35.0,45.0,35.0,54.0
+MIMAROPA,0,Dry season,Combined,"(10, 13]",165.0,186.0,40.0,48.0,40.0,61.0
+MIMAROPA,0,Dry season,Manual,"(0, 2]",56.0,82.0,11.0,20.0,11.0,24.0
+MIMAROPA,0,Dry season,Manual,"(2, 4]",56.0,100.0,11.0,29.0,0.0,29.0
+MIMAROPA,0,Dry season,Manual,"(4, 6]",56.0,133.0,14.0,37.0,0.0,52.0
+MIMAROPA,0,Dry season,Manual,"(6, 8]",116.0,173.0,32.0,46.0,32.0,80.0
+MIMAROPA,0,Dry season,Manual,"(8, 10]",131.0,178.0,37.0,47.0,53.0,82.0
+MIMAROPA,0,Dry season,Manual,"(10, 13]",157.0,165.0,40.0,44.0,62.0,71.0
+MIMAROPA,0,Dry season,Reaper,"(0, 2]",57.0,82.0,15.0,20.0,15.0,20.0
+MIMAROPA,0,Dry season,Reaper,"(2, 4]",67.0,88.0,17.0,22.0,18.0,22.0
+MIMAROPA,0,Dry season,Reaper,"(4, 6]",98.0,124.0,28.0,33.0,28.0,33.0
+MIMAROPA,0,Dry season,Reaper,"(8, 10]",159.0,159.0,43.0,43.0,72.0,72.0
+MIMAROPA,0,Wet season,Combined,"(0, 2]",57.0,82.0,10.0,16.0,0.0,16.0
+MIMAROPA,0,Wet season,Combined,"(2, 4]",57.0,84.0,10.0,17.0,0.0,17.0
+MIMAROPA,0,Wet season,Combined,"(4, 6]",72.0,124.0,13.0,32.0,0.0,32.0
+MIMAROPA,0,Wet season,Combined,"(6, 8]",95.0,139.0,22.0,36.0,17.0,57.0
+MIMAROPA,0,Wet season,Combined,"(8, 10]",100.0,131.0,25.0,30.0,20.0,30.0
+MIMAROPA,0,Wet season,Manual,"(0, 2]",47.0,82.0,10.0,20.0,0.0,24.0
+MIMAROPA,0,Wet season,Manual,"(2, 4]",46.0,82.0,10.0,21.0,0.0,30.0
+MIMAROPA,0,Wet season,Manual,"(4, 6]",72.0,128.0,13.0,37.0,13.0,72.0
+MIMAROPA,0,Wet season,Manual,"(6, 8]",77.0,143.0,19.0,40.0,19.0,82.0
+MIMAROPA,0,Wet season,Manual,"(8, 10]",98.0,131.0,26.0,37.0,28.0,70.0
+MIMAROPA,0,Wet season,Manual,"(10, 13]",128.0,128.0,33.0,33.0,55.0,55.0
+MIMAROPA,0,Wet season,Reaper,"(0, 2]",57.0,82.0,15.0,20.0,15.0,24.0
+MIMAROPA,0,Wet season,Reaper,"(2, 4]",67.0,82.0,11.0,20.0,0.0,24.0
+MIMAROPA,0,Wet season,Reaper,"(4, 6]",82.0,124.0,20.0,30.0,20.0,46.0
+MIMAROPA,0,Wet season,Reaper,"(6, 8]",106.0,106.0,29.0,29.0,39.0,39.0
+MIMAROPA,1,Dry season,Combined,"(0, 2]",46.0,46.0,14.0,14.0,14.0,14.0
+MIMAROPA,1,Dry season,Combined,"(2, 4]",57.0,92.0,11.0,21.0,11.0,21.0
+MIMAROPA,1,Dry season,Combined,"(4, 6]",88.0,128.0,18.0,31.0,18.0,31.0
+MIMAROPA,1,Dry season,Combined,"(6, 8]",139.0,139.0,35.0,35.0,35.0,35.0
+MIMAROPA,1,Dry season,Manual,"(0, 2]",43.0,70.0,12.0,18.0,12.0,18.0
+MIMAROPA,1,Dry season,Manual,"(2, 4]",49.0,82.0,15.0,24.0,15.0,38.0
+MIMAROPA,1,Dry season,Manual,"(4, 6]",72.0,116.0,19.0,32.0,19.0,32.0
+MIMAROPA,1,Dry season,Manual,"(6, 8]",148.0,148.0,40.0,40.0,62.0,62.0
+MIMAROPA,1,Dry season,Manual,"(8, 10]",165.0,165.0,43.0,43.0,68.0,68.0
+MIMAROPA,1,Dry season,Reaper,"(0, 2]",43.0,43.0,15.0,15.0,15.0,15.0
+MIMAROPA,1,Dry season,Reaper,"(4, 6]",90.0,126.0,23.0,35.0,23.0,43.0
+MIMAROPA,1,Dry season,Reaper,"(6, 8]",128.0,131.0,35.0,36.0,45.0,47.0
+MIMAROPA,1,Wet season,Combined,"(0, 2]",43.0,82.0,12.0,16.0,12.0,16.0
+MIMAROPA,1,Wet season,Combined,"(2, 4]",43.0,82.0,11.0,18.0,11.0,18.0
+MIMAROPA,1,Wet season,Combined,"(4, 6]",82.0,108.0,16.0,26.0,16.0,26.0
+MIMAROPA,1,Wet season,Combined,"(6, 8]",108.0,128.0,27.0,30.0,22.0,30.0
+MIMAROPA,1,Wet season,Manual,"(0, 2]",43.0,82.0,15.0,20.0,10.0,20.0
+MIMAROPA,1,Wet season,Manual,"(2, 4]",43.0,82.0,15.0,24.0,15.0,40.0
+MIMAROPA,1,Wet season,Manual,"(4, 6]",72.0,108.0,21.0,32.0,21.0,57.0
+MIMAROPA,1,Wet season,Manual,"(6, 8]",102.0,110.0,29.0,31.0,38.0,62.0
+MIMAROPA,1,Wet season,Manual,"(8, 10]",100.0,100.0,26.0,26.0,26.0,26.0
+MIMAROPA,1,Wet season,Reaper,"(0, 2]",82.0,82.0,20.0,20.0,20.0,20.0
+MIMAROPA,1,Wet season,Reaper,"(2, 4]",59.0,82.0,19.0,20.0,19.0,20.0
+MIMAROPA,1,Wet season,Reaper,"(4, 6]",72.0,72.0,20.0,20.0,30.0,30.0
+MIMAROPA,2,Dry season,Combined,"(0, 2]",43.0,82.0,11.0,16.0,11.0,16.0
+MIMAROPA,2,Dry season,Combined,"(2, 4]",43.0,88.0,11.0,22.0,11.0,22.0
+MIMAROPA,2,Dry season,Combined,"(4, 6]",76.0,131.0,15.0,33.0,0.0,39.0
+MIMAROPA,2,Dry season,Combined,"(6, 8]",128.0,169.0,33.0,41.0,33.0,66.0
+MIMAROPA,2,Dry season,Manual,"(0, 2]",43.0,82.0,13.0,20.0,12.0,21.0
+MIMAROPA,2,Dry season,Manual,"(2, 4]",43.0,95.0,10.0,28.0,0.0,54.0
+MIMAROPA,2,Dry season,Manual,"(4, 6]",77.0,131.0,20.0,36.0,16.0,75.0
+MIMAROPA,2,Dry season,Manual,"(6, 8]",126.0,167.0,35.0,45.0,43.0,94.0
+MIMAROPA,2,Dry season,Manual,"(8, 10]",139.0,154.0,39.0,43.0,81.0,92.0
+MIMAROPA,2,Dry season,Manual,"(10, 13]",148.0,148.0,41.0,41.0,64.0,64.0
+MIMAROPA,2,Dry season,Reaper,"(0, 2]",43.0,57.0,15.0,16.0,15.0,16.0
+MIMAROPA,2,Dry season,Reaper,"(2, 4]",70.0,82.0,18.0,23.0,18.0,43.0
+MIMAROPA,2,Dry season,Reaper,"(4, 6]",88.0,95.0,21.0,28.0,21.0,51.0
+MIMAROPA,2,Wet season,Combined,"(0, 2]",43.0,82.0,11.0,16.0,10.0,16.0
+MIMAROPA,2,Wet season,Combined,"(2, 4]",43.0,84.0,10.0,22.0,0.0,20.0
+MIMAROPA,2,Wet season,Combined,"(4, 6]",74.0,118.0,14.0,29.0,0.0,45.0
+MIMAROPA,2,Wet season,Combined,"(6, 8]",106.0,128.0,27.0,32.0,20.0,38.0
+MIMAROPA,2,Wet season,Manual,"(0, 2]",43.0,82.0,11.0,20.0,0.0,24.0
+MIMAROPA,2,Wet season,Manual,"(2, 4]",43.0,82.0,12.0,25.0,10.0,50.0
+MIMAROPA,2,Wet season,Manual,"(4, 6]",72.0,120.0,19.0,34.0,19.0,65.0
+MIMAROPA,2,Wet season,Manual,"(6, 8]",92.0,116.0,26.0,33.0,37.0,68.0
+MIMAROPA,2,Wet season,Manual,"(8, 10]",110.0,110.0,31.0,31.0,46.0,46.0
+MIMAROPA,2,Wet season,Reaper,"(2, 4]",59.0,82.0,19.0,22.0,19.0,22.0
+MIMAROPA,2,Wet season,Reaper,"(4, 6]",80.0,106.0,20.0,29.0,20.0,43.0
+MIMAROPA,2,Wet season,Reaper,"(6, 8]",128.0,128.0,32.0,32.0,50.0,50.0
+MIMAROPA,3,Dry season,Combined,"(0, 2]",43.0,82.0,11.0,16.0,11.0,16.0
+MIMAROPA,3,Dry season,Combined,"(2, 4]",43.0,98.0,11.0,25.0,11.0,25.0
+MIMAROPA,3,Dry season,Combined,"(4, 6]",72.0,131.0,14.0,32.0,0.0,43.0
+MIMAROPA,3,Dry season,Combined,"(6, 8]",128.0,173.0,30.0,44.0,30.0,48.0
+MIMAROPA,3,Dry season,Combined,"(8, 10]",173.0,173.0,43.0,43.0,50.0,50.0
+MIMAROPA,3,Dry season,Combined,"(10, 13]",157.0,157.0,34.0,34.0,34.0,34.0
+MIMAROPA,3,Dry season,Manual,"(0, 2]",43.0,82.0,11.0,20.0,11.0,20.0
+MIMAROPA,3,Dry season,Manual,"(2, 4]",43.0,92.0,10.0,28.0,0.0,52.0
+MIMAROPA,3,Dry season,Manual,"(4, 6]",72.0,128.0,19.0,35.0,19.0,67.0
+MIMAROPA,3,Dry season,Manual,"(6, 8]",116.0,173.0,33.0,46.0,33.0,77.0
+MIMAROPA,3,Dry season,Manual,"(8, 10]",120.0,159.0,33.0,43.0,33.0,72.0
+MIMAROPA,3,Dry season,Reaper,"(2, 4]",57.0,70.0,15.0,18.0,15.0,18.0
+MIMAROPA,3,Dry season,Reaper,"(4, 6]",84.0,98.0,22.0,28.0,22.0,28.0
+MIMAROPA,3,Wet season,Combined,"(0, 2]",43.0,82.0,11.0,16.0,10.0,16.0
+MIMAROPA,3,Wet season,Combined,"(2, 4]",43.0,82.0,10.0,22.0,0.0,22.0
+MIMAROPA,3,Wet season,Combined,"(4, 6]",72.0,118.0,11.0,31.0,0.0,51.0
+MIMAROPA,3,Wet season,Combined,"(6, 8]",90.0,131.0,18.0,31.0,18.0,43.0
+MIMAROPA,3,Wet season,Combined,"(8, 10]",95.0,113.0,22.0,27.0,17.0,27.0
+MIMAROPA,3,Wet season,Manual,"(0, 2]",43.0,82.0,10.0,20.0,0.0,24.0
+MIMAROPA,3,Wet season,Manual,"(2, 4]",43.0,84.0,10.0,26.0,0.0,52.0
+MIMAROPA,3,Wet season,Manual,"(4, 6]",72.0,116.0,18.0,33.0,18.0,61.0
+MIMAROPA,3,Wet season,Manual,"(6, 8]",100.0,116.0,28.0,32.0,28.0,66.0
+MIMAROPA,3,Wet season,Manual,"(8, 10]",100.0,120.0,29.0,34.0,41.0,61.0
+MIMAROPA,3,Wet season,Reaper,"(0, 2]",57.0,82.0,16.0,20.0,16.0,20.0
+MIMAROPA,3,Wet season,Reaper,"(2, 4]",43.0,82.0,15.0,20.0,16.0,20.0
+MIMAROPA,3,Wet season,Reaper,"(4, 6]",82.0,108.0,20.0,30.0,20.0,48.0
+MIMAROPA,3,Wet season,Reaper,"(6, 8]",108.0,108.0,30.0,30.0,42.0,42.0
+MIMAROPA,4,Dry season,Manual,"(0, 2]",57.0,57.0,15.0,15.0,15.0,15.0
+MIMAROPA,4,Dry season,Manual,"(2, 4]",57.0,95.0,12.0,28.0,12.0,28.0
+MIMAROPA,4,Dry season,Manual,"(4, 6]",88.0,128.0,22.0,36.0,22.0,49.0
+MIMAROPA,4,Dry season,Manual,"(6, 8]",128.0,152.0,35.0,41.0,35.0,67.0
+MIMAROPA,4,Dry season,Manual,"(8, 10]",152.0,152.0,41.0,41.0,63.0,66.0
+MIMAROPA,4,Dry season,Reaper,"(4, 6]",120.0,124.0,33.0,34.0,33.0,42.0
+MIMAROPA,4,Wet season,Manual,"(0, 2]",70.0,70.0,18.0,18.0,18.0,18.0
+MIMAROPA,4,Wet season,Manual,"(2, 4]",70.0,77.0,18.0,20.0,18.0,28.0
+MIMAROPA,4,Wet season,Manual,"(4, 6]",77.0,108.0,20.0,30.0,20.0,45.0
+MIMAROPA,4,Wet season,Manual,"(6, 8]",108.0,108.0,30.0,30.0,45.0,45.0
+MIMAROPA,4,Wet season,Reaper,"(2, 4]",70.0,70.0,18.0,18.0,18.0,18.0
+MIMAROPA,4,Wet season,Reaper,"(4, 6]",82.0,102.0,21.0,29.0,21.0,41.0
+MIMAROPA,5,Dry season,Combined,"(4, 6]",50.0,80.0,10.0,17.0,10.0,17.0
+MIMAROPA,5,Dry season,Combined,"(6, 8]",86.0,97.0,11.0,16.0,11.0,16.0
+MIMAROPA,5,Dry season,Combined,"(8, 10]",104.0,104.0,18.0,18.0,18.0,18.0
+MIMAROPA,5,Dry season,Manual,"(0, 2]",37.0,37.0,10.0,10.0,10.0,10.0
+MIMAROPA,5,Dry season,Manual,"(2, 4]",11.0,53.0,10.0,16.0,10.0,22.0
+MIMAROPA,5,Dry season,Manual,"(4, 6]",40.0,78.0,10.0,21.0,10.0,27.0
+MIMAROPA,5,Dry season,Manual,"(6, 8]",91.0,104.0,18.0,20.0,29.0,31.0
+MIMAROPA,5,Dry season,Reaper,"(6, 8]",117.0,117.0,23.0,23.0,33.0,33.0
+MIMAROPA,5,Wet season,Combined,"(0, 2]",43.0,70.0,12.0,19.0,10.0,31.0
+MIMAROPA,5,Wet season,Combined,"(2, 4]",43.0,82.0,12.0,25.0,0.0,60.0
+MIMAROPA,5,Wet season,Combined,"(4, 6]",74.0,116.0,14.0,33.0,10.0,74.0
+MIMAROPA,5,Wet season,Combined,"(6, 8]",98.0,128.0,19.0,27.0,19.0,27.0
+MIMAROPA,5,Wet season,Combined,"(8, 10]",106.0,106.0,17.0,17.0,17.0,17.0
+MIMAROPA,5,Wet season,Manual,"(0, 2]",43.0,70.0,12.0,20.0,12.0,40.0
+MIMAROPA,5,Wet season,Manual,"(2, 4]",43.0,80.0,10.0,23.0,0.0,33.0
+MIMAROPA,5,Wet season,Manual,"(4, 6]",74.0,113.0,20.0,30.0,20.0,42.0
+MIMAROPA,5,Wet season,Manual,"(6, 8]",106.0,131.0,24.0,34.0,24.0,41.0
+MIMAROPA,5,Wet season,Reaper,"(0, 2]",43.0,43.0,17.0,19.0,17.0,39.0
+MIMAROPA,5,Wet season,Reaper,"(2, 4]",43.0,77.0,16.0,23.0,16.0,32.0
+MIMAROPA,5,Wet season,Reaper,"(4, 6]",80.0,98.0,19.0,27.0,19.0,66.0
+MIMAROPA,6,Dry season,Combined,"(0, 2]",43.0,44.0,12.0,13.0,10.0,13.0
+MIMAROPA,6,Dry season,Combined,"(2, 4]",46.0,92.0,14.0,24.0,13.0,24.0
+MIMAROPA,6,Dry season,Combined,"(4, 6]",74.0,128.0,20.0,33.0,20.0,53.0
+MIMAROPA,6,Dry season,Combined,"(6, 8]",128.0,178.0,34.0,44.0,49.0,76.0
+MIMAROPA,6,Dry season,Manual,"(0, 2]",30.0,49.0,10.0,18.0,0.0,21.0
+MIMAROPA,6,Dry season,Manual,"(2, 4]",43.0,90.0,16.0,28.0,16.0,56.0
+MIMAROPA,6,Dry season,Manual,"(4, 6]",84.0,131.0,25.0,36.0,42.0,75.0
+MIMAROPA,6,Dry season,Manual,"(6, 8]",128.0,157.0,33.0,42.0,66.0,98.0
+MIMAROPA,6,Dry season,Manual,"(8, 10]",126.0,173.0,36.0,47.0,78.0,100.0
+MIMAROPA,6,Dry season,Reaper,"(2, 4]",64.0,64.0,20.0,20.0,20.0,20.0
+MIMAROPA,6,Dry season,Reaper,"(4, 6]",92.0,98.0,26.0,28.0,45.0,57.0
+MIMAROPA,6,Wet season,Combined,"(0, 2]",43.0,44.0,11.0,14.0,10.0,14.0
+MIMAROPA,6,Wet season,Combined,"(2, 4]",43.0,77.0,11.0,20.0,10.0,20.0
+MIMAROPA,6,Wet season,Combined,"(4, 6]",76.0,116.0,15.0,29.0,0.0,41.0
+MIMAROPA,6,Wet season,Combined,"(6, 8]",98.0,128.0,25.0,32.0,25.0,45.0
+MIMAROPA,6,Wet season,Manual,"(0, 2]",43.0,46.0,10.0,17.0,0.0,17.0
+MIMAROPA,6,Wet season,Manual,"(2, 4]",43.0,77.0,13.0,24.0,13.0,46.0
+MIMAROPA,6,Wet season,Manual,"(4, 6]",77.0,113.0,19.0,32.0,19.0,66.0
+MIMAROPA,6,Wet season,Manual,"(6, 8]",95.0,120.0,28.0,34.0,48.0,68.0
+MIMAROPA,6,Wet season,Manual,"(8, 10]",108.0,108.0,31.0,31.0,61.0,61.0
+MIMAROPA,6,Wet season,Reaper,"(0, 2]",43.0,44.0,15.0,15.0,15.0,15.0
+MIMAROPA,6,Wet season,Reaper,"(2, 4]",43.0,74.0,10.0,23.0,0.0,34.0
+MIMAROPA,6,Wet season,Reaper,"(4, 6]",80.0,95.0,24.0,28.0,38.0,49.0
+Region I,0,Dry season,Combined,"(0, 2]",82.0,82.0,13.0,16.0,13.0,16.0
+Region I,0,Dry season,Combined,"(2, 4]",66.0,106.0,10.0,25.0,0.0,25.0
+Region I,0,Dry season,Combined,"(4, 6]",82.0,139.0,15.0,33.0,0.0,33.0
+Region I,0,Dry season,Combined,"(6, 8]",124.0,178.0,29.0,44.0,29.0,44.0
+Region I,0,Dry season,Combined,"(8, 10]",137.0,186.0,32.0,47.0,32.0,57.0
+Region I,0,Dry season,Combined,"(10, 13]",154.0,178.0,37.0,46.0,37.0,47.0
+Region I,0,Dry season,Manual,"(0, 2]",82.0,82.0,17.0,20.0,17.0,20.0
+Region I,0,Dry season,Manual,"(2, 4]",71.0,100.0,14.0,28.0,14.0,28.0
+Region I,0,Dry season,Manual,"(4, 6]",82.0,143.0,18.0,38.0,18.0,50.0
+Region I,0,Dry season,Manual,"(6, 8]",126.0,178.0,34.0,47.0,34.0,77.0
+Region I,0,Dry season,Manual,"(8, 10]",152.0,186.0,40.0,51.0,50.0,90.0
+Region I,0,Dry season,Manual,"(10, 13]",186.0,186.0,47.0,51.0,78.0,90.0
+Region I,0,Dry season,Reaper,"(0, 2]",82.0,82.0,17.0,20.0,17.0,20.0
+Region I,0,Dry season,Reaper,"(2, 4]",82.0,98.0,16.0,27.0,16.0,27.0
+Region I,0,Dry season,Reaper,"(4, 6]",81.0,141.0,16.0,38.0,0.0,48.0
+Region I,0,Dry season,Reaper,"(6, 8]",137.0,173.0,34.0,45.0,34.0,70.0
+Region I,0,Dry season,Reaper,"(8, 10]",165.0,186.0,42.0,51.0,65.0,90.0
+Region I,0,Wet season,Combined,"(0, 2]",82.0,82.0,13.0,16.0,13.0,16.0
+Region I,0,Wet season,Combined,"(2, 4]",67.0,88.0,10.0,17.0,0.0,17.0
+Region I,0,Wet season,Combined,"(4, 6]",82.0,124.0,11.0,29.0,0.0,29.0
+Region I,0,Wet season,Combined,"(6, 8]",91.0,131.0,16.0,31.0,0.0,31.0
+Region I,0,Wet season,Combined,"(8, 10]",98.0,139.0,23.0,33.0,23.0,33.0
+Region I,0,Wet season,Manual,"(0, 2]",82.0,82.0,15.0,20.0,15.0,24.0
+Region I,0,Wet season,Manual,"(2, 4]",63.0,84.0,10.0,21.0,0.0,24.0
+Region I,0,Wet season,Manual,"(4, 6]",73.0,126.0,14.0,34.0,10.0,52.0
+Region I,0,Wet season,Manual,"(6, 8]",91.0,146.0,19.0,39.0,19.0,67.0
+Region I,0,Wet season,Manual,"(8, 10]",102.0,146.0,22.0,39.0,21.0,66.0
+Region I,0,Wet season,Manual,"(10, 13]",137.0,137.0,36.0,41.0,59.0,74.0
+Region I,0,Wet season,Reaper,"(0, 2]",82.0,82.0,20.0,20.0,20.0,24.0
+Region I,0,Wet season,Reaper,"(2, 4]",72.0,82.0,14.0,20.0,14.0,24.0
+Region I,0,Wet season,Reaper,"(4, 6]",82.0,124.0,19.0,33.0,19.0,49.0
+Region I,0,Wet season,Reaper,"(6, 8]",106.0,137.0,29.0,37.0,29.0,61.0
+Region I,0,Wet season,Reaper,"(8, 10]",108.0,113.0,30.0,31.0,38.0,42.0
+Region I,1,Dry season,Combined,"(0, 2]",82.0,82.0,11.0,16.0,0.0,16.0
+Region I,1,Dry season,Combined,"(2, 4]",74.0,100.0,11.0,23.0,0.0,23.0
+Region I,1,Dry season,Combined,"(4, 6]",84.0,131.0,15.0,33.0,0.0,43.0
+Region I,1,Dry season,Combined,"(6, 8]",131.0,161.0,31.0,38.0,31.0,49.0
+Region I,1,Dry season,Combined,"(8, 10]",167.0,186.0,40.0,47.0,40.0,57.0
+Region I,1,Dry season,Manual,"(0, 2]",82.0,82.0,20.0,20.0,20.0,20.0
+Region I,1,Dry season,Manual,"(2, 4]",82.0,100.0,20.0,28.0,20.0,28.0
+Region I,1,Dry season,Manual,"(4, 6]",84.0,141.0,21.0,38.0,21.0,48.0
+Region I,1,Dry season,Manual,"(6, 8]",137.0,157.0,36.0,41.0,41.0,60.0
+Region I,1,Dry season,Manual,"(8, 10]",175.0,175.0,46.0,46.0,72.0,72.0
+Region I,1,Dry season,Reaper,"(0, 2]",82.0,82.0,20.0,20.0,20.0,20.0
+Region I,1,Dry season,Reaper,"(2, 4]",67.0,90.0,18.0,22.0,18.0,22.0
+Region I,1,Dry season,Reaper,"(4, 6]",92.0,128.0,23.0,35.0,23.0,35.0
+Region I,1,Dry season,Reaper,"(6, 8]",137.0,143.0,37.0,38.0,46.0,52.0
+Region I,1,Dry season,Reaper,"(8, 10]",167.0,167.0,44.0,44.0,69.0,69.0
+Region I,1,Wet season,Combined,"(0, 2]",43.0,82.0,11.0,16.0,11.0,16.0
+Region I,1,Wet season,Combined,"(2, 4]",48.0,82.0,10.0,20.0,0.0,20.0
+Region I,1,Wet season,Combined,"(4, 6]",80.0,118.0,13.0,28.0,0.0,28.0
+Region I,1,Wet season,Combined,"(6, 8]",100.0,128.0,24.0,31.0,24.0,31.0
+Region I,1,Wet season,Combined,"(8, 10]",106.0,131.0,25.0,31.0,25.0,31.0
+Region I,1,Wet season,Manual,"(0, 2]",43.0,82.0,14.0,20.0,14.0,24.0
+Region I,1,Wet season,Manual,"(2, 4]",44.0,82.0,11.0,23.0,0.0,32.0
+Region I,1,Wet season,Manual,"(4, 6]",71.0,118.0,13.0,32.0,13.0,46.0
+Region I,1,Wet season,Manual,"(6, 8]",102.0,143.0,28.0,38.0,29.0,65.0
+Region I,1,Wet season,Manual,"(8, 10]",113.0,143.0,31.0,38.0,42.0,65.0
+Region I,1,Wet season,Reaper,"(0, 2]",82.0,82.0,17.0,20.0,17.0,24.0
+Region I,1,Wet season,Reaper,"(2, 4]",44.0,82.0,11.0,21.0,0.0,24.0
+Region I,1,Wet season,Reaper,"(4, 6]",82.0,124.0,15.0,31.0,15.0,44.0
+Region I,1,Wet season,Reaper,"(6, 8]",102.0,120.0,28.0,33.0,34.0,48.0
+Region I,1,Wet season,Reaper,"(8, 10]",113.0,113.0,31.0,31.0,40.0,40.0
+Region I,2,Dry season,Combined,"(0, 2]",44.0,44.0,12.0,12.0,12.0,12.0
+Region I,2,Dry season,Combined,"(2, 4]",43.0,84.0,12.0,21.0,12.0,21.0
+Region I,2,Dry season,Combined,"(4, 6]",84.0,118.0,21.0,29.0,21.0,29.0
+Region I,2,Dry season,Combined,"(6, 8]",126.0,126.0,30.0,30.0,30.0,30.0
+Region I,2,Dry season,Manual,"(0, 2]",43.0,44.0,12.0,15.0,12.0,15.0
+Region I,2,Dry season,Manual,"(2, 4]",46.0,92.0,13.0,24.0,0.0,35.0
+Region I,2,Dry season,Manual,"(4, 6]",83.0,124.0,20.0,34.0,20.0,67.0
+Region I,2,Dry season,Manual,"(6, 8]",159.0,159.0,43.0,43.0,90.0,90.0
+Region I,2,Dry season,Manual,"(8, 10]",184.0,184.0,51.0,51.0,112.0,112.0
+Region I,2,Dry season,Reaper,"(2, 4]",46.0,48.0,16.0,16.0,16.0,16.0
+Region I,2,Dry season,Reaper,"(4, 6]",100.0,131.0,29.0,36.0,51.0,72.0
+Region I,2,Dry season,Reaper,"(6, 8]",167.0,167.0,45.0,45.0,94.0,94.0
+Region I,2,Wet season,Combined,"(0, 2]",43.0,44.0,11.0,12.0,10.0,12.0
+Region I,2,Wet season,Combined,"(2, 4]",43.0,77.0,10.0,20.0,10.0,20.0
+Region I,2,Wet season,Combined,"(4, 6]",74.0,116.0,18.0,28.0,15.0,28.0
+Region I,2,Wet season,Combined,"(6, 8]",108.0,110.0,27.0,28.0,27.0,28.0
+Region I,2,Wet season,Manual,"(0, 2]",43.0,44.0,14.0,15.0,14.0,16.0
+Region I,2,Wet season,Manual,"(2, 4]",43.0,80.0,14.0,23.0,14.0,31.0
+Region I,2,Wet season,Manual,"(4, 6]",72.0,124.0,21.0,34.0,21.0,65.0
+Region I,2,Wet season,Manual,"(6, 8]",116.0,126.0,30.0,35.0,54.0,67.0
+Region I,2,Wet season,Reaper,"(0, 2]",44.0,44.0,15.0,15.0,15.0,15.0
+Region I,2,Wet season,Reaper,"(2, 4]",43.0,74.0,14.0,22.0,14.0,31.0
+Region I,2,Wet season,Reaper,"(4, 6]",77.0,108.0,23.0,30.0,33.0,54.0
+Region I,3,Dry season,Combined,"(0, 2]",69.0,82.0,10.0,16.0,0.0,16.0
+Region I,3,Dry season,Combined,"(2, 4]",72.0,98.0,10.0,23.0,0.0,23.0
+Region I,3,Dry season,Combined,"(4, 6]",84.0,133.0,16.0,32.0,0.0,32.0
+Region I,3,Dry season,Combined,"(6, 8]",131.0,161.0,31.0,39.0,31.0,39.0
+Region I,3,Dry season,Manual,"(0, 2]",82.0,82.0,20.0,20.0,20.0,20.0
+Region I,3,Dry season,Manual,"(2, 4]",82.0,92.0,18.0,23.0,18.0,23.0
+Region I,3,Dry season,Manual,"(4, 6]",88.0,124.0,21.0,33.0,21.0,33.0
+Region I,3,Dry season,Manual,"(6, 8]",143.0,143.0,38.0,38.0,50.0,50.0
+Region I,3,Dry season,Reaper,"(2, 4]",82.0,82.0,20.0,20.0,20.0,20.0
+Region I,3,Dry season,Reaper,"(4, 6]",82.0,113.0,20.0,31.0,20.0,31.0
+Region I,3,Wet season,Combined,"(0, 2]",71.0,82.0,10.0,16.0,0.0,16.0
+Region I,3,Wet season,Combined,"(2, 4]",82.0,82.0,16.0,16.0,16.0,16.0
+Region I,3,Wet season,Combined,"(4, 6]",82.0,116.0,12.0,27.0,0.0,27.0
+Region I,3,Wet season,Combined,"(6, 8]",100.0,110.0,24.0,26.0,24.0,26.0
+Region I,3,Wet season,Combined,"(8, 10]",110.0,110.0,26.0,26.0,26.0,26.0
+Region I,3,Wet season,Manual,"(0, 2]",82.0,82.0,20.0,20.0,20.0,20.0
+Region I,3,Wet season,Manual,"(2, 4]",82.0,82.0,20.0,20.0,20.0,20.0
+Region I,3,Wet season,Manual,"(4, 6]",82.0,92.0,20.0,23.0,20.0,23.0
+Region I,3,Wet season,Manual,"(6, 8]",110.0,110.0,30.0,30.0,42.0,42.0
+Region I,3,Wet season,Reaper,"(0, 2]",82.0,82.0,20.0,20.0,20.0,20.0
+Region I,3,Wet season,Reaper,"(2, 4]",82.0,82.0,20.0,20.0,20.0,20.0
+Region I,3,Wet season,Reaper,"(4, 6]",102.0,102.0,29.0,29.0,28.0,29.0
+Region I,3,Wet season,Reaper,"(6, 8]",110.0,110.0,30.0,30.0,42.0,42.0
+Region I,5,Dry season,Combined,"(0, 2]",37.0,57.0,10.0,18.0,10.0,18.0
+Region I,5,Dry season,Combined,"(2, 4]",10.0,84.0,10.0,21.0,10.0,21.0
+Region I,5,Dry season,Combined,"(4, 6]",50.0,90.0,10.0,22.0,10.0,22.0
+Region I,5,Dry season,Combined,"(6, 8]",89.0,165.0,10.0,34.0,10.0,34.0
+Region I,5,Dry season,Combined,"(8, 10]",105.0,113.0,10.0,19.0,10.0,19.0
+Region I,5,Dry season,Manual,"(0, 2]",37.0,37.0,10.0,10.0,10.0,20.0
+Region I,5,Dry season,Manual,"(2, 4]",10.0,53.0,10.0,15.0,10.0,22.0
+Region I,5,Dry season,Manual,"(4, 6]",47.0,97.0,10.0,19.0,10.0,30.0
+Region I,5,Dry season,Manual,"(6, 8]",91.0,104.0,18.0,27.0,29.0,61.0
+Region I,5,Dry season,Manual,"(8, 10]",125.0,133.0,24.0,25.0,34.0,36.0
+Region I,5,Dry season,Manual,"(10, 13]",119.0,121.0,28.0,29.0,39.0,39.0
+Region I,5,Dry season,Reaper,"(2, 4]",10.0,53.0,10.0,15.0,10.0,22.0
+Region I,5,Dry season,Reaper,"(4, 6]",56.0,70.0,11.0,21.0,21.0,23.0
+Region I,5,Wet season,Combined,"(0, 2]",43.0,82.0,15.0,24.0,15.0,53.0
+Region I,5,Wet season,Combined,"(2, 4]",43.0,82.0,13.0,21.0,10.0,41.0
+Region I,5,Wet season,Combined,"(4, 6]",74.0,118.0,12.0,26.0,0.0,26.0
+Region I,5,Wet season,Combined,"(6, 8]",108.0,131.0,20.0,25.0,20.0,25.0
+Region I,5,Wet season,Combined,"(8, 10]",102.0,128.0,17.0,24.0,17.0,22.0
+Region I,5,Wet season,Manual,"(0, 2]",43.0,82.0,16.0,24.0,17.0,50.0
+Region I,5,Wet season,Manual,"(2, 4]",43.0,82.0,10.0,24.0,0.0,54.0
+Region I,5,Wet season,Manual,"(4, 6]",72.0,120.0,14.0,32.0,14.0,70.0
+Region I,5,Wet season,Manual,"(6, 8]",86.0,143.0,16.0,35.0,0.0,53.0
+Region I,5,Wet season,Manual,"(8, 10]",95.0,139.0,22.0,33.0,23.0,33.0
+Region I,5,Wet season,Reaper,"(0, 2]",43.0,82.0,17.0,24.0,17.0,49.0
+Region I,5,Wet season,Reaper,"(2, 4]",43.0,82.0,16.0,24.0,16.0,48.0
+Region I,5,Wet season,Reaper,"(4, 6]",77.0,113.0,20.0,30.0,20.0,42.0
+Region I,5,Wet season,Reaper,"(6, 8]",108.0,128.0,28.0,32.0,28.0,36.0
+Region I,6,Dry season,Combined,"(0, 2]",43.0,44.0,12.0,12.0,12.0,12.0
+Region I,6,Dry season,Combined,"(2, 4]",51.0,92.0,13.0,23.0,13.0,23.0
+Region I,6,Dry season,Combined,"(4, 6]",72.0,131.0,18.0,33.0,18.0,48.0
+Region I,6,Dry season,Combined,"(6, 8]",143.0,159.0,31.0,39.0,31.0,64.0
+Region I,6,Dry season,Manual,"(0, 2]",43.0,52.0,15.0,17.0,15.0,17.0
+Region I,6,Dry season,Manual,"(2, 4]",54.0,88.0,18.0,25.0,18.0,38.0
+Region I,6,Dry season,Manual,"(4, 6]",95.0,141.0,24.0,38.0,35.0,77.0
+Region I,6,Dry season,Manual,"(6, 8]",146.0,146.0,40.0,40.0,82.0,82.0
+Region I,6,Dry season,Reaper,"(0, 2]",44.0,44.0,15.0,15.0,15.0,15.0
+Region I,6,Dry season,Reaper,"(2, 4]",64.0,80.0,20.0,24.0,20.0,34.0
+Region I,6,Dry season,Reaper,"(4, 6]",90.0,90.0,26.0,26.0,42.0,42.0
+Region I,6,Wet season,Combined,"(0, 2]",43.0,44.0,10.0,12.0,10.0,12.0
+Region I,6,Wet season,Combined,"(2, 4]",43.0,80.0,11.0,21.0,11.0,21.0
+Region I,6,Wet season,Combined,"(4, 6]",77.0,116.0,19.0,29.0,16.0,29.0
+Region I,6,Wet season,Combined,"(6, 8]",108.0,131.0,23.0,33.0,21.0,43.0
+Region I,6,Wet season,Combined,"(8, 10]",100.0,116.0,22.0,28.0,21.0,28.0
+Region I,6,Wet season,Manual,"(0, 2]",43.0,44.0,12.0,15.0,12.0,16.0
+Region I,6,Wet season,Manual,"(2, 4]",43.0,84.0,10.0,25.0,0.0,37.0
+Region I,6,Wet season,Manual,"(4, 6]",67.0,120.0,14.0,33.0,14.0,63.0
+Region I,6,Wet season,Manual,"(6, 8]",102.0,137.0,25.0,37.0,42.0,74.0
+Region I,6,Wet season,Manual,"(8, 10]",113.0,113.0,31.0,31.0,57.0,57.0
+Region I,6,Wet season,Reaper,"(0, 2]",43.0,44.0,14.0,15.0,14.0,15.0
+Region I,6,Wet season,Reaper,"(2, 4]",43.0,82.0,14.0,24.0,14.0,34.0
+Region I,6,Wet season,Reaper,"(4, 6]",77.0,113.0,23.0,31.0,31.0,56.0
+Region I,6,Wet season,Reaper,"(6, 8]",110.0,116.0,31.0,32.0,56.0,59.0
+Region II,0,Dry season,Combined,"(0, 2]",48.0,82.0,10.0,17.0,0.0,17.0
+Region II,0,Dry season,Combined,"(2, 4]",53.0,110.0,10.0,27.0,0.0,27.0
+Region II,0,Dry season,Combined,"(4, 6]",74.0,143.0,10.0,37.0,0.0,37.0
+Region II,0,Dry season,Combined,"(6, 8]",82.0,178.0,14.0,46.0,0.0,66.0
+Region II,0,Dry season,Combined,"(8, 10]",82.0,186.0,14.0,50.0,14.0,77.0
+Region II,0,Dry season,Combined,"(10, 13]",124.0,186.0,30.0,50.0,29.0,77.0
+Region II,0,Dry season,Manual,"(0, 2]",54.0,82.0,10.0,20.0,0.0,24.0
+Region II,0,Dry season,Manual,"(2, 4]",56.0,113.0,10.0,31.0,0.0,32.0
+Region II,0,Dry season,Manual,"(4, 6]",72.0,143.0,19.0,39.0,19.0,61.0
+Region II,0,Dry season,Manual,"(6, 8]",82.0,178.0,19.0,48.0,19.0,90.0
+Region II,0,Dry season,Manual,"(8, 10]",146.0,186.0,40.0,53.0,58.0,103.0
+Region II,0,Dry season,Manual,"(10, 13]",167.0,186.0,44.0,53.0,73.0,103.0
+Region II,0,Dry season,Reaper,"(0, 2]",56.0,82.0,15.0,20.0,15.0,24.0
+Region II,0,Dry season,Reaper,"(2, 4]",56.0,100.0,15.0,29.0,15.0,29.0
+Region II,0,Dry season,Reaper,"(4, 6]",82.0,139.0,20.0,38.0,20.0,59.0
+Region II,0,Dry season,Reaper,"(6, 8]",128.0,175.0,32.0,48.0,32.0,90.0
+Region II,0,Dry season,Reaper,"(8, 10]",154.0,186.0,41.0,53.0,59.0,103.0
+Region II,0,Dry season,Reaper,"(10, 13]",172.0,172.0,48.0,48.0,81.0,81.0
+Region II,0,Wet season,Combined,"(0, 2]",66.0,82.0,10.0,17.0,0.0,17.0
+Region II,0,Wet season,Combined,"(2, 4]",66.0,88.0,10.0,18.0,0.0,18.0
+Region II,0,Wet season,Combined,"(4, 6]",72.0,128.0,11.0,31.0,0.0,31.0
+Region II,0,Wet season,Combined,"(6, 8]",82.0,152.0,15.0,37.0,15.0,37.0
+Region II,0,Wet season,Combined,"(8, 10]",84.0,152.0,16.0,37.0,16.0,37.0
+Region II,0,Wet season,Combined,"(10, 13]",148.0,148.0,36.0,36.0,36.0,36.0
+Region II,0,Wet season,Manual,"(0, 2]",70.0,82.0,15.0,20.0,15.0,24.0
+Region II,0,Wet season,Manual,"(2, 4]",70.0,88.0,14.0,22.0,14.0,24.0
+Region II,0,Wet season,Manual,"(4, 6]",77.0,126.0,16.0,34.0,14.0,56.0
+Region II,0,Wet season,Manual,"(6, 8]",88.0,152.0,21.0,41.0,21.0,75.0
+Region II,0,Wet season,Manual,"(8, 10]",90.0,152.0,21.0,41.0,21.0,75.0
+Region II,0,Wet season,Reaper,"(0, 2]",66.0,82.0,11.0,20.0,0.0,24.0
+Region II,0,Wet season,Reaper,"(2, 4]",66.0,84.0,11.0,21.0,0.0,24.0
+Region II,0,Wet season,Reaper,"(4, 6]",82.0,124.0,16.0,33.0,16.0,51.0
+Region II,0,Wet season,Reaper,"(6, 8]",84.0,146.0,20.0,39.0,20.0,70.0
+Region II,0,Wet season,Reaper,"(8, 10]",108.0,131.0,30.0,35.0,30.0,56.0
+Region II,1,Dry season,Combined,"(0, 2]",44.0,82.0,12.0,16.0,12.0,16.0
+Region II,1,Dry season,Combined,"(2, 4]",52.0,92.0,12.0,26.0,12.0,45.0
+Region II,1,Dry season,Combined,"(4, 6]",82.0,139.0,15.0,34.0,15.0,65.0
+Region II,1,Dry season,Combined,"(6, 8]",124.0,178.0,30.0,45.0,30.0,62.0
+Region II,1,Dry season,Combined,"(8, 10]",148.0,184.0,36.0,47.0,36.0,60.0
+Region II,1,Dry season,Manual,"(0, 2]",43.0,82.0,15.0,20.0,15.0,20.0
+Region II,1,Dry season,Manual,"(2, 4]",57.0,92.0,15.0,29.0,15.0,60.0
+Region II,1,Dry season,Manual,"(4, 6]",84.0,126.0,22.0,35.0,22.0,67.0
+Region II,1,Dry season,Manual,"(6, 8]",133.0,169.0,36.0,45.0,48.0,96.0
+Region II,1,Dry season,Manual,"(8, 10]",141.0,186.0,38.0,52.0,54.0,96.0
+Region II,1,Dry season,Reaper,"(0, 2]",44.0,82.0,15.0,20.0,15.0,31.0
+Region II,1,Dry season,Reaper,"(2, 4]",59.0,100.0,16.0,29.0,16.0,29.0
+Region II,1,Dry season,Reaper,"(4, 6]",92.0,133.0,22.0,37.0,22.0,55.0
+Region II,1,Dry season,Reaper,"(6, 8]",141.0,152.0,37.0,41.0,37.0,67.0
+Region II,1,Dry season,Reaper,"(8, 10]",186.0,186.0,53.0,53.0,103.0,103.0
+Region II,1,Wet season,Combined,"(0, 2]",43.0,82.0,12.0,16.0,12.0,16.0
+Region II,1,Wet season,Combined,"(2, 4]",51.0,82.0,13.0,20.0,13.0,19.0
+Region II,1,Wet season,Combined,"(4, 6]",72.0,124.0,15.0,30.0,15.0,36.0
+Region II,1,Wet season,Combined,"(6, 8]",106.0,141.0,25.0,34.0,25.0,34.0
+Region II,1,Wet season,Combined,"(8, 10]",113.0,126.0,26.0,30.0,26.0,30.0
+Region II,1,Wet season,Manual,"(0, 2]",82.0,82.0,20.0,20.0,20.0,20.0
+Region II,1,Wet season,Manual,"(2, 4]",70.0,82.0,20.0,22.0,20.0,24.0
+Region II,1,Wet season,Manual,"(4, 6]",84.0,108.0,21.0,30.0,21.0,38.0
+Region II,1,Wet season,Manual,"(6, 8]",113.0,133.0,31.0,36.0,45.0,60.0
+Region II,1,Wet season,Reaper,"(0, 2]",82.0,82.0,19.0,20.0,19.0,24.0
+Region II,1,Wet season,Reaper,"(2, 4]",82.0,82.0,20.0,20.0,20.0,20.0
+Region II,1,Wet season,Reaper,"(4, 6]",82.0,108.0,20.0,30.0,20.0,38.0
+Region II,1,Wet season,Reaper,"(6, 8]",108.0,113.0,30.0,31.0,38.0,45.0
+Region II,2,Dry season,Combined,"(0, 2]",43.0,51.0,10.0,18.0,0.0,18.0
+Region II,2,Dry season,Combined,"(2, 4]",40.0,102.0,10.0,30.0,0.0,58.0
+Region II,2,Dry season,Combined,"(4, 6]",82.0,137.0,22.0,38.0,16.0,78.0
+Region II,2,Dry season,Combined,"(6, 8]",124.0,173.0,32.0,47.0,45.0,102.0
+Region II,2,Dry season,Combined,"(8, 10]",152.0,178.0,39.0,48.0,70.0,101.0
+Region II,2,Dry season,Manual,"(0, 2]",43.0,57.0,13.0,20.0,13.0,34.0
+Region II,2,Dry season,Manual,"(2, 4]",43.0,92.0,12.0,28.0,12.0,59.0
+Region II,2,Dry season,Manual,"(4, 6]",74.0,137.0,24.0,39.0,40.0,87.0
+Region II,2,Dry season,Manual,"(6, 8]",133.0,175.0,38.0,49.0,80.0,111.0
+Region II,2,Dry season,Manual,"(8, 10]",128.0,186.0,37.0,54.0,78.0,125.0
+Region II,2,Dry season,Reaper,"(0, 2]",43.0,44.0,16.0,17.0,16.0,27.0
+Region II,2,Dry season,Reaper,"(2, 4]",43.0,82.0,16.0,25.0,16.0,51.0
+Region II,2,Dry season,Reaper,"(4, 6]",88.0,128.0,24.0,36.0,43.0,77.0
+Region II,2,Dry season,Reaper,"(6, 8]",141.0,169.0,39.0,46.0,83.0,100.0
+Region II,2,Wet season,Combined,"(0, 2]",43.0,44.0,10.0,14.0,0.0,14.0
+Region II,2,Wet season,Combined,"(2, 4]",43.0,80.0,10.0,22.0,0.0,23.0
+Region II,2,Wet season,Combined,"(4, 6]",74.0,120.0,18.0,32.0,15.0,55.0
+Region II,2,Wet season,Combined,"(6, 8]",80.0,143.0,22.0,37.0,22.0,66.0
+Region II,2,Wet season,Combined,"(8, 10]",108.0,152.0,28.0,39.0,29.0,69.0
+Region II,2,Wet season,Manual,"(0, 2]",30.0,44.0,10.0,16.0,0.0,18.0
+Region II,2,Wet season,Manual,"(2, 4]",43.0,80.0,12.0,25.0,0.0,45.0
+Region II,2,Wet season,Manual,"(4, 6]",43.0,120.0,16.0,34.0,16.0,71.0
+Region II,2,Wet season,Manual,"(6, 8]",90.0,128.0,27.0,37.0,52.0,80.0
+Region II,2,Wet season,Manual,"(8, 10]",100.0,124.0,30.0,35.0,59.0,72.0
+Region II,2,Wet season,Reaper,"(0, 2]",30.0,43.0,10.0,16.0,0.0,16.0
+Region II,2,Wet season,Reaper,"(2, 4]",43.0,77.0,12.0,24.0,12.0,41.0
+Region II,2,Wet season,Reaper,"(4, 6]",82.0,116.0,25.0,33.0,43.0,66.0
+Region II,2,Wet season,Reaper,"(6, 8]",133.0,133.0,37.0,37.0,79.0,79.0
+Region II,3,Dry season,Combined,"(0, 2]",70.0,82.0,13.0,17.0,13.0,17.0
+Region II,3,Dry season,Combined,"(2, 4]",67.0,92.0,13.0,21.0,13.0,21.0
+Region II,3,Dry season,Combined,"(4, 6]",82.0,133.0,16.0,33.0,16.0,33.0
+Region II,3,Dry season,Combined,"(6, 8]",133.0,173.0,30.0,42.0,30.0,42.0
+Region II,3,Dry season,Combined,"(8, 10]",167.0,174.0,40.0,45.0,40.0,51.0
+Region II,3,Dry season,Manual,"(0, 2]",70.0,82.0,17.0,20.0,18.0,20.0
+Region II,3,Dry season,Manual,"(2, 4]",65.0,92.0,12.0,22.0,0.0,24.0
+Region II,3,Dry season,Manual,"(4, 6]",98.0,128.0,27.0,35.0,27.0,44.0
+Region II,3,Dry season,Manual,"(6, 8]",143.0,143.0,39.0,39.0,56.0,56.0
+Region II,3,Dry season,Reaper,"(0, 2]",82.0,82.0,20.0,20.0,20.0,24.0
+Region II,3,Dry season,Reaper,"(2, 4]",77.0,84.0,19.0,21.0,19.0,24.0
+Region II,3,Dry season,Reaper,"(4, 6]",82.0,128.0,20.0,34.0,20.0,36.0
+Region II,3,Dry season,Reaper,"(6, 8]",131.0,169.0,35.0,44.0,35.0,68.0
+Region II,3,Dry season,Reaper,"(8, 10]",159.0,159.0,42.0,42.0,62.0,62.0
+Region II,3,Wet season,Combined,"(0, 2]",70.0,82.0,13.0,16.0,13.0,16.0
+Region II,3,Wet season,Combined,"(2, 4]",70.0,82.0,12.0,16.0,12.0,16.0
+Region II,3,Wet season,Combined,"(4, 6]",74.0,120.0,13.0,28.0,13.0,28.0
+Region II,3,Wet season,Combined,"(6, 8]",95.0,133.0,23.0,31.0,21.0,31.0
+Region II,3,Wet season,Combined,"(8, 10]",100.0,131.0,24.0,31.0,24.0,31.0
+Region II,3,Wet season,Manual,"(0, 2]",70.0,82.0,17.0,20.0,17.0,20.0
+Region II,3,Wet season,Manual,"(2, 4]",82.0,82.0,20.0,20.0,20.0,24.0
+Region II,3,Wet season,Manual,"(4, 6]",82.0,102.0,20.0,29.0,20.0,38.0
+Region II,3,Wet season,Reaper,"(2, 4]",82.0,82.0,19.0,20.0,19.0,20.0
+Region II,3,Wet season,Reaper,"(4, 6]",84.0,113.0,21.0,31.0,20.0,43.0
+Region II,3,Wet season,Reaper,"(6, 8]",124.0,124.0,33.0,33.0,49.0,49.0
+Region II,5,Dry season,Combined,"(0, 2]",10.0,37.0,10.0,10.0,10.0,10.0
+Region II,5,Dry season,Combined,"(2, 4]",10.0,56.0,10.0,14.0,10.0,33.0
+Region II,5,Dry season,Combined,"(4, 6]",40.0,97.0,10.0,24.0,10.0,64.0
+Region II,5,Dry season,Combined,"(6, 8]",73.0,129.0,11.0,24.0,11.0,24.0
+Region II,5,Dry season,Combined,"(8, 10]",105.0,133.0,16.0,28.0,16.0,28.0
+Region II,5,Dry season,Combined,"(10, 13]",121.0,121.0,18.0,18.0,18.0,18.0
+Region II,5,Dry season,Manual,"(0, 2]",10.0,37.0,10.0,10.0,10.0,20.0
+Region II,5,Dry season,Manual,"(2, 4]",10.0,80.0,10.0,24.0,10.0,37.0
+Region II,5,Dry season,Manual,"(4, 6]",29.0,97.0,10.0,25.0,0.0,64.0
+Region II,5,Dry season,Manual,"(6, 8]",73.0,119.0,19.0,29.0,26.0,41.0
+Region II,5,Dry season,Manual,"(8, 10]",107.0,129.0,27.0,37.0,37.0,57.0
+Region II,5,Dry season,Manual,"(10, 13]",109.0,121.0,21.0,29.0,21.0,39.0
+Region II,5,Dry season,Reaper,"(0, 2]",10.0,37.0,10.0,10.0,10.0,20.0
+Region II,5,Dry season,Reaper,"(2, 4]",10.0,77.0,10.0,23.0,10.0,35.0
+Region II,5,Dry season,Reaper,"(4, 6]",45.0,84.0,10.0,23.0,12.0,27.0
+Region II,5,Dry season,Reaper,"(6, 8]",89.0,104.0,17.0,27.0,28.0,37.0
+Region II,5,Dry season,Reaper,"(8, 10]",129.0,129.0,31.0,31.0,31.0,31.0
+Region II,5,Wet season,Combined,"(0, 2]",43.0,82.0,15.0,23.0,10.0,48.0
+Region II,5,Wet season,Combined,"(2, 4]",43.0,82.0,11.0,27.0,10.0,64.0
+Region II,5,Wet season,Combined,"(4, 6]",77.0,124.0,16.0,37.0,16.0,86.0
+Region II,5,Wet season,Combined,"(6, 8]",95.0,131.0,18.0,38.0,18.0,88.0
+Region II,5,Wet season,Combined,"(8, 10]",110.0,128.0,18.0,36.0,18.0,84.0
+Region II,5,Wet season,Manual,"(0, 2]",43.0,82.0,17.0,23.0,17.0,48.0
+Region II,5,Wet season,Manual,"(2, 4]",43.0,82.0,14.0,23.0,11.0,40.0
+Region II,5,Wet season,Manual,"(4, 6]",82.0,116.0,21.0,31.0,21.0,45.0
+Region II,5,Wet season,Manual,"(6, 8]",84.0,126.0,21.0,33.0,21.0,51.0
+Region II,5,Wet season,Reaper,"(0, 2]",43.0,82.0,17.0,24.0,17.0,49.0
+Region II,5,Wet season,Reaper,"(2, 4]",49.0,82.0,18.0,24.0,18.0,58.0
+Region II,5,Wet season,Reaper,"(4, 6]",72.0,116.0,21.0,31.0,21.0,31.0
+Region II,6,Dry season,Combined,"(0, 2]",43.0,66.0,11.0,19.0,0.0,19.0
+Region II,6,Dry season,Combined,"(2, 4]",43.0,100.0,10.0,29.0,0.0,56.0
+Region II,6,Dry season,Combined,"(4, 6]",43.0,141.0,12.0,39.0,12.0,83.0
+Region II,6,Dry season,Combined,"(6, 8]",131.0,178.0,35.0,48.0,56.0,105.0
+Region II,6,Dry season,Combined,"(8, 10]",128.0,186.0,34.0,53.0,62.0,117.0
+Region II,6,Dry season,Manual,"(0, 2]",30.0,66.0,10.0,21.0,0.0,37.0
+Region II,6,Dry season,Manual,"(2, 4]",43.0,110.0,16.0,33.0,16.0,68.0
+Region II,6,Dry season,Manual,"(4, 6]",77.0,141.0,19.0,40.0,28.0,87.0
+Region II,6,Dry season,Manual,"(6, 8]",133.0,175.0,37.0,49.0,78.0,111.0
+Region II,6,Dry season,Manual,"(8, 10]",152.0,186.0,43.0,54.0,97.0,125.0
+Region II,6,Dry season,Reaper,"(0, 2]",43.0,54.0,16.0,20.0,16.0,34.0
+Region II,6,Dry season,Reaper,"(2, 4]",43.0,98.0,16.0,30.0,16.0,64.0
+Region II,6,Dry season,Reaper,"(4, 6]",88.0,133.0,27.0,39.0,52.0,86.0
+Region II,6,Dry season,Reaper,"(6, 8]",133.0,167.0,38.0,47.0,81.0,106.0
+Region II,6,Dry season,Reaper,"(8, 10]",174.0,174.0,51.0,51.0,117.0,117.0
+Region II,6,Wet season,Combined,"(0, 2]",43.0,44.0,11.0,14.0,0.0,14.0
+Region II,6,Wet season,Combined,"(2, 4]",43.0,82.0,10.0,23.0,0.0,26.0
+Region II,6,Wet season,Combined,"(4, 6]",72.0,124.0,19.0,33.0,15.0,55.0
+Region II,6,Wet season,Combined,"(6, 8]",80.0,133.0,22.0,35.0,22.0,64.0
+Region II,6,Wet season,Combined,"(8, 10]",106.0,131.0,28.0,34.0,28.0,59.0
+Region II,6,Wet season,Manual,"(0, 2]",43.0,44.0,12.0,16.0,12.0,18.0
+Region II,6,Wet season,Manual,"(2, 4]",43.0,84.0,15.0,26.0,15.0,47.0
+Region II,6,Wet season,Manual,"(4, 6]",72.0,124.0,23.0,35.0,34.0,76.0
+Region II,6,Wet season,Manual,"(6, 8]",100.0,137.0,29.0,38.0,55.0,82.0
+Region II,6,Wet season,Manual,"(8, 10]",110.0,128.0,32.0,37.0,64.0,82.0
+Region II,6,Wet season,Reaper,"(0, 2]",43.0,44.0,15.0,16.0,15.0,16.0
+Region II,6,Wet season,Reaper,"(2, 4]",43.0,80.0,15.0,25.0,15.0,45.0
+Region II,6,Wet season,Reaper,"(4, 6]",82.0,118.0,25.0,33.0,40.0,68.0
+Region II,6,Wet season,Reaper,"(6, 8]",131.0,131.0,37.0,37.0,75.0,75.0
+Region III,0,Dry season,Combined,"(0, 2]",56.0,82.0,10.0,16.0,0.0,16.0
+Region III,0,Dry season,Combined,"(2, 4]",55.0,102.0,10.0,27.0,0.0,27.0
+Region III,0,Dry season,Combined,"(4, 6]",71.0,139.0,10.0,34.0,0.0,34.0
+Region III,0,Dry season,Combined,"(6, 8]",82.0,178.0,11.0,43.0,0.0,50.0
+Region III,0,Dry season,Combined,"(8, 10]",82.0,186.0,13.0,50.0,13.0,78.0
+Region III,0,Dry season,Combined,"(10, 13]",146.0,186.0,32.0,48.0,32.0,64.0
+Region III,0,Dry season,Manual,"(0, 2]",56.0,82.0,10.0,20.0,0.0,24.0
+Region III,0,Dry season,Manual,"(2, 4]",45.0,102.0,10.0,29.0,0.0,29.0
+Region III,0,Dry season,Manual,"(4, 6]",72.0,137.0,16.0,38.0,0.0,61.0
+Region III,0,Dry season,Manual,"(6, 8]",124.0,178.0,30.0,47.0,30.0,81.0
+Region III,0,Dry season,Manual,"(8, 10]",128.0,186.0,34.0,52.0,34.0,96.0
+Region III,0,Dry season,Manual,"(10, 13]",165.0,186.0,43.0,52.0,63.0,96.0
+Region III,0,Dry season,Reaper,"(0, 2]",56.0,82.0,13.0,20.0,13.0,24.0
+Region III,0,Dry season,Reaper,"(2, 4]",56.0,95.0,10.0,29.0,0.0,29.0
+Region III,0,Dry season,Reaper,"(4, 6]",72.0,139.0,16.0,38.0,16.0,52.0
+Region III,0,Dry season,Reaper,"(6, 8]",121.0,175.0,28.0,46.0,28.0,79.0
+Region III,0,Dry season,Reaper,"(8, 10]",139.0,186.0,37.0,52.0,38.0,96.0
+Region III,0,Dry season,Reaper,"(10, 13]",148.0,176.0,40.0,49.0,56.0,89.0
+Region III,0,Wet season,Combined,"(0, 2]",56.0,82.0,10.0,16.0,0.0,16.0
+Region III,0,Wet season,Combined,"(2, 4]",56.0,82.0,10.0,18.0,0.0,18.0
+Region III,0,Wet season,Combined,"(4, 6]",66.0,124.0,10.0,30.0,0.0,30.0
+Region III,0,Wet season,Combined,"(6, 8]",83.0,133.0,14.0,32.0,0.0,32.0
+Region III,0,Wet season,Combined,"(8, 10]",88.0,128.0,16.0,31.0,0.0,31.0
+Region III,0,Wet season,Manual,"(0, 2]",56.0,82.0,10.0,20.0,0.0,24.0
+Region III,0,Wet season,Manual,"(2, 4]",52.0,84.0,10.0,22.0,0.0,34.0
+Region III,0,Wet season,Manual,"(4, 6]",66.0,126.0,10.0,35.0,0.0,64.0
+Region III,0,Wet season,Manual,"(6, 8]",88.0,148.0,21.0,41.0,21.0,82.0
+Region III,0,Wet season,Manual,"(8, 10]",95.0,128.0,26.0,35.0,26.0,58.0
+Region III,0,Wet season,Reaper,"(0, 2]",69.0,82.0,12.0,20.0,0.0,24.0
+Region III,0,Wet season,Reaper,"(2, 4]",56.0,82.0,11.0,21.0,0.0,32.0
+Region III,0,Wet season,Reaper,"(4, 6]",70.0,118.0,13.0,32.0,13.0,53.0
+Region III,0,Wet season,Reaper,"(6, 8]",84.0,120.0,21.0,33.0,21.0,50.0
+Region III,0,Wet season,Reaper,"(8, 10]",95.0,116.0,26.0,32.0,26.0,50.0
+Region III,1,Dry season,Combined,"(0, 2]",43.0,82.0,10.0,16.0,0.0,16.0
+Region III,1,Dry season,Combined,"(2, 4]",51.0,98.0,10.0,24.0,0.0,24.0
+Region III,1,Dry season,Combined,"(4, 6]",72.0,133.0,14.0,35.0,0.0,63.0
+Region III,1,Dry season,Combined,"(6, 8]",126.0,173.0,27.0,42.0,22.0,59.0
+Region III,1,Dry season,Combined,"(8, 10]",82.0,186.0,16.0,49.0,16.0,75.0
+Region III,1,Dry season,Combined,"(10, 13]",159.0,159.0,38.0,38.0,38.0,38.0
+Region III,1,Dry season,Manual,"(0, 2]",46.0,82.0,15.0,20.0,15.0,20.0
+Region III,1,Dry season,Manual,"(2, 4]",56.0,92.0,13.0,25.0,13.0,39.0
+Region III,1,Dry season,Manual,"(4, 6]",72.0,133.0,18.0,36.0,18.0,64.0
+Region III,1,Dry season,Manual,"(6, 8]",128.0,161.0,34.0,43.0,34.0,81.0
+Region III,1,Dry season,Manual,"(8, 10]",143.0,167.0,39.0,42.0,53.0,64.0
+Region III,1,Dry season,Reaper,"(0, 2]",43.0,82.0,15.0,20.0,15.0,20.0
+Region III,1,Dry season,Reaper,"(2, 4]",57.0,92.0,15.0,26.0,15.0,52.0
+Region III,1,Dry season,Reaper,"(4, 6]",72.0,131.0,20.0,35.0,0.0,61.0
+Region III,1,Dry season,Reaper,"(6, 8]",131.0,159.0,35.0,42.0,35.0,79.0
+Region III,1,Dry season,Reaper,"(8, 10]",141.0,178.0,38.0,47.0,53.0,80.0
+Region III,1,Dry season,Reaper,"(10, 13]",172.0,172.0,49.0,49.0,92.0,92.0
+Region III,1,Wet season,Combined,"(0, 2]",43.0,82.0,10.0,16.0,0.0,16.0
+Region III,1,Wet season,Combined,"(2, 4]",43.0,84.0,10.0,23.0,0.0,23.0
+Region III,1,Wet season,Combined,"(4, 6]",69.0,124.0,10.0,31.0,0.0,43.0
+Region III,1,Wet season,Combined,"(6, 8]",78.0,128.0,12.0,30.0,0.0,30.0
+Region III,1,Wet season,Combined,"(8, 10]",90.0,128.0,19.0,30.0,18.0,28.0
+Region III,1,Wet season,Manual,"(0, 2]",43.0,82.0,11.0,20.0,11.0,24.0
+Region III,1,Wet season,Manual,"(2, 4]",43.0,82.0,12.0,23.0,0.0,35.0
+Region III,1,Wet season,Manual,"(4, 6]",77.0,120.0,16.0,31.0,16.0,59.0
+Region III,1,Wet season,Manual,"(6, 8]",92.0,128.0,22.0,33.0,22.0,66.0
+Region III,1,Wet season,Manual,"(8, 10]",100.0,108.0,26.0,30.0,26.0,40.0
+Region III,1,Wet season,Reaper,"(0, 2]",43.0,82.0,10.0,20.0,0.0,24.0
+Region III,1,Wet season,Reaper,"(2, 4]",46.0,82.0,15.0,23.0,15.0,24.0
+Region III,1,Wet season,Reaper,"(4, 6]",77.0,118.0,17.0,32.0,17.0,51.0
+Region III,1,Wet season,Reaper,"(6, 8]",92.0,128.0,24.0,35.0,27.0,56.0
+Region III,1,Wet season,Reaper,"(8, 10]",106.0,126.0,30.0,34.0,43.0,56.0
+Region III,2,Dry season,Combined,"(0, 2]",43.0,44.0,10.0,15.0,0.0,15.0
+Region III,2,Dry season,Combined,"(2, 4]",43.0,88.0,10.0,25.0,0.0,37.0
+Region III,2,Dry season,Combined,"(4, 6]",74.0,124.0,21.0,32.0,19.0,51.0
+Region III,2,Dry season,Combined,"(6, 8]",128.0,159.0,33.0,40.0,33.0,83.0
+Region III,2,Dry season,Manual,"(0, 2]",43.0,46.0,12.0,17.0,12.0,17.0
+Region III,2,Dry season,Manual,"(2, 4]",43.0,92.0,12.0,28.0,0.0,51.0
+Region III,2,Dry season,Manual,"(4, 6]",74.0,128.0,22.0,35.0,31.0,71.0
+Region III,2,Dry season,Manual,"(6, 8]",128.0,152.0,35.0,41.0,63.0,85.0
+Region III,2,Dry season,Manual,"(8, 10]",169.0,169.0,41.0,41.0,86.0,86.0
+Region III,2,Dry season,Reaper,"(0, 2]",43.0,44.0,15.0,16.0,15.0,16.0
+Region III,2,Dry season,Reaper,"(2, 4]",43.0,88.0,14.0,26.0,14.0,44.0
+Region III,2,Dry season,Reaper,"(4, 6]",84.0,124.0,23.0,35.0,24.0,71.0
+Region III,2,Dry season,Reaper,"(8, 10]",161.0,161.0,43.0,43.0,87.0,87.0
+Region III,2,Wet season,Combined,"(0, 2]",43.0,44.0,10.0,13.0,0.0,13.0
+Region III,2,Wet season,Combined,"(2, 4]",43.0,77.0,10.0,21.0,0.0,21.0
+Region III,2,Wet season,Combined,"(4, 6]",72.0,120.0,16.0,31.0,12.0,46.0
+Region III,2,Wet season,Combined,"(6, 8]",98.0,110.0,24.0,26.0,24.0,26.0
+Region III,2,Wet season,Combined,"(8, 10]",110.0,110.0,29.0,29.0,38.0,38.0
+Region III,2,Wet season,Manual,"(0, 2]",43.0,44.0,14.0,16.0,14.0,16.0
+Region III,2,Wet season,Manual,"(2, 4]",43.0,84.0,12.0,24.0,12.0,37.0
+Region III,2,Wet season,Manual,"(4, 6]",77.0,116.0,22.0,32.0,23.0,64.0
+Region III,2,Wet season,Manual,"(6, 8]",116.0,126.0,33.0,35.0,65.0,71.0
+Region III,2,Wet season,Manual,"(8, 10]",116.0,116.0,33.0,33.0,65.0,65.0
+Region III,2,Wet season,Reaper,"(0, 2]",43.0,44.0,14.0,16.0,14.0,16.0
+Region III,2,Wet season,Reaper,"(2, 4]",43.0,77.0,10.0,24.0,0.0,39.0
+Region III,2,Wet season,Reaper,"(4, 6]",77.0,108.0,22.0,30.0,23.0,58.0
+Region III,2,Wet season,Reaper,"(6, 8]",106.0,110.0,27.0,32.0,49.0,64.0
+Region III,3,Dry season,Combined,"(0, 2]",57.0,82.0,10.0,16.0,0.0,16.0
+Region III,3,Dry season,Combined,"(2, 4]",57.0,95.0,10.0,23.0,0.0,23.0
+Region III,3,Dry season,Combined,"(4, 6]",74.0,137.0,10.0,33.0,0.0,33.0
+Region III,3,Dry season,Combined,"(6, 8]",82.0,175.0,16.0,43.0,16.0,45.0
+Region III,3,Dry season,Combined,"(8, 10]",126.0,178.0,26.0,46.0,26.0,56.0
+Region III,3,Dry season,Combined,"(10, 13]",126.0,176.0,30.0,46.0,30.0,56.0
+Region III,3,Dry season,Manual,"(0, 2]",57.0,82.0,15.0,20.0,15.0,20.0
+Region III,3,Dry season,Manual,"(2, 4]",57.0,98.0,13.0,27.0,13.0,27.0
+Region III,3,Dry season,Manual,"(4, 6]",80.0,133.0,17.0,38.0,17.0,61.0
+Region III,3,Dry season,Manual,"(6, 8]",126.0,175.0,33.0,46.0,33.0,79.0
+Region III,3,Dry season,Manual,"(8, 10]",159.0,178.0,42.0,48.0,64.0,86.0
+Region III,3,Dry season,Reaper,"(0, 2]",57.0,82.0,11.0,20.0,0.0,20.0
+Region III,3,Dry season,Reaper,"(2, 4]",57.0,98.0,11.0,27.0,0.0,27.0
+Region III,3,Dry season,Reaper,"(4, 6]",72.0,131.0,11.0,36.0,0.0,51.0
+Region III,3,Dry season,Reaper,"(6, 8]",126.0,165.0,33.0,43.0,33.0,68.0
+Region III,3,Dry season,Reaper,"(8, 10]",141.0,175.0,38.0,48.0,43.0,81.0
+Region III,3,Wet season,Combined,"(0, 2]",57.0,82.0,10.0,16.0,0.0,16.0
+Region III,3,Wet season,Combined,"(2, 4]",57.0,82.0,10.0,18.0,0.0,18.0
+Region III,3,Wet season,Combined,"(4, 6]",68.0,120.0,10.0,31.0,0.0,31.0
+Region III,3,Wet season,Combined,"(6, 8]",84.0,128.0,14.0,33.0,0.0,33.0
+Region III,3,Wet season,Combined,"(8, 10]",90.0,128.0,18.0,31.0,17.0,31.0
+Region III,3,Wet season,Manual,"(0, 2]",57.0,82.0,11.0,20.0,0.0,24.0
+Region III,3,Wet season,Manual,"(2, 4]",57.0,82.0,10.0,20.0,0.0,24.0
+Region III,3,Wet season,Manual,"(4, 6]",74.0,118.0,15.0,33.0,15.0,50.0
+Region III,3,Wet season,Manual,"(6, 8]",95.0,116.0,27.0,32.0,27.0,45.0
+Region III,3,Wet season,Manual,"(8, 10]",100.0,126.0,25.0,34.0,25.0,54.0
+Region III,3,Wet season,Reaper,"(0, 2]",57.0,82.0,12.0,20.0,12.0,24.0
+Region III,3,Wet season,Reaper,"(2, 4]",46.0,82.0,10.0,21.0,0.0,32.0
+Region III,3,Wet season,Reaper,"(4, 6]",77.0,120.0,16.0,33.0,17.0,53.0
+Region III,3,Wet season,Reaper,"(6, 8]",95.0,133.0,27.0,37.0,27.0,70.0
+Region III,3,Wet season,Reaper,"(8, 10]",100.0,128.0,28.0,35.0,28.0,58.0
+Region III,5,Dry season,Combined,"(0, 2]",37.0,49.0,10.0,16.0,10.0,16.0
+Region III,5,Dry season,Combined,"(2, 4]",10.0,90.0,10.0,22.0,0.0,39.0
+Region III,5,Dry season,Combined,"(4, 6]",37.0,110.0,10.0,26.0,0.0,45.0
+Region III,5,Dry season,Combined,"(6, 8]",37.0,119.0,10.0,22.0,0.0,22.0
+Region III,5,Dry season,Combined,"(8, 10]",37.0,154.0,10.0,31.0,10.0,72.0
+Region III,5,Dry season,Combined,"(10, 13]",107.0,121.0,14.0,18.0,14.0,18.0
+Region III,5,Dry season,Manual,"(0, 2]",10.0,49.0,10.0,18.0,10.0,27.0
+Region III,5,Dry season,Manual,"(2, 4]",10.0,90.0,10.0,26.0,10.0,42.0
+Region III,5,Dry season,Manual,"(4, 6]",37.0,110.0,10.0,30.0,10.0,49.0
+Region III,5,Dry season,Manual,"(6, 8]",80.0,127.0,13.0,29.0,13.0,41.0
+Region III,5,Dry season,Manual,"(8, 10]",80.0,129.0,14.0,26.0,22.0,57.0
+Region III,5,Dry season,Reaper,"(0, 2]",37.0,37.0,10.0,10.0,10.0,20.0
+Region III,5,Dry season,Reaper,"(2, 4]",11.0,80.0,10.0,24.0,10.0,39.0
+Region III,5,Dry season,Reaper,"(4, 6]",37.0,116.0,10.0,31.0,10.0,52.0
+Region III,5,Dry season,Reaper,"(6, 8]",73.0,115.0,13.0,22.0,13.0,33.0
+Region III,5,Dry season,Reaper,"(8, 10]",78.0,121.0,11.0,30.0,21.0,39.0
+Region III,5,Wet season,Combined,"(0, 2]",30.0,82.0,10.0,24.0,0.0,52.0
+Region III,5,Wet season,Combined,"(2, 4]",43.0,82.0,10.0,25.0,0.0,54.0
+Region III,5,Wet season,Combined,"(4, 6]",65.0,120.0,10.0,29.0,0.0,65.0
+Region III,5,Wet season,Combined,"(6, 8]",79.0,126.0,10.0,34.0,0.0,73.0
+Region III,5,Wet season,Combined,"(8, 10]",102.0,110.0,15.0,19.0,17.0,19.0
+Region III,5,Wet season,Manual,"(0, 2]",34.0,82.0,11.0,23.0,11.0,50.0
+Region III,5,Wet season,Manual,"(2, 4]",42.0,82.0,10.0,25.0,0.0,58.0
+Region III,5,Wet season,Manual,"(4, 6]",65.0,124.0,11.0,32.0,0.0,52.0
+Region III,5,Wet season,Manual,"(6, 8]",92.0,126.0,22.0,32.0,22.0,68.0
+Region III,5,Wet season,Manual,"(8, 10]",106.0,113.0,25.0,28.0,25.0,28.0
+Region III,5,Wet season,Reaper,"(0, 2]",43.0,82.0,16.0,23.0,16.0,48.0
+Region III,5,Wet season,Reaper,"(2, 4]",33.0,82.0,10.0,23.0,0.0,41.0
+Region III,5,Wet season,Reaper,"(4, 6]",77.0,110.0,20.0,29.0,20.0,43.0
+Region III,5,Wet season,Reaper,"(6, 8]",102.0,113.0,25.0,30.0,25.0,42.0
+Region III,5,Wet season,Reaper,"(8, 10]",102.0,110.0,22.0,27.0,22.0,27.0
+Region III,6,Dry season,Combined,"(0, 2]",43.0,64.0,10.0,16.0,0.0,16.0
+Region III,6,Dry season,Combined,"(2, 4]",43.0,95.0,10.0,27.0,0.0,45.0
+Region III,6,Dry season,Combined,"(4, 6]",44.0,133.0,10.0,35.0,0.0,70.0
+Region III,6,Dry season,Combined,"(6, 8]",126.0,173.0,31.0,44.0,31.0,84.0
+Region III,6,Dry season,Combined,"(8, 10]",165.0,178.0,38.0,48.0,57.0,97.0
+Region III,6,Dry season,Manual,"(0, 2]",43.0,52.0,12.0,18.0,12.0,18.0
+Region III,6,Dry season,Manual,"(2, 4]",43.0,95.0,15.0,28.0,15.0,56.0
+Region III,6,Dry season,Manual,"(4, 6]",44.0,131.0,14.0,37.0,14.0,76.0
+Region III,6,Dry season,Manual,"(6, 8]",131.0,141.0,36.0,39.0,68.0,82.0
+Region III,6,Dry season,Manual,"(8, 10]",137.0,170.0,38.0,48.0,77.0,103.0
+Region III,6,Dry season,Reaper,"(0, 2]",43.0,44.0,14.0,16.0,14.0,16.0
+Region III,6,Dry season,Reaper,"(2, 4]",43.0,92.0,11.0,27.0,0.0,53.0
+Region III,6,Dry season,Reaper,"(4, 6]",74.0,131.0,23.0,38.0,37.0,82.0
+Region III,6,Dry season,Reaper,"(6, 8]",161.0,161.0,44.0,44.0,95.0,95.0
+Region III,6,Dry season,Reaper,"(8, 10]",165.0,165.0,45.0,45.0,97.0,97.0
+Region III,6,Wet season,Combined,"(0, 2]",43.0,44.0,10.0,13.0,0.0,13.0
+Region III,6,Wet season,Combined,"(2, 4]",43.0,80.0,10.0,22.0,0.0,22.0
+Region III,6,Wet season,Combined,"(4, 6]",68.0,120.0,13.0,31.0,0.0,46.0
+Region III,6,Wet season,Combined,"(6, 8]",90.0,133.0,23.0,34.0,17.0,55.0
+Region III,6,Wet season,Combined,"(8, 10]",92.0,108.0,23.0,27.0,21.0,27.0
+Region III,6,Wet season,Manual,"(0, 2]",43.0,44.0,11.0,16.0,11.0,16.0
+Region III,6,Wet season,Manual,"(2, 4]",43.0,82.0,10.0,24.0,0.0,41.0
+Region III,6,Wet season,Manual,"(4, 6]",69.0,118.0,16.0,33.0,16.0,67.0
+Region III,6,Wet season,Manual,"(6, 8]",92.0,126.0,26.0,35.0,42.0,72.0
+Region III,6,Wet season,Manual,"(8, 10]",113.0,126.0,31.0,34.0,55.0,65.0
+Region III,6,Wet season,Reaper,"(0, 2]",43.0,44.0,15.0,16.0,15.0,16.0
+Region III,6,Wet season,Reaper,"(2, 4]",43.0,77.0,14.0,24.0,14.0,39.0
+Region III,6,Wet season,Reaper,"(4, 6]",77.0,118.0,22.0,33.0,22.0,67.0
+Region III,6,Wet season,Reaper,"(6, 8]",108.0,110.0,30.0,31.0,50.0,57.0
+Region III,6,Wet season,Reaper,"(8, 10]",102.0,106.0,29.0,31.0,47.0,60.0
+Region IX,1,Dry season,Combined,"(2, 4]",74.0,74.0,12.0,12.0,12.0,12.0
+Region IX,1,Dry season,Combined,"(8, 10]",133.0,133.0,33.0,33.0,23.0,23.0
+Region IX,1,Dry season,Manual,"(0, 2]",43.0,70.0,15.0,17.0,15.0,21.0
+Region IX,1,Dry season,Manual,"(2, 4]",54.0,88.0,15.0,23.0,13.0,28.0
+Region IX,1,Dry season,Manual,"(4, 6]",92.0,120.0,22.0,33.0,26.0,33.0
+Region IX,1,Dry season,Reaper,"(4, 6]",88.0,88.0,25.0,25.0,37.0,37.0
+Region IX,1,Wet season,Combined,"(0, 2]",59.0,59.0,10.0,10.0,12.0,12.0
+Region IX,1,Wet season,Combined,"(2, 4]",59.0,59.0,10.0,10.0,12.0,12.0
+Region IX,1,Wet season,Manual,"(0, 2]",44.0,82.0,15.0,20.0,15.0,24.0
+Region IX,1,Wet season,Manual,"(2, 4]",54.0,82.0,14.0,20.0,14.0,24.0
+Region IX,1,Wet season,Manual,"(4, 6]",84.0,116.0,21.0,32.0,24.0,50.0
+Region IX,2,Dry season,Combined,"(0, 2]",43.0,44.0,11.0,14.0,10.0,12.0
+Region IX,2,Dry season,Combined,"(2, 4]",33.0,80.0,11.0,23.0,10.0,33.0
+Region IX,2,Dry season,Combined,"(4, 6]",80.0,124.0,20.0,34.0,16.0,66.0
+Region IX,2,Dry season,Combined,"(6, 8]",120.0,141.0,30.0,38.0,30.0,76.0
+Region IX,2,Dry season,Combined,"(8, 10]",133.0,133.0,36.0,36.0,73.0,73.0
+Region IX,2,Dry season,Manual,"(0, 2]",21.0,49.0,13.0,17.0,13.0,23.0
+Region IX,2,Dry season,Manual,"(2, 4]",30.0,84.0,14.0,26.0,14.0,52.0
+Region IX,2,Dry season,Manual,"(4, 6]",61.0,120.0,17.0,35.0,20.0,75.0
+Region IX,2,Dry season,Manual,"(6, 8]",110.0,154.0,35.0,42.0,70.0,92.0
+Region IX,2,Dry season,Manual,"(8, 10]",133.0,133.0,38.0,38.0,83.0,83.0
+Region IX,2,Dry season,Reaper,"(0, 2]",43.0,43.0,16.0,16.0,21.0,21.0
+Region IX,2,Dry season,Reaper,"(2, 4]",46.0,46.0,16.0,16.0,16.0,16.0
+Region IX,2,Wet season,Combined,"(0, 2]",43.0,44.0,11.0,14.0,10.0,14.0
+Region IX,2,Wet season,Combined,"(2, 4]",21.0,80.0,11.0,22.0,0.0,22.0
+Region IX,2,Wet season,Combined,"(4, 6]",64.0,120.0,19.0,32.0,12.0,58.0
+Region IX,2,Wet season,Combined,"(6, 8]",124.0,139.0,33.0,34.0,42.0,62.0
+Region IX,2,Wet season,Combined,"(8, 10]",120.0,120.0,30.0,30.0,30.0,30.0
+Region IX,2,Wet season,Manual,"(0, 2]",30.0,46.0,10.0,17.0,0.0,21.0
+Region IX,2,Wet season,Manual,"(2, 4]",21.0,82.0,10.0,25.0,10.0,48.0
+Region IX,2,Wet season,Manual,"(4, 6]",59.0,124.0,21.0,35.0,21.0,78.0
+Region IX,2,Wet season,Manual,"(6, 8]",120.0,141.0,33.0,40.0,66.0,92.0
+Region IX,2,Wet season,Manual,"(8, 10]",126.0,137.0,36.0,38.0,77.0,82.0
+Region IX,2,Wet season,Reaper,"(2, 4]",46.0,80.0,17.0,25.0,17.0,48.0
+Region IX,2,Wet season,Reaper,"(4, 6]",88.0,88.0,26.0,26.0,40.0,40.0
+Region IX,3,Dry season,Combined,"(0, 2]",43.0,82.0,11.0,15.0,11.0,15.0
+Region IX,3,Dry season,Combined,"(2, 4]",43.0,90.0,11.0,22.0,11.0,22.0
+Region IX,3,Dry season,Combined,"(4, 6]",74.0,126.0,16.0,30.0,16.0,39.0
+Region IX,3,Dry season,Combined,"(6, 8]",124.0,146.0,31.0,34.0,31.0,47.0
+Region IX,3,Dry season,Manual,"(0, 2]",43.0,82.0,12.0,20.0,12.0,24.0
+Region IX,3,Dry season,Manual,"(2, 4]",43.0,84.0,11.0,26.0,11.0,50.0
+Region IX,3,Dry season,Manual,"(4, 6]",64.0,124.0,15.0,32.0,15.0,61.0
+Region IX,3,Dry season,Manual,"(6, 8]",146.0,146.0,37.0,37.0,80.0,80.0
+Region IX,3,Dry season,Reaper,"(2, 4]",82.0,82.0,20.0,20.0,24.0,24.0
+Region IX,3,Dry season,Reaper,"(4, 6]",98.0,98.0,28.0,28.0,48.0,48.0
+Region IX,3,Wet season,Combined,"(0, 2]",43.0,82.0,11.0,16.0,10.0,16.0
+Region IX,3,Wet season,Combined,"(2, 4]",36.0,84.0,11.0,21.0,10.0,20.0
+Region IX,3,Wet season,Combined,"(4, 6]",61.0,124.0,10.0,30.0,12.0,36.0
+Region IX,3,Wet season,Combined,"(6, 8]",126.0,139.0,30.0,34.0,22.0,48.0
+Region IX,3,Wet season,Manual,"(0, 2]",43.0,82.0,15.0,20.0,13.0,24.0
+Region IX,3,Wet season,Manual,"(2, 4]",43.0,84.0,15.0,25.0,13.0,48.0
+Region IX,3,Wet season,Manual,"(4, 6]",82.0,124.0,20.0,34.0,24.0,66.0
+Region IX,3,Wet season,Manual,"(6, 8]",126.0,131.0,34.0,36.0,53.0,74.0
+Region IX,3,Wet season,Manual,"(8, 10]",152.0,152.0,37.0,41.0,66.0,76.0
+Region IX,3,Wet season,Reaper,"(0, 2]",43.0,43.0,15.0,15.0,16.0,16.0
+Region IX,3,Wet season,Reaper,"(2, 4]",57.0,57.0,18.0,18.0,18.0,18.0
+Region IX,4,Dry season,Combined,"(0, 2]",46.0,82.0,10.0,16.0,0.0,16.0
+Region IX,4,Dry season,Combined,"(2, 4]",46.0,88.0,10.0,19.0,10.0,19.0
+Region IX,4,Dry season,Combined,"(4, 6]",59.0,128.0,10.0,30.0,10.0,30.0
+Region IX,4,Dry season,Combined,"(6, 8]",106.0,154.0,23.0,36.0,22.0,36.0
+Region IX,4,Dry season,Combined,"(8, 10]",110.0,154.0,24.0,36.0,23.0,36.0
+Region IX,4,Dry season,Manual,"(0, 2]",46.0,82.0,10.0,20.0,0.0,24.0
+Region IX,4,Dry season,Manual,"(2, 4]",46.0,98.0,11.0,27.0,0.0,27.0
+Region IX,4,Dry season,Manual,"(4, 6]",59.0,128.0,10.0,35.0,0.0,49.0
+Region IX,4,Dry season,Manual,"(6, 8]",106.0,169.0,27.0,46.0,27.0,82.0
+Region IX,4,Dry season,Manual,"(8, 10]",102.0,152.0,27.0,41.0,27.0,67.0
+Region IX,4,Dry season,Reaper,"(0, 2]",59.0,82.0,13.0,20.0,13.0,24.0
+Region IX,4,Dry season,Reaper,"(2, 4]",70.0,82.0,17.0,21.0,17.0,24.0
+Region IX,4,Dry season,Reaper,"(4, 6]",78.0,126.0,20.0,34.0,20.0,34.0
+Region IX,4,Wet season,Combined,"(0, 2]",59.0,82.0,10.0,16.0,12.0,16.0
+Region IX,4,Wet season,Combined,"(2, 4]",57.0,92.0,10.0,19.0,0.0,17.0
+Region IX,4,Wet season,Combined,"(4, 6]",61.0,128.0,10.0,31.0,0.0,30.0
+Region IX,4,Wet season,Combined,"(6, 8]",102.0,146.0,23.0,35.0,16.0,34.0
+Region IX,4,Wet season,Combined,"(8, 10]",116.0,146.0,26.0,35.0,17.0,34.0
+Region IX,4,Wet season,Manual,"(0, 2]",57.0,82.0,13.0,20.0,13.0,24.0
+Region IX,4,Wet season,Manual,"(2, 4]",56.0,92.0,11.0,23.0,0.0,35.0
+Region IX,4,Wet season,Manual,"(4, 6]",61.0,126.0,14.0,36.0,20.0,68.0
+Region IX,4,Wet season,Manual,"(6, 8]",102.0,152.0,27.0,42.0,48.0,85.0
+Region IX,4,Wet season,Manual,"(8, 10]",116.0,152.0,30.0,41.0,53.0,76.0
+Region IX,4,Wet season,Reaper,"(0, 2]",82.0,82.0,20.0,20.0,20.0,20.0
+Region IX,4,Wet season,Reaper,"(2, 4]",67.0,82.0,18.0,20.0,18.0,24.0
+Region IX,4,Wet season,Reaper,"(4, 6]",66.0,108.0,15.0,30.0,15.0,40.0
+Region IX,5,Dry season,Combined,"(2, 4]",14.0,17.0,10.0,10.0,10.0,10.0
+Region IX,5,Dry season,Combined,"(4, 6]",37.0,60.0,10.0,14.0,10.0,14.0
+Region IX,5,Dry season,Combined,"(6, 8]",93.0,93.0,18.0,18.0,18.0,18.0
+Region IX,5,Dry season,Manual,"(2, 4]",10.0,27.0,10.0,12.0,10.0,12.0
+Region IX,5,Dry season,Manual,"(4, 6]",45.0,62.0,10.0,19.0,11.0,24.0
+Region IX,5,Dry season,Reaper,"(8, 10]",93.0,93.0,24.0,24.0,54.0,54.0
+Region IX,5,Wet season,Combined,"(0, 2]",43.0,70.0,15.0,18.0,15.0,18.0
+Region IX,5,Wet season,Combined,"(2, 4]",43.0,82.0,11.0,20.0,11.0,20.0
+Region IX,5,Wet season,Combined,"(4, 6]",84.0,106.0,17.0,24.0,16.0,24.0
+Region IX,5,Wet season,Manual,"(0, 2]",43.0,82.0,16.0,23.0,17.0,46.0
+Region IX,5,Wet season,Manual,"(2, 4]",43.0,88.0,12.0,23.0,12.0,42.0
+Region IX,5,Wet season,Manual,"(4, 6]",60.0,124.0,11.0,32.0,11.0,43.0
+Region IX,5,Wet season,Reaper,"(2, 4]",70.0,70.0,19.0,19.0,19.0,19.0
+Region IX,6,Dry season,Combined,"(0, 2]",43.0,44.0,11.0,12.0,10.0,12.0
+Region IX,6,Dry season,Combined,"(2, 4]",36.0,88.0,12.0,22.0,11.0,22.0
+Region IX,6,Dry season,Combined,"(4, 6]",82.0,124.0,21.0,30.0,16.0,50.0
+Region IX,6,Dry season,Combined,"(6, 8]",128.0,141.0,32.0,35.0,41.0,49.0
+Region IX,6,Dry season,Manual,"(0, 2]",43.0,46.0,15.0,17.0,15.0,23.0
+Region IX,6,Dry season,Manual,"(2, 4]",32.0,88.0,15.0,27.0,11.0,54.0
+Region IX,6,Dry season,Manual,"(4, 6]",76.0,128.0,19.0,36.0,34.0,74.0
+Region IX,6,Dry season,Manual,"(6, 8]",126.0,161.0,36.0,43.0,72.0,94.0
+Region IX,6,Dry season,Manual,"(8, 10]",152.0,152.0,41.0,41.0,84.0,84.0
+Region IX,6,Dry season,Reaper,"(0, 2]",43.0,44.0,15.0,16.0,15.0,21.0
+Region IX,6,Dry season,Reaper,"(2, 4]",51.0,77.0,17.0,23.0,17.0,23.0
+Region IX,6,Wet season,Combined,"(0, 2]",43.0,44.0,11.0,14.0,10.0,12.0
+Region IX,6,Wet season,Combined,"(2, 4]",33.0,84.0,11.0,23.0,10.0,27.0
+Region IX,6,Wet season,Combined,"(4, 6]",61.0,126.0,21.0,31.0,12.0,45.0
+Region IX,6,Wet season,Combined,"(6, 8]",116.0,143.0,32.0,36.0,33.0,52.0
+Region IX,6,Wet season,Combined,"(8, 10]",125.0,146.0,36.0,36.0,46.0,54.0
+Region IX,6,Wet season,Manual,"(0, 2]",21.0,54.0,13.0,19.0,10.0,26.0
+Region IX,6,Wet season,Manual,"(2, 4]",30.0,84.0,10.0,26.0,0.0,50.0
+Region IX,6,Wet season,Manual,"(4, 6]",61.0,126.0,24.0,36.0,30.0,80.0
+Region IX,6,Wet season,Manual,"(6, 8]",102.0,143.0,35.0,40.0,60.0,92.0
+Region IX,6,Wet season,Manual,"(8, 10]",125.0,125.0,40.0,40.0,78.0,78.0
+Region IX,6,Wet season,Reaper,"(0, 2]",43.0,43.0,15.0,15.0,16.0,16.0
+Region IX,6,Wet season,Reaper,"(2, 4]",49.0,49.0,17.0,17.0,23.0,23.0
+Region IX,6,Wet season,Reaper,"(4, 6]",84.0,110.0,25.0,30.0,37.0,61.0
+Region V,0,Dry season,Combined,"(0, 2]",56.0,70.0,12.0,14.0,12.0,14.0
+Region V,0,Dry season,Combined,"(2, 4]",67.0,84.0,12.0,19.0,12.0,19.0
+Region V,0,Dry season,Combined,"(4, 6]",70.0,124.0,14.0,30.0,14.0,30.0
+Region V,0,Dry season,Combined,"(6, 8]",100.0,143.0,25.0,36.0,21.0,36.0
+Region V,0,Dry season,Manual,"(0, 2]",54.0,82.0,10.0,20.0,0.0,21.0
+Region V,0,Dry season,Manual,"(2, 4]",54.0,90.0,10.0,23.0,0.0,24.0
+Region V,0,Dry season,Manual,"(4, 6]",70.0,131.0,13.0,36.0,0.0,52.0
+Region V,0,Dry season,Manual,"(6, 8]",70.0,161.0,17.0,44.0,17.0,75.0
+Region V,0,Dry season,Manual,"(8, 10]",102.0,161.0,29.0,44.0,29.0,75.0
+Region V,0,Dry season,Manual,"(10, 13]",159.0,159.0,43.0,43.0,73.0,73.0
+Region V,0,Dry season,Reaper,"(0, 2]",70.0,70.0,18.0,18.0,18.0,18.0
+Region V,0,Dry season,Reaper,"(2, 4]",62.0,74.0,16.0,19.0,16.0,19.0
+Region V,0,Dry season,Reaper,"(4, 6]",84.0,116.0,21.0,32.0,21.0,32.0
+Region V,0,Wet season,Combined,"(0, 2]",70.0,82.0,14.0,16.0,14.0,16.0
+Region V,0,Wet season,Combined,"(2, 4]",70.0,82.0,14.0,16.0,14.0,16.0
+Region V,0,Wet season,Combined,"(4, 6]",70.0,118.0,14.0,28.0,0.0,28.0
+Region V,0,Wet season,Combined,"(6, 8]",90.0,118.0,19.0,29.0,19.0,29.0
+Region V,0,Wet season,Combined,"(8, 10]",110.0,118.0,27.0,28.0,27.0,28.0
+Region V,0,Wet season,Manual,"(0, 2]",70.0,82.0,17.0,20.0,17.0,24.0
+Region V,0,Wet season,Manual,"(2, 4]",54.0,82.0,10.0,21.0,0.0,25.0
+Region V,0,Wet season,Manual,"(4, 6]",68.0,118.0,12.0,33.0,0.0,53.0
+Region V,0,Wet season,Manual,"(6, 8]",80.0,128.0,20.0,35.0,20.0,59.0
+Region V,0,Wet season,Manual,"(8, 10]",106.0,120.0,30.0,34.0,42.0,56.0
+Region V,0,Wet season,Reaper,"(2, 4]",70.0,82.0,17.0,20.0,18.0,25.0
+Region V,0,Wet season,Reaper,"(4, 6]",70.0,102.0,18.0,29.0,18.0,42.0
+Region V,1,Dry season,Combined,"(0, 2]",70.0,70.0,14.0,14.0,14.0,14.0
+Region V,1,Dry season,Combined,"(2, 4]",70.0,82.0,14.0,17.0,14.0,17.0
+Region V,1,Dry season,Combined,"(4, 6]",82.0,102.0,17.0,26.0,16.0,26.0
+Region V,1,Dry season,Manual,"(0, 2]",43.0,70.0,15.0,18.0,15.0,21.0
+Region V,1,Dry season,Manual,"(2, 4]",43.0,84.0,15.0,22.0,15.0,24.0
+Region V,1,Dry season,Manual,"(4, 6]",74.0,128.0,19.0,35.0,19.0,55.0
+Region V,1,Dry season,Manual,"(6, 8]",102.0,133.0,26.0,37.0,26.0,51.0
+Region V,1,Dry season,Manual,"(8, 10]",102.0,133.0,29.0,37.0,29.0,51.0
+Region V,1,Dry season,Reaper,"(0, 2]",70.0,70.0,18.0,18.0,18.0,18.0
+Region V,1,Dry season,Reaper,"(4, 6]",98.0,98.0,28.0,28.0,28.0,28.0
+Region V,1,Wet season,Combined,"(0, 2]",58.0,82.0,10.0,16.0,0.0,16.0
+Region V,1,Wet season,Combined,"(2, 4]",70.0,82.0,14.0,16.0,14.0,16.0
+Region V,1,Wet season,Combined,"(4, 6]",70.0,116.0,14.0,29.0,14.0,29.0
+Region V,1,Wet season,Combined,"(6, 8]",106.0,106.0,26.0,26.0,19.0,19.0
+Region V,1,Wet season,Combined,"(8, 10]",118.0,118.0,29.0,29.0,22.0,22.0
+Region V,1,Wet season,Manual,"(0, 2]",43.0,70.0,13.0,18.0,14.0,21.0
+Region V,1,Wet season,Manual,"(2, 4]",43.0,82.0,10.0,22.0,0.0,34.0
+Region V,1,Wet season,Manual,"(4, 6]",72.0,113.0,16.0,32.0,16.0,55.0
+Region V,1,Wet season,Manual,"(6, 8]",90.0,131.0,23.0,36.0,32.0,61.0
+Region V,1,Wet season,Manual,"(8, 10]",106.0,120.0,30.0,33.0,44.0,53.0
+Region V,1,Wet season,Reaper,"(0, 2]",70.0,70.0,17.0,17.0,18.0,18.0
+Region V,1,Wet season,Reaper,"(2, 4]",57.0,74.0,15.0,19.0,18.0,19.0
+Region V,1,Wet season,Reaper,"(4, 6]",98.0,98.0,28.0,28.0,38.0,38.0
+Region V,2,Dry season,Combined,"(0, 2]",43.0,70.0,12.0,14.0,12.0,14.0
+Region V,2,Dry season,Combined,"(2, 4]",43.0,80.0,12.0,23.0,12.0,23.0
+Region V,2,Dry season,Combined,"(4, 6]",80.0,118.0,16.0,29.0,16.0,30.0
+Region V,2,Dry season,Combined,"(6, 8]",70.0,70.0,14.0,14.0,14.0,14.0
+Region V,2,Dry season,Manual,"(0, 2]",43.0,82.0,11.0,20.0,11.0,20.0
+Region V,2,Dry season,Manual,"(2, 4]",43.0,88.0,13.0,26.0,13.0,49.0
+Region V,2,Dry season,Manual,"(4, 6]",72.0,126.0,18.0,36.0,18.0,80.0
+Region V,2,Dry season,Manual,"(6, 8]",95.0,139.0,28.0,39.0,29.0,88.0
+Region V,2,Dry season,Manual,"(8, 10]",100.0,124.0,29.0,34.0,32.0,69.0
+Region V,2,Dry season,Reaper,"(2, 4]",43.0,70.0,16.0,20.0,16.0,20.0
+Region V,2,Dry season,Reaper,"(4, 6]",84.0,110.0,25.0,31.0,31.0,40.0
+Region V,2,Wet season,Combined,"(0, 2]",43.0,82.0,11.0,16.0,10.0,16.0
+Region V,2,Wet season,Combined,"(2, 4]",43.0,82.0,11.0,20.0,10.0,19.0
+Region V,2,Wet season,Combined,"(4, 6]",74.0,116.0,16.0,28.0,15.0,35.0
+Region V,2,Wet season,Combined,"(6, 8]",118.0,118.0,29.0,29.0,29.0,29.0
+Region V,2,Wet season,Combined,"(8, 10]",82.0,110.0,21.0,27.0,21.0,27.0
+Region V,2,Wet season,Manual,"(0, 2]",30.0,82.0,10.0,20.0,0.0,24.0
+Region V,2,Wet season,Manual,"(2, 4]",31.0,88.0,10.0,26.0,0.0,44.0
+Region V,2,Wet season,Manual,"(4, 6]",70.0,118.0,18.0,33.0,18.0,62.0
+Region V,2,Wet season,Manual,"(6, 8]",95.0,118.0,27.0,33.0,42.0,62.0
+Region V,2,Wet season,Manual,"(8, 10]",106.0,108.0,29.0,30.0,40.0,43.0
+Region V,2,Wet season,Reaper,"(0, 2]",43.0,70.0,15.0,18.0,15.0,18.0
+Region V,2,Wet season,Reaper,"(2, 4]",57.0,74.0,15.0,19.0,15.0,19.0
+Region V,2,Wet season,Reaper,"(4, 6]",92.0,92.0,23.0,23.0,23.0,23.0
+Region V,3,Dry season,Combined,"(0, 2]",58.0,70.0,10.0,14.0,0.0,14.0
+Region V,3,Dry season,Combined,"(2, 4]",70.0,84.0,12.0,18.0,12.0,18.0
+Region V,3,Dry season,Combined,"(4, 6]",70.0,126.0,14.0,31.0,14.0,31.0
+Region V,3,Dry season,Combined,"(6, 8]",106.0,139.0,26.0,34.0,26.0,34.0
+Region V,3,Dry season,Combined,"(8, 10]",137.0,137.0,34.0,34.0,34.0,34.0
+Region V,3,Dry season,Combined,"(10, 13]",124.0,124.0,31.0,31.0,31.0,31.0
+Region V,3,Dry season,Manual,"(0, 2]",57.0,70.0,11.0,18.0,0.0,21.0
+Region V,3,Dry season,Manual,"(2, 4]",51.0,90.0,10.0,23.0,0.0,29.0
+Region V,3,Dry season,Manual,"(4, 6]",70.0,126.0,17.0,35.0,17.0,46.0
+Region V,3,Dry season,Manual,"(6, 8]",70.0,159.0,17.0,43.0,18.0,73.0
+Region V,3,Dry season,Manual,"(8, 10]",124.0,139.0,34.0,38.0,43.0,54.0
+Region V,3,Dry season,Reaper,"(0, 2]",52.0,70.0,10.0,18.0,0.0,18.0
+Region V,3,Dry season,Reaper,"(2, 4]",70.0,70.0,18.0,18.0,18.0,18.0
+Region V,3,Dry season,Reaper,"(4, 6]",72.0,124.0,18.0,34.0,18.0,43.0
+Region V,3,Dry season,Reaper,"(6, 8]",118.0,118.0,33.0,33.0,33.0,33.0
+Region V,3,Wet season,Combined,"(0, 2]",70.0,82.0,14.0,16.0,14.0,16.0
+Region V,3,Wet season,Combined,"(2, 4]",57.0,82.0,11.0,17.0,0.0,17.0
+Region V,3,Wet season,Combined,"(4, 6]",70.0,116.0,12.0,29.0,0.0,29.0
+Region V,3,Wet season,Combined,"(6, 8]",90.0,118.0,19.0,29.0,18.0,29.0
+Region V,3,Wet season,Combined,"(8, 10]",106.0,110.0,26.0,27.0,20.0,26.0
+Region V,3,Wet season,Manual,"(0, 2]",57.0,82.0,14.0,20.0,14.0,24.0
+Region V,3,Wet season,Manual,"(2, 4]",43.0,84.0,10.0,21.0,0.0,31.0
+Region V,3,Wet season,Manual,"(4, 6]",61.0,113.0,10.0,32.0,0.0,50.0
+Region V,3,Wet season,Manual,"(6, 8]",82.0,120.0,21.0,34.0,21.0,56.0
+Region V,3,Wet season,Manual,"(8, 10]",102.0,118.0,29.0,33.0,42.0,53.0
+Region V,3,Wet season,Reaper,"(0, 2]",70.0,70.0,17.0,18.0,18.0,18.0
+Region V,3,Wet season,Reaper,"(2, 4]",70.0,82.0,17.0,20.0,18.0,24.0
+Region V,3,Wet season,Reaper,"(4, 6]",70.0,118.0,18.0,33.0,18.0,54.0
+Region V,3,Wet season,Reaper,"(6, 8]",102.0,102.0,29.0,29.0,42.0,42.0
+Region V,4,Dry season,Combined,"(0, 2]",70.0,70.0,14.0,14.0,14.0,14.0
+Region V,4,Dry season,Combined,"(2, 4]",70.0,80.0,14.0,17.0,14.0,16.0
+Region V,4,Dry season,Combined,"(4, 6]",92.0,118.0,20.0,29.0,19.0,29.0
+Region V,4,Dry season,Combined,"(6, 8]",128.0,131.0,31.0,33.0,22.0,33.0
+Region V,4,Dry season,Manual,"(0, 2]",56.0,82.0,14.0,20.0,14.0,24.0
+Region V,4,Dry season,Manual,"(2, 4]",48.0,90.0,10.0,23.0,0.0,24.0
+Region V,4,Dry season,Manual,"(4, 6]",72.0,126.0,18.0,35.0,18.0,45.0
+Region V,4,Dry season,Manual,"(6, 8]",98.0,141.0,27.0,38.0,27.0,56.0
+Region V,4,Dry season,Manual,"(8, 10]",108.0,143.0,30.0,39.0,30.0,58.0
+Region V,4,Dry season,Reaper,"(2, 4]",57.0,57.0,15.0,15.0,15.0,15.0
+Region V,4,Dry season,Reaper,"(4, 6]",95.0,95.0,28.0,28.0,28.0,28.0
+Region V,4,Wet season,Combined,"(0, 2]",70.0,70.0,14.0,14.0,14.0,14.0
+Region V,4,Wet season,Combined,"(2, 4]",70.0,82.0,14.0,17.0,14.0,16.0
+Region V,4,Wet season,Combined,"(4, 6]",80.0,116.0,16.0,28.0,15.0,20.0
+Region V,4,Wet season,Combined,"(6, 8]",100.0,118.0,24.0,29.0,18.0,21.0
+Region V,4,Wet season,Manual,"(0, 2]",45.0,82.0,10.0,20.0,0.0,21.0
+Region V,4,Wet season,Manual,"(2, 4]",45.0,84.0,10.0,21.0,0.0,25.0
+Region V,4,Wet season,Manual,"(4, 6]",70.0,118.0,18.0,33.0,18.0,52.0
+Region V,4,Wet season,Manual,"(6, 8]",77.0,118.0,19.0,33.0,19.0,54.0
+Region V,4,Wet season,Manual,"(8, 10]",74.0,118.0,19.0,33.0,19.0,52.0
+Region V,4,Wet season,Reaper,"(0, 2]",70.0,70.0,18.0,18.0,21.0,21.0
+Region V,4,Wet season,Reaper,"(2, 4]",70.0,82.0,18.0,20.0,18.0,21.0
+Region V,4,Wet season,Reaper,"(4, 6]",80.0,95.0,20.0,27.0,20.0,37.0
+Region V,4,Wet season,Reaper,"(6, 8]",113.0,113.0,32.0,32.0,48.0,48.0
+Region V,5,Dry season,Combined,"(2, 4]",11.0,11.0,10.0,10.0,10.0,10.0
+Region V,5,Dry season,Combined,"(4, 6]",55.0,70.0,10.0,11.0,10.0,11.0
+Region V,5,Dry season,Combined,"(6, 8]",93.0,93.0,18.0,18.0,18.0,18.0
+Region V,5,Dry season,Manual,"(0, 2]",37.0,43.0,10.0,17.0,10.0,20.0
+Region V,5,Dry season,Manual,"(2, 4]",10.0,43.0,10.0,16.0,10.0,20.0
+Region V,5,Dry season,Manual,"(4, 6]",37.0,84.0,10.0,22.0,10.0,27.0
+Region V,5,Dry season,Manual,"(6, 8]",50.0,106.0,10.0,24.0,16.0,31.0
+Region V,5,Dry season,Manual,"(8, 10]",78.0,91.0,12.0,23.0,27.0,29.0
+Region V,5,Dry season,Reaper,"(4, 6]",53.0,53.0,10.0,10.0,22.0,22.0
+Region V,5,Wet season,Combined,"(0, 2]",43.0,70.0,16.0,19.0,15.0,23.0
+Region V,5,Wet season,Combined,"(2, 4]",43.0,77.0,14.0,17.0,10.0,16.0
+Region V,5,Wet season,Combined,"(4, 6]",74.0,106.0,16.0,24.0,17.0,24.0
+Region V,5,Wet season,Combined,"(6, 8]",102.0,102.0,20.0,20.0,20.0,20.0
+Region V,5,Wet season,Manual,"(0, 2]",30.0,82.0,10.0,23.0,0.0,43.0
+Region V,5,Wet season,Manual,"(2, 4]",43.0,82.0,10.0,24.0,0.0,34.0
+Region V,5,Wet season,Manual,"(4, 6]",70.0,110.0,16.0,32.0,16.0,68.0
+Region V,5,Wet season,Manual,"(6, 8]",77.0,113.0,20.0,29.0,20.0,29.0
+Region V,5,Wet season,Manual,"(8, 10]",90.0,113.0,18.0,27.0,18.0,27.0
+Region V,5,Wet season,Reaper,"(0, 2]",70.0,70.0,20.0,20.0,36.0,36.0
+Region V,5,Wet season,Reaper,"(2, 4]",70.0,70.0,19.0,19.0,19.0,28.0
+Region V,6,Dry season,Combined,"(2, 4]",43.0,74.0,11.0,20.0,11.0,20.0
+Region V,6,Dry season,Combined,"(4, 6]",80.0,118.0,20.0,29.0,20.0,29.0
+Region V,6,Dry season,Combined,"(6, 8]",108.0,118.0,28.0,30.0,30.0,38.0
+Region V,6,Dry season,Manual,"(0, 2]",33.0,51.0,10.0,17.0,0.0,20.0
+Region V,6,Dry season,Manual,"(2, 4]",43.0,84.0,11.0,26.0,11.0,48.0
+Region V,6,Dry season,Manual,"(4, 6]",61.0,126.0,15.0,36.0,15.0,76.0
+Region V,6,Dry season,Manual,"(6, 8]",74.0,139.0,23.0,38.0,34.0,78.0
+Region V,6,Dry season,Manual,"(8, 10]",95.0,124.0,28.0,34.0,55.0,72.0
+Region V,6,Dry season,Reaper,"(0, 2]",43.0,43.0,16.0,16.0,16.0,16.0
+Region V,6,Dry season,Reaper,"(2, 4]",49.0,72.0,16.0,22.0,16.0,33.0
+Region V,6,Dry season,Reaper,"(4, 6]",88.0,92.0,26.0,27.0,45.0,50.0
+Region V,6,Wet season,Combined,"(0, 2]",43.0,44.0,10.0,13.0,0.0,12.0
+Region V,6,Wet season,Combined,"(2, 4]",43.0,80.0,12.0,21.0,0.0,19.0
+Region V,6,Wet season,Combined,"(4, 6]",74.0,95.0,20.0,25.0,20.0,25.0
+Region V,6,Wet season,Combined,"(6, 8]",82.0,82.0,22.0,22.0,16.0,16.0
+Region V,6,Wet season,Manual,"(0, 2]",34.0,49.0,10.0,17.0,0.0,17.0
+Region V,6,Wet season,Manual,"(2, 4]",43.0,82.0,11.0,25.0,11.0,42.0
+Region V,6,Wet season,Manual,"(4, 6]",64.0,113.0,19.0,33.0,19.0,67.0
+Region V,6,Wet season,Manual,"(6, 8]",84.0,120.0,25.0,34.0,43.0,70.0
+Region V,6,Wet season,Reaper,"(0, 2]",43.0,43.0,16.0,16.0,16.0,16.0
+Region V,6,Wet season,Reaper,"(2, 4]",59.0,67.0,19.0,21.0,19.0,30.0
+Region V,6,Wet season,Reaper,"(4, 6]",84.0,84.0,25.0,25.0,42.0,42.0
+Region V,6,Wet season,Reaper,"(6, 8]",70.0,70.0,22.0,22.0,22.0,22.0
+Region VI,0,Dry season,Manual,"(2, 4]",82.0,82.0,20.0,20.0,20.0,20.0
+Region VI,1,Dry season,Combined,"(0, 2]",43.0,57.0,11.0,13.0,10.0,13.0
+Region VI,1,Dry season,Combined,"(2, 4]",49.0,88.0,11.0,23.0,0.0,22.0
+Region VI,1,Dry season,Combined,"(4, 6]",72.0,124.0,15.0,32.0,15.0,53.0
+Region VI,1,Dry season,Combined,"(6, 8]",126.0,159.0,31.0,39.0,28.0,64.0
+Region VI,1,Dry season,Combined,"(8, 10]",146.0,154.0,37.0,39.0,36.0,39.0
+Region VI,1,Dry season,Manual,"(0, 2]",43.0,70.0,11.0,18.0,0.0,25.0
+Region VI,1,Dry season,Manual,"(2, 4]",43.0,100.0,10.0,28.0,0.0,54.0
+Region VI,1,Dry season,Manual,"(4, 6]",57.0,133.0,15.0,37.0,0.0,72.0
+Region VI,1,Dry season,Manual,"(6, 8]",57.0,167.0,15.0,45.0,15.0,82.0
+Region VI,1,Dry season,Manual,"(8, 10]",141.0,178.0,38.0,50.0,55.0,89.0
+Region VI,1,Dry season,Reaper,"(0, 2]",43.0,70.0,15.0,18.0,16.0,18.0
+Region VI,1,Dry season,Reaper,"(2, 4]",43.0,82.0,15.0,21.0,15.0,24.0
+Region VI,1,Dry season,Reaper,"(4, 6]",80.0,106.0,23.0,30.0,23.0,41.0
+Region VI,1,Dry season,Reaper,"(8, 10]",146.0,146.0,40.0,40.0,64.0,64.0
+Region VI,1,Wet season,Combined,"(0, 2]",43.0,70.0,11.0,16.0,11.0,19.0
+Region VI,1,Wet season,Combined,"(2, 4]",43.0,82.0,10.0,23.0,0.0,33.0
+Region VI,1,Wet season,Combined,"(4, 6]",72.0,120.0,15.0,31.0,15.0,52.0
+Region VI,1,Wet season,Combined,"(6, 8]",108.0,131.0,25.0,33.0,20.0,44.0
+Region VI,1,Wet season,Manual,"(0, 2]",43.0,82.0,12.0,20.0,12.0,30.0
+Region VI,1,Wet season,Manual,"(2, 4]",43.0,88.0,10.0,27.0,0.0,54.0
+Region VI,1,Wet season,Manual,"(4, 6]",70.0,124.0,15.0,35.0,15.0,66.0
+Region VI,1,Wet season,Manual,"(6, 8]",95.0,143.0,26.0,40.0,27.0,80.0
+Region VI,1,Wet season,Manual,"(8, 10]",110.0,139.0,29.0,37.0,44.0,65.0
+Region VI,1,Wet season,Manual,"(10, 13]",143.0,143.0,39.0,39.0,70.0,70.0
+Region VI,1,Wet season,Reaper,"(0, 2]",43.0,57.0,15.0,16.0,15.0,16.0
+Region VI,1,Wet season,Reaper,"(2, 4]",43.0,82.0,15.0,23.0,15.0,37.0
+Region VI,1,Wet season,Reaper,"(4, 6]",80.0,118.0,21.0,34.0,21.0,76.0
+Region VI,1,Wet season,Reaper,"(6, 8]",110.0,110.0,31.0,31.0,49.0,49.0
+Region VI,2,Dry season,Combined,"(0, 2]",43.0,43.0,12.0,14.0,12.0,14.0
+Region VI,2,Dry season,Combined,"(2, 4]",43.0,74.0,12.0,21.0,11.0,21.0
+Region VI,2,Dry season,Combined,"(4, 6]",80.0,124.0,17.0,32.0,17.0,45.0
+Region VI,2,Dry season,Combined,"(6, 8]",152.0,152.0,39.0,39.0,72.0,72.0
+Region VI,2,Dry season,Manual,"(0, 2]",43.0,82.0,10.0,20.0,0.0,29.0
+Region VI,2,Dry season,Manual,"(2, 4]",43.0,84.0,10.0,26.0,0.0,49.0
+Region VI,2,Dry season,Manual,"(4, 6]",72.0,128.0,16.0,36.0,16.0,75.0
+Region VI,2,Dry season,Manual,"(6, 8]",95.0,146.0,26.0,41.0,44.0,87.0
+Region VI,2,Dry season,Manual,"(8, 10]",113.0,146.0,28.0,40.0,56.0,85.0
+Region VI,2,Dry season,Reaper,"(0, 2]",43.0,43.0,15.0,16.0,15.0,16.0
+Region VI,2,Dry season,Reaper,"(2, 4]",43.0,74.0,15.0,23.0,15.0,35.0
+Region VI,2,Dry season,Reaper,"(4, 6]",82.0,110.0,26.0,32.0,48.0,64.0
+Region VI,2,Wet season,Combined,"(0, 2]",43.0,56.0,10.0,15.0,0.0,15.0
+Region VI,2,Wet season,Combined,"(2, 4]",43.0,80.0,12.0,22.0,10.0,22.0
+Region VI,2,Wet season,Combined,"(4, 6]",74.0,118.0,20.0,34.0,15.0,68.0
+Region VI,2,Wet season,Combined,"(6, 8]",118.0,124.0,28.0,33.0,38.0,63.0
+Region VI,2,Wet season,Manual,"(0, 2]",30.0,82.0,10.0,20.0,0.0,29.0
+Region VI,2,Wet season,Manual,"(2, 4]",30.0,84.0,10.0,26.0,0.0,49.0
+Region VI,2,Wet season,Manual,"(4, 6]",70.0,126.0,20.0,35.0,20.0,76.0
+Region VI,2,Wet season,Manual,"(6, 8]",92.0,143.0,27.0,40.0,50.0,84.0
+Region VI,2,Wet season,Manual,"(8, 10]",118.0,120.0,34.0,34.0,62.0,67.0
+Region VI,2,Wet season,Reaper,"(0, 2]",43.0,43.0,15.0,17.0,15.0,17.0
+Region VI,2,Wet season,Reaper,"(2, 4]",43.0,77.0,14.0,23.0,14.0,37.0
+Region VI,2,Wet season,Reaper,"(4, 6]",88.0,95.0,26.0,28.0,46.0,54.0
+Region VI,3,Dry season,Combined,"(0, 2]",43.0,57.0,10.0,13.0,0.0,13.0
+Region VI,3,Dry season,Combined,"(2, 4]",43.0,88.0,10.0,22.0,0.0,22.0
+Region VI,3,Dry season,Combined,"(4, 6]",72.0,124.0,17.0,31.0,16.0,41.0
+Region VI,3,Dry season,Combined,"(6, 8]",118.0,137.0,30.0,35.0,24.0,60.0
+Region VI,3,Dry season,Combined,"(8, 10]",124.0,154.0,31.0,39.0,31.0,39.0
+Region VI,3,Dry season,Manual,"(0, 2]",43.0,82.0,10.0,20.0,0.0,21.0
+Region VI,3,Dry season,Manual,"(2, 4]",43.0,100.0,10.0,29.0,0.0,52.0
+Region VI,3,Dry season,Manual,"(4, 6]",57.0,128.0,15.0,36.0,15.0,73.0
+Region VI,3,Dry season,Manual,"(6, 8]",102.0,154.0,29.0,41.0,29.0,88.0
+Region VI,3,Dry season,Manual,"(8, 10]",102.0,139.0,29.0,38.0,29.0,70.0
+Region VI,3,Dry season,Reaper,"(0, 2]",43.0,82.0,15.0,20.0,15.0,20.0
+Region VI,3,Dry season,Reaper,"(2, 4]",43.0,82.0,15.0,26.0,15.0,48.0
+Region VI,3,Dry season,Reaper,"(4, 6]",77.0,126.0,20.0,35.0,20.0,62.0
+Region VI,3,Dry season,Reaper,"(8, 10]",106.0,124.0,30.0,34.0,30.0,44.0
+Region VI,3,Wet season,Combined,"(0, 2]",43.0,70.0,11.0,16.0,10.0,16.0
+Region VI,3,Wet season,Combined,"(2, 4]",43.0,88.0,10.0,25.0,0.0,38.0
+Region VI,3,Wet season,Combined,"(4, 6]",72.0,120.0,16.0,34.0,11.0,68.0
+Region VI,3,Wet season,Combined,"(6, 8]",90.0,131.0,19.0,36.0,19.0,71.0
+Region VI,3,Wet season,Combined,"(8, 10]",110.0,131.0,28.0,33.0,28.0,33.0
+Region VI,3,Wet season,Manual,"(0, 2]",43.0,82.0,12.0,20.0,12.0,30.0
+Region VI,3,Wet season,Manual,"(2, 4]",43.0,90.0,10.0,27.0,0.0,54.0
+Region VI,3,Wet season,Manual,"(4, 6]",70.0,120.0,12.0,35.0,12.0,76.0
+Region VI,3,Wet season,Manual,"(6, 8]",92.0,139.0,23.0,38.0,32.0,80.0
+Region VI,3,Wet season,Manual,"(8, 10]",98.0,131.0,28.0,37.0,39.0,72.0
+Region VI,3,Wet season,Reaper,"(0, 2]",43.0,70.0,14.0,18.0,14.0,18.0
+Region VI,3,Wet season,Reaper,"(2, 4]",51.0,82.0,15.0,23.0,15.0,37.0
+Region VI,3,Wet season,Reaper,"(4, 6]",77.0,118.0,20.0,33.0,20.0,58.0
+Region VI,3,Wet season,Reaper,"(6, 8]",100.0,128.0,28.0,36.0,39.0,72.0
+Region VI,4,Dry season,Combined,"(0, 2]",56.0,57.0,11.0,11.0,11.0,11.0
+Region VI,4,Dry season,Combined,"(2, 4]",57.0,82.0,11.0,18.0,11.0,18.0
+Region VI,4,Dry season,Combined,"(4, 6]",82.0,126.0,18.0,32.0,18.0,32.0
+Region VI,4,Dry season,Combined,"(6, 8]",124.0,143.0,31.0,36.0,31.0,36.0
+Region VI,4,Dry season,Combined,"(8, 10]",124.0,124.0,31.0,31.0,31.0,31.0
+Region VI,4,Dry season,Manual,"(0, 2]",56.0,82.0,12.0,20.0,12.0,20.0
+Region VI,4,Dry season,Manual,"(2, 4]",56.0,100.0,12.0,29.0,12.0,29.0
+Region VI,4,Dry season,Manual,"(4, 6]",77.0,128.0,19.0,35.0,19.0,46.0
+Region VI,4,Dry season,Manual,"(6, 8]",102.0,154.0,29.0,41.0,29.0,63.0
+Region VI,4,Dry season,Manual,"(8, 10]",113.0,165.0,31.0,44.0,31.0,72.0
+Region VI,4,Dry season,Manual,"(10, 13]",113.0,159.0,31.0,43.0,31.0,69.0
+Region VI,4,Dry season,Reaper,"(2, 4]",56.0,80.0,11.0,21.0,0.0,23.0
+Region VI,4,Dry season,Reaper,"(4, 6]",88.0,100.0,22.0,29.0,22.0,29.0
+Region VI,4,Wet season,Combined,"(0, 2]",57.0,57.0,12.0,12.0,12.0,12.0
+Region VI,4,Wet season,Combined,"(2, 4]",57.0,82.0,11.0,18.0,11.0,18.0
+Region VI,4,Wet season,Combined,"(4, 6]",82.0,118.0,17.0,30.0,16.0,30.0
+Region VI,4,Wet season,Combined,"(6, 8]",98.0,124.0,25.0,31.0,25.0,31.0
+Region VI,4,Wet season,Combined,"(8, 10]",106.0,106.0,24.0,24.0,24.0,24.0
+Region VI,4,Wet season,Manual,"(0, 2]",47.0,82.0,10.0,20.0,0.0,24.0
+Region VI,4,Wet season,Manual,"(2, 4]",45.0,92.0,10.0,23.0,0.0,33.0
+Region VI,4,Wet season,Manual,"(4, 6]",70.0,124.0,18.0,34.0,18.0,59.0
+Region VI,4,Wet season,Manual,"(6, 8]",108.0,152.0,26.0,41.0,35.0,74.0
+Region VI,4,Wet season,Manual,"(8, 10]",108.0,120.0,27.0,33.0,40.0,55.0
+Region VI,4,Wet season,Reaper,"(2, 4]",70.0,82.0,18.0,21.0,18.0,29.0
+Region VI,4,Wet season,Reaper,"(4, 6]",82.0,113.0,21.0,32.0,21.0,50.0
+Region VI,4,Wet season,Reaper,"(6, 8]",124.0,124.0,34.0,34.0,58.0,58.0
+Region VI,5,Dry season,Combined,"(2, 4]",22.0,22.0,10.0,10.0,10.0,10.0
+Region VI,5,Dry season,Combined,"(4, 6]",42.0,53.0,10.0,12.0,10.0,12.0
+Region VI,5,Dry season,Manual,"(2, 4]",10.0,47.0,10.0,12.0,10.0,21.0
+Region VI,5,Dry season,Manual,"(4, 6]",45.0,74.0,10.0,19.0,10.0,26.0
+Region VI,5,Dry season,Manual,"(6, 8]",60.0,104.0,10.0,16.0,16.0,25.0
+Region VI,5,Dry season,Manual,"(10, 13]",97.0,97.0,19.0,19.0,33.0,33.0
+Region VI,5,Wet season,Combined,"(0, 2]",43.0,70.0,16.0,19.0,13.0,31.0
+Region VI,5,Wet season,Combined,"(2, 4]",43.0,80.0,13.0,20.0,11.0,20.0
+Region VI,5,Wet season,Combined,"(4, 6]",77.0,118.0,15.0,26.0,15.0,26.0
+Region VI,5,Wet season,Combined,"(6, 8]",118.0,131.0,24.0,28.0,22.0,24.0
+Region VI,5,Wet season,Manual,"(0, 2]",43.0,82.0,10.0,23.0,0.0,47.0
+Region VI,5,Wet season,Manual,"(2, 4]",43.0,90.0,12.0,26.0,10.0,57.0
+Region VI,5,Wet season,Manual,"(4, 6]",74.0,120.0,15.0,32.0,15.0,48.0
+Region VI,5,Wet season,Manual,"(6, 8]",102.0,133.0,27.0,34.0,27.0,53.0
+Region VI,5,Wet season,Manual,"(8, 10]",131.0,131.0,31.0,31.0,31.0,31.0
+Region VI,5,Wet season,Reaper,"(0, 2]",43.0,43.0,17.0,17.0,27.0,28.0
+Region VI,5,Wet season,Reaper,"(4, 6]",88.0,100.0,25.0,28.0,37.0,40.0
+Region VI,6,Dry season,Combined,"(0, 2]",43.0,43.0,13.0,13.0,10.0,13.0
+Region VI,6,Dry season,Combined,"(2, 4]",43.0,80.0,13.0,22.0,13.0,22.0
+Region VI,6,Dry season,Combined,"(4, 6]",80.0,98.0,21.0,26.0,21.0,26.0
+Region VI,6,Dry season,Combined,"(6, 8]",128.0,131.0,33.0,34.0,48.0,54.0
+Region VI,6,Dry season,Manual,"(0, 2]",43.0,57.0,15.0,19.0,15.0,19.0
+Region VI,6,Dry season,Manual,"(2, 4]",43.0,92.0,10.0,27.0,0.0,49.0
+Region VI,6,Dry season,Manual,"(4, 6]",72.0,124.0,22.0,35.0,35.0,73.0
+Region VI,6,Dry season,Manual,"(6, 8]",110.0,141.0,32.0,39.0,62.0,83.0
+Region VI,6,Dry season,Manual,"(8, 10]",126.0,126.0,36.0,36.0,76.0,76.0
+Region VI,6,Dry season,Reaper,"(0, 2]",43.0,43.0,16.0,16.0,16.0,16.0
+Region VI,6,Dry season,Reaper,"(2, 4]",49.0,80.0,17.0,24.0,17.0,40.0
+Region VI,6,Dry season,Reaper,"(4, 6]",88.0,100.0,26.0,29.0,46.0,56.0
+Region VI,6,Wet season,Combined,"(0, 2]",43.0,43.0,12.0,12.0,10.0,10.0
+Region VI,6,Wet season,Combined,"(2, 4]",43.0,80.0,12.0,22.0,10.0,22.0
+Region VI,6,Wet season,Combined,"(4, 6]",74.0,118.0,20.0,31.0,16.0,57.0
+Region VI,6,Wet season,Combined,"(6, 8]",106.0,116.0,24.0,30.0,24.0,42.0
+Region VI,6,Wet season,Manual,"(0, 2]",43.0,44.0,13.0,17.0,13.0,30.0
+Region VI,6,Wet season,Manual,"(2, 4]",30.0,88.0,10.0,27.0,0.0,52.0
+Region VI,6,Wet season,Manual,"(4, 6]",72.0,124.0,17.0,35.0,17.0,74.0
+Region VI,6,Wet season,Manual,"(6, 8]",98.0,133.0,25.0,37.0,48.0,77.0
+Region VI,6,Wet season,Manual,"(8, 10]",120.0,120.0,35.0,35.0,72.0,72.0
+Region VI,6,Wet season,Reaper,"(2, 4]",59.0,64.0,19.0,21.0,19.0,30.0
+Region VI,6,Wet season,Reaper,"(4, 6]",88.0,88.0,23.0,23.0,36.0,36.0
+Region VI,6,Wet season,Reaper,"(6, 8]",110.0,113.0,33.0,33.0,69.0,71.0
+Region VII,1,Dry season,Manual,"(0, 2]",43.0,70.0,10.0,18.0,0.0,22.0
+Region VII,1,Dry season,Manual,"(2, 4]",48.0,102.0,10.0,30.0,0.0,37.0
+Region VII,1,Dry season,Manual,"(4, 6]",82.0,124.0,21.0,36.0,21.0,80.0
+Region VII,1,Dry season,Manual,"(6, 8]",108.0,165.0,31.0,45.0,31.0,78.0
+Region VII,1,Dry season,Reaper,"(4, 6]",102.0,102.0,30.0,30.0,30.0,30.0
+Region VII,1,Wet season,Combined,"(4, 6]",95.0,95.0,23.0,23.0,23.0,23.0
+Region VII,1,Wet season,Manual,"(0, 2]",43.0,70.0,10.0,18.0,0.0,21.0
+Region VII,1,Wet season,Manual,"(2, 4]",43.0,84.0,14.0,24.0,15.0,45.0
+Region VII,1,Wet season,Manual,"(4, 6]",74.0,126.0,20.0,35.0,20.0,67.0
+Region VII,1,Wet season,Manual,"(6, 8]",110.0,137.0,32.0,38.0,55.0,72.0
+Region VII,1,Wet season,Manual,"(8, 10]",110.0,131.0,32.0,37.0,55.0,66.0
+Region VII,2,Dry season,Combined,"(2, 4]",64.0,70.0,18.0,20.0,14.0,18.0
+Region VII,2,Dry season,Manual,"(0, 2]",30.0,49.0,10.0,17.0,0.0,21.0
+Region VII,2,Dry season,Manual,"(2, 4]",43.0,84.0,15.0,27.0,15.0,53.0
+Region VII,2,Dry season,Manual,"(4, 6]",72.0,126.0,16.0,36.0,16.0,80.0
+Region VII,2,Dry season,Manual,"(6, 8]",116.0,152.0,33.0,42.0,66.0,98.0
+Region VII,2,Dry season,Manual,"(8, 10]",116.0,157.0,33.0,43.0,69.0,102.0
+Region VII,2,Dry season,Reaper,"(0, 2]",43.0,43.0,16.0,16.0,16.0,17.0
+Region VII,2,Dry season,Reaper,"(2, 4]",46.0,46.0,17.0,17.0,17.0,17.0
+Region VII,2,Wet season,Combined,"(0, 2]",43.0,43.0,13.0,13.0,10.0,10.0
+Region VII,2,Wet season,Combined,"(2, 4]",43.0,64.0,13.0,18.0,10.0,18.0
+Region VII,2,Wet season,Manual,"(0, 2]",30.0,46.0,10.0,18.0,0.0,29.0
+Region VII,2,Wet season,Manual,"(2, 4]",43.0,88.0,13.0,27.0,13.0,56.0
+Region VII,2,Wet season,Manual,"(4, 6]",72.0,124.0,20.0,36.0,30.0,79.0
+Region VII,2,Wet season,Manual,"(6, 8]",113.0,139.0,31.0,39.0,68.0,88.0
+Region VII,2,Wet season,Manual,"(8, 10]",126.0,131.0,36.0,38.0,75.0,84.0
+Region VII,2,Wet season,Reaper,"(0, 2]",43.0,43.0,16.0,16.0,16.0,16.0
+Region VII,2,Wet season,Reaper,"(2, 4]",43.0,77.0,16.0,24.0,16.0,38.0
+Region VII,3,Dry season,Combined,"(2, 4]",77.0,77.0,17.0,17.0,15.0,15.0
+Region VII,3,Dry season,Manual,"(2, 4]",57.0,88.0,15.0,23.0,15.0,23.0
+Region VII,3,Dry season,Manual,"(4, 6]",84.0,120.0,21.0,34.0,21.0,62.0
+Region VII,3,Dry season,Manual,"(6, 8]",108.0,154.0,31.0,42.0,31.0,71.0
+Region VII,3,Wet season,Combined,"(0, 2]",70.0,70.0,14.0,14.0,14.0,14.0
+Region VII,3,Wet season,Combined,"(2, 4]",70.0,80.0,14.0,16.0,14.0,15.0
+Region VII,3,Wet season,Combined,"(4, 6]",82.0,110.0,17.0,27.0,16.0,20.0
+Region VII,3,Wet season,Combined,"(6, 8]",124.0,124.0,30.0,30.0,24.0,24.0
+Region VII,3,Wet season,Manual,"(0, 2]",43.0,70.0,15.0,18.0,15.0,21.0
+Region VII,3,Wet season,Manual,"(2, 4]",57.0,80.0,16.0,26.0,16.0,51.0
+Region VII,3,Wet season,Manual,"(4, 6]",84.0,110.0,21.0,33.0,28.0,61.0
+Region VII,3,Wet season,Manual,"(6, 8]",120.0,120.0,34.0,34.0,62.0,62.0
+Region VII,4,Dry season,Combined,"(0, 2]",57.0,70.0,12.0,14.0,12.0,14.0
+Region VII,4,Dry season,Combined,"(2, 4]",57.0,80.0,12.0,17.0,12.0,17.0
+Region VII,4,Dry season,Combined,"(4, 6]",80.0,108.0,17.0,27.0,17.0,27.0
+Region VII,4,Dry season,Manual,"(0, 2]",45.0,70.0,10.0,18.0,0.0,21.0
+Region VII,4,Dry season,Manual,"(2, 4]",45.0,106.0,10.0,30.0,0.0,30.0
+Region VII,4,Dry season,Manual,"(4, 6]",56.0,141.0,14.0,39.0,0.0,61.0
+Region VII,4,Dry season,Manual,"(6, 8]",90.0,167.0,23.0,45.0,23.0,82.0
+Region VII,4,Dry season,Manual,"(8, 10]",100.0,173.0,27.0,47.0,27.0,85.0
+Region VII,4,Dry season,Manual,"(10, 13]",108.0,165.0,31.0,45.0,31.0,78.0
+Region VII,4,Dry season,Reaper,"(0, 2]",57.0,57.0,15.0,15.0,15.0,18.0
+Region VII,4,Dry season,Reaper,"(2, 4]",57.0,82.0,15.0,21.0,15.0,21.0
+Region VII,4,Wet season,Combined,"(0, 2]",70.0,70.0,14.0,14.0,14.0,14.0
+Region VII,4,Wet season,Combined,"(2, 4]",70.0,80.0,14.0,20.0,14.0,20.0
+Region VII,4,Wet season,Combined,"(4, 6]",70.0,95.0,14.0,23.0,14.0,23.0
+Region VII,4,Wet season,Combined,"(6, 8]",100.0,133.0,25.0,35.0,25.0,47.0
+Region VII,4,Wet season,Manual,"(0, 2]",47.0,70.0,10.0,18.0,0.0,21.0
+Region VII,4,Wet season,Manual,"(2, 4]",45.0,92.0,10.0,24.0,0.0,46.0
+Region VII,4,Wet season,Manual,"(4, 6]",67.0,126.0,12.0,36.0,0.0,72.0
+Region VII,4,Wet season,Manual,"(6, 8]",70.0,152.0,18.0,42.0,18.0,84.0
+Region VII,4,Wet season,Manual,"(8, 10]",106.0,154.0,28.0,42.0,47.0,88.0
+Region VII,4,Wet season,Reaper,"(0, 2]",57.0,70.0,15.0,18.0,15.0,18.0
+Region VII,4,Wet season,Reaper,"(2, 4]",57.0,72.0,15.0,19.0,15.0,19.0
+Region VII,4,Wet season,Reaper,"(4, 6]",95.0,120.0,27.0,34.0,35.0,64.0
+Region VII,5,Dry season,Manual,"(0, 2]",43.0,43.0,17.0,17.0,17.0,30.0
+Region VII,5,Dry season,Manual,"(2, 4]",10.0,74.0,10.0,19.0,10.0,21.0
+Region VII,5,Dry season,Manual,"(4, 6]",29.0,90.0,10.0,25.0,10.0,35.0
+Region VII,5,Dry season,Manual,"(6, 8]",89.0,97.0,17.0,18.0,28.0,30.0
+Region VII,5,Dry season,Manual,"(8, 10]",76.0,97.0,12.0,19.0,19.0,30.0
+Region VII,5,Wet season,Manual,"(0, 2]",43.0,70.0,13.0,20.0,13.0,38.0
+Region VII,5,Wet season,Manual,"(2, 4]",43.0,88.0,10.0,25.0,0.0,40.0
+Region VII,5,Wet season,Manual,"(4, 6]",74.0,124.0,20.0,35.0,20.0,79.0
+Region VII,5,Wet season,Manual,"(6, 8]",110.0,137.0,28.0,34.0,28.0,54.0
+Region VII,5,Wet season,Manual,"(8, 10]",120.0,120.0,29.0,29.0,29.0,29.0
+Region VII,5,Wet season,Reaper,"(0, 2]",57.0,70.0,17.0,20.0,25.0,35.0
+Region VII,6,Dry season,Combined,"(2, 4]",43.0,67.0,13.0,19.0,13.0,19.0
+Region VII,6,Dry season,Combined,"(4, 6]",84.0,84.0,23.0,23.0,23.0,23.0
+Region VII,6,Dry season,Manual,"(0, 2]",43.0,59.0,16.0,20.0,16.0,29.0
+Region VII,6,Dry season,Manual,"(2, 4]",43.0,92.0,16.0,28.0,16.0,58.0
+Region VII,6,Dry season,Manual,"(4, 6]",72.0,128.0,23.0,36.0,37.0,80.0
+Region VII,6,Dry season,Manual,"(6, 8]",95.0,152.0,28.0,42.0,51.0,90.0
+Region VII,6,Dry season,Manual,"(8, 10]",133.0,133.0,38.0,38.0,79.0,79.0
+Region VII,6,Dry season,Reaper,"(0, 2]",43.0,43.0,16.0,17.0,16.0,17.0
+Region VII,6,Wet season,Combined,"(0, 2]",43.0,43.0,13.0,13.0,10.0,10.0
+Region VII,6,Wet season,Combined,"(2, 4]",43.0,59.0,13.0,16.0,10.0,13.0
+Region VII,6,Wet season,Manual,"(0, 2]",43.0,54.0,13.0,19.0,13.0,33.0
+Region VII,6,Wet season,Manual,"(2, 4]",43.0,90.0,11.0,28.0,11.0,57.0
+Region VII,6,Wet season,Manual,"(4, 6]",72.0,126.0,23.0,37.0,36.0,80.0
+Region VII,6,Wet season,Manual,"(6, 8]",100.0,154.0,30.0,43.0,58.0,95.0
+Region VII,6,Wet season,Manual,"(8, 10]",108.0,154.0,32.0,43.0,65.0,97.0
+Region VII,6,Wet season,Reaper,"(0, 2]",43.0,43.0,16.0,16.0,16.0,16.0
+Region VII,6,Wet season,Reaper,"(2, 4]",82.0,82.0,25.0,25.0,46.0,46.0
+Region VIII,1,Dry season,Combined,"(2, 4]",57.0,57.0,11.0,11.0,11.0,11.0
+Region VIII,1,Dry season,Manual,"(0, 2]",43.0,82.0,15.0,20.0,15.0,20.0
+Region VIII,1,Dry season,Manual,"(2, 4]",43.0,88.0,15.0,24.0,15.0,42.0
+Region VIII,1,Dry season,Manual,"(4, 6]",72.0,118.0,18.0,34.0,18.0,51.0
+Region VIII,1,Dry season,Manual,"(6, 8]",126.0,126.0,34.0,34.0,34.0,34.0
+Region VIII,1,Dry season,Manual,"(8, 10]",116.0,139.0,33.0,39.0,62.0,67.0
+Region VIII,1,Wet season,Combined,"(0, 2]",70.0,70.0,14.0,14.0,14.0,14.0
+Region VIII,1,Wet season,Manual,"(0, 2]",43.0,82.0,15.0,20.0,15.0,20.0
+Region VIII,1,Wet season,Manual,"(2, 4]",43.0,82.0,15.0,23.0,15.0,36.0
+Region VIII,1,Wet season,Manual,"(4, 6]",77.0,108.0,20.0,30.0,20.0,44.0
+Region VIII,1,Wet season,Manual,"(6, 8]",120.0,126.0,34.0,34.0,55.0,69.0
+Region VIII,1,Wet season,Reaper,"(2, 4]",74.0,74.0,19.0,19.0,19.0,19.0
+Region VIII,2,Dry season,Combined,"(0, 2]",43.0,57.0,11.0,14.0,11.0,14.0
+Region VIII,2,Dry season,Combined,"(2, 4]",43.0,57.0,12.0,15.0,12.0,15.0
+Region VIII,2,Dry season,Combined,"(4, 6]",102.0,113.0,27.0,32.0,27.0,63.0
+Region VIII,2,Dry season,Manual,"(0, 2]",30.0,82.0,10.0,20.0,0.0,25.0
+Region VIII,2,Dry season,Manual,"(2, 4]",43.0,84.0,12.0,25.0,12.0,48.0
+Region VIII,2,Dry season,Manual,"(4, 6]",72.0,124.0,20.0,35.0,20.0,73.0
+Region VIII,2,Dry season,Manual,"(6, 8]",95.0,146.0,28.0,41.0,53.0,86.0
+Region VIII,2,Dry season,Manual,"(8, 10]",80.0,165.0,25.0,45.0,48.0,99.0
+Region VIII,2,Dry season,Reaper,"(0, 2]",43.0,57.0,16.0,17.0,16.0,17.0
+Region VIII,2,Dry season,Reaper,"(2, 4]",43.0,57.0,13.0,20.0,13.0,31.0
+Region VIII,2,Dry season,Reaper,"(4, 6]",106.0,106.0,29.0,29.0,29.0,29.0
+Region VIII,2,Wet season,Combined,"(0, 2]",43.0,43.0,13.0,14.0,10.0,14.0
+Region VIII,2,Wet season,Combined,"(2, 4]",43.0,67.0,12.0,19.0,12.0,19.0
+Region VIII,2,Wet season,Combined,"(4, 6]",74.0,100.0,20.0,26.0,20.0,26.0
+Region VIII,2,Wet season,Combined,"(6, 8]",128.0,128.0,33.0,33.0,47.0,47.0
+Region VIII,2,Wet season,Manual,"(0, 2]",30.0,82.0,10.0,20.0,0.0,25.0
+Region VIII,2,Wet season,Manual,"(2, 4]",43.0,82.0,12.0,24.0,12.0,48.0
+Region VIII,2,Wet season,Manual,"(4, 6]",72.0,118.0,20.0,34.0,20.0,70.0
+Region VIII,2,Wet season,Manual,"(6, 8]",72.0,137.0,22.0,38.0,34.0,78.0
+Region VIII,2,Wet season,Manual,"(8, 10]",124.0,124.0,35.0,35.0,73.0,73.0
+Region VIII,2,Wet season,Reaper,"(0, 2]",43.0,44.0,15.0,16.0,15.0,16.0
+Region VIII,2,Wet season,Reaper,"(2, 4]",43.0,57.0,15.0,19.0,15.0,19.0
+Region VIII,3,Dry season,Manual,"(0, 2]",43.0,82.0,16.0,20.0,16.0,20.0
+Region VIII,3,Dry season,Manual,"(2, 4]",43.0,82.0,16.0,21.0,16.0,33.0
+Region VIII,3,Dry season,Manual,"(4, 6]",77.0,102.0,19.0,29.0,19.0,29.0
+Region VIII,3,Dry season,Manual,"(6, 8]",128.0,128.0,37.0,37.0,77.0,77.0
+Region VIII,3,Dry season,Manual,"(8, 10]",128.0,128.0,33.0,33.0,32.0,32.0
+Region VIII,3,Wet season,Combined,"(2, 4]",82.0,82.0,13.0,16.0,13.0,16.0
+Region VIII,3,Wet season,Combined,"(6, 8]",133.0,133.0,29.0,29.0,29.0,29.0
+Region VIII,3,Wet season,Manual,"(0, 2]",43.0,43.0,16.0,16.0,16.0,16.0
+Region VIII,3,Wet season,Manual,"(2, 4]",43.0,82.0,16.0,21.0,16.0,33.0
+Region VIII,3,Wet season,Manual,"(4, 6]",80.0,98.0,20.0,27.0,20.0,55.0
+Region VIII,3,Wet season,Manual,"(6, 8]",124.0,124.0,35.0,35.0,72.0,72.0
+Region VIII,4,Dry season,Combined,"(0, 2]",57.0,82.0,11.0,16.0,11.0,16.0
+Region VIII,4,Dry season,Combined,"(2, 4]",57.0,88.0,11.0,19.0,11.0,19.0
+Region VIII,4,Dry season,Combined,"(4, 6]",80.0,128.0,16.0,30.0,15.0,30.0
+Region VIII,4,Dry season,Combined,"(6, 8]",102.0,133.0,25.0,32.0,25.0,32.0
+Region VIII,4,Dry season,Combined,"(8, 10]",110.0,133.0,26.0,32.0,26.0,32.0
+Region VIII,4,Dry season,Manual,"(0, 2]",56.0,82.0,15.0,20.0,15.0,21.0
+Region VIII,4,Dry season,Manual,"(2, 4]",56.0,100.0,10.0,29.0,0.0,29.0
+Region VIII,4,Dry season,Manual,"(4, 6]",72.0,128.0,16.0,35.0,16.0,43.0
+Region VIII,4,Dry season,Manual,"(6, 8]",82.0,173.0,21.0,46.0,21.0,75.0
+Region VIII,4,Dry season,Manual,"(8, 10]",77.0,161.0,20.0,43.0,20.0,66.0
+Region VIII,4,Dry season,Manual,"(10, 13]",108.0,178.0,30.0,47.0,30.0,79.0
+Region VIII,4,Dry season,Reaper,"(0, 2]",70.0,82.0,17.0,20.0,17.0,20.0
+Region VIII,4,Dry season,Reaper,"(2, 4]",70.0,82.0,18.0,20.0,18.0,20.0
+Region VIII,4,Dry season,Reaper,"(4, 6]",73.0,118.0,11.0,32.0,0.0,32.0
+Region VIII,4,Dry season,Reaper,"(6, 8]",110.0,133.0,30.0,36.0,30.0,44.0
+Region VIII,4,Dry season,Reaper,"(8, 10]",113.0,133.0,31.0,36.0,31.0,44.0
+Region VIII,4,Wet season,Combined,"(0, 2]",56.0,82.0,10.0,16.0,0.0,16.0
+Region VIII,4,Wet season,Combined,"(2, 4]",70.0,82.0,10.0,17.0,0.0,16.0
+Region VIII,4,Wet season,Combined,"(4, 6]",80.0,118.0,16.0,29.0,16.0,28.0
+Region VIII,4,Wet season,Combined,"(6, 8]",118.0,133.0,28.0,33.0,28.0,31.0
+Region VIII,4,Wet season,Combined,"(8, 10]",133.0,133.0,33.0,33.0,33.0,33.0
+Region VIII,4,Wet season,Manual,"(0, 2]",54.0,82.0,10.0,20.0,0.0,24.0
+Region VIII,4,Wet season,Manual,"(2, 4]",56.0,92.0,12.0,23.0,12.0,39.0
+Region VIII,4,Wet season,Manual,"(4, 6]",72.0,124.0,17.0,35.0,17.0,65.0
+Region VIII,4,Wet season,Manual,"(6, 8]",74.0,159.0,19.0,42.0,19.0,79.0
+Region VIII,4,Wet season,Manual,"(8, 10]",80.0,159.0,20.0,42.0,20.0,80.0
+Region VIII,4,Wet season,Manual,"(10, 13]",159.0,159.0,42.0,42.0,79.0,79.0
+Region VIII,4,Wet season,Reaper,"(0, 2]",70.0,70.0,18.0,18.0,18.0,21.0
+Region VIII,4,Wet season,Reaper,"(2, 4]",70.0,82.0,12.0,20.0,10.0,20.0
+Region VIII,4,Wet season,Reaper,"(4, 6]",80.0,90.0,20.0,22.0,20.0,30.0
+Region VIII,4,Wet season,Reaper,"(6, 8]",128.0,128.0,35.0,35.0,56.0,56.0
+Region VIII,5,Dry season,Combined,"(2, 4]",88.0,88.0,22.0,22.0,22.0,22.0
+Region VIII,5,Dry season,Combined,"(4, 6]",47.0,47.0,12.0,12.0,12.0,12.0
+Region VIII,5,Dry season,Manual,"(0, 2]",10.0,70.0,10.0,20.0,10.0,38.0
+Region VIII,5,Dry season,Manual,"(2, 4]",10.0,88.0,10.0,25.0,10.0,40.0
+Region VIII,5,Dry season,Manual,"(4, 6]",27.0,126.0,10.0,33.0,11.0,54.0
+Region VIII,5,Dry season,Manual,"(6, 8]",32.0,141.0,10.0,35.0,14.0,61.0
+Region VIII,5,Dry season,Manual,"(8, 10]",32.0,143.0,10.0,35.0,19.0,47.0
+Region VIII,5,Dry season,Reaper,"(2, 4]",32.0,32.0,13.0,13.0,13.0,13.0
+Region VIII,5,Wet season,Combined,"(0, 2]",43.0,70.0,15.0,19.0,15.0,19.0
+Region VIII,5,Wet season,Combined,"(2, 4]",80.0,88.0,17.0,21.0,17.0,21.0
+Region VIII,5,Wet season,Combined,"(4, 6]",82.0,82.0,17.0,17.0,17.0,17.0
+Region VIII,5,Wet season,Manual,"(0, 2]",43.0,82.0,17.0,24.0,17.0,49.0
+Region VIII,5,Wet season,Manual,"(2, 4]",43.0,84.0,16.0,24.0,16.0,49.0
+Region VIII,5,Wet season,Manual,"(4, 6]",72.0,108.0,19.0,29.0,19.0,44.0
+Region VIII,5,Wet season,Manual,"(6, 8]",80.0,124.0,20.0,31.0,20.0,42.0
+Region VIII,5,Wet season,Manual,"(8, 10]",82.0,128.0,20.0,30.0,20.0,30.0
+Region VIII,5,Wet season,Reaper,"(0, 2]",43.0,43.0,17.0,17.0,17.0,17.0
+Region VIII,5,Wet season,Reaper,"(2, 4]",57.0,57.0,18.0,18.0,18.0,18.0
+Region VIII,6,Dry season,Combined,"(0, 2]",43.0,43.0,12.0,14.0,10.0,14.0
+Region VIII,6,Dry season,Combined,"(2, 4]",43.0,88.0,13.0,23.0,13.0,23.0
+Region VIII,6,Dry season,Combined,"(4, 6]",82.0,92.0,22.0,24.0,22.0,24.0
+Region VIII,6,Dry season,Manual,"(0, 2]",30.0,57.0,10.0,20.0,0.0,33.0
+Region VIII,6,Dry season,Manual,"(2, 4]",43.0,90.0,15.0,28.0,15.0,55.0
+Region VIII,6,Dry season,Manual,"(4, 6]",72.0,126.0,22.0,36.0,34.0,77.0
+Region VIII,6,Dry season,Manual,"(6, 8]",80.0,137.0,24.0,38.0,40.0,81.0
+Region VIII,6,Dry season,Manual,"(8, 10]",100.0,126.0,29.0,36.0,54.0,75.0
+Region VIII,6,Dry season,Reaper,"(0, 2]",43.0,43.0,16.0,16.0,16.0,17.0
+Region VIII,6,Dry season,Reaper,"(2, 4]",43.0,77.0,16.0,25.0,16.0,46.0
+Region VIII,6,Dry season,Reaper,"(4, 6]",92.0,113.0,28.0,33.0,54.0,67.0
+Region VIII,6,Dry season,Reaper,"(6, 8]",113.0,113.0,33.0,33.0,67.0,67.0
+Region VIII,6,Wet season,Combined,"(0, 2]",43.0,43.0,13.0,13.0,13.0,13.0
+Region VIII,6,Wet season,Combined,"(2, 4]",43.0,62.0,14.0,17.0,14.0,17.0
+Region VIII,6,Wet season,Combined,"(4, 6]",100.0,102.0,26.0,26.0,26.0,26.0
+Region VIII,6,Wet season,Manual,"(0, 2]",43.0,51.0,15.0,18.0,15.0,25.0
+Region VIII,6,Wet season,Manual,"(2, 4]",31.0,84.0,10.0,25.0,0.0,44.0
+Region VIII,6,Wet season,Manual,"(4, 6]",70.0,120.0,17.0,34.0,17.0,72.0
+Region VIII,6,Wet season,Manual,"(6, 8]",72.0,146.0,22.0,43.0,34.0,91.0
+Region VIII,6,Wet season,Manual,"(8, 10]",116.0,128.0,33.0,36.0,69.0,74.0
+Region VIII,6,Wet season,Reaper,"(0, 2]",43.0,44.0,15.0,16.0,15.0,16.0
+Region VIII,6,Wet season,Reaper,"(2, 4]",64.0,82.0,21.0,25.0,21.0,42.0
+Region X,1,Dry season,Combined,"(0, 2]",82.0,82.0,16.0,16.0,16.0,16.0
+Region X,1,Dry season,Combined,"(4, 6]",100.0,100.0,24.0,24.0,24.0,24.0
+Region X,1,Dry season,Manual,"(0, 2]",43.0,82.0,15.0,20.0,15.0,20.0
+Region X,1,Dry season,Manual,"(2, 4]",43.0,88.0,14.0,24.0,14.0,41.0
+Region X,1,Dry season,Manual,"(4, 6]",82.0,124.0,20.0,34.0,20.0,69.0
+Region X,1,Dry season,Manual,"(6, 8]",128.0,154.0,35.0,41.0,35.0,59.0
+Region X,1,Dry season,Manual,"(8, 10]",154.0,154.0,41.0,41.0,60.0,60.0
+Region X,1,Wet season,Manual,"(0, 2]",43.0,82.0,15.0,20.0,15.0,20.0
+Region X,1,Wet season,Manual,"(2, 4]",43.0,88.0,14.0,22.0,14.0,32.0
+Region X,1,Wet season,Manual,"(4, 6]",74.0,128.0,17.0,35.0,17.0,63.0
+Region X,1,Wet season,Manual,"(6, 8]",131.0,154.0,36.0,42.0,63.0,84.0
+Region X,1,Wet season,Manual,"(8, 10]",116.0,157.0,32.0,43.0,50.0,85.0
+Region X,1,Wet season,Reaper,"(4, 6]",90.0,90.0,21.0,21.0,21.0,21.0
+Region X,2,Dry season,Combined,"(0, 2]",43.0,43.0,12.0,12.0,12.0,12.0
+Region X,2,Dry season,Combined,"(2, 4]",59.0,84.0,16.0,22.0,16.0,22.0
+Region X,2,Dry season,Combined,"(4, 6]",88.0,108.0,23.0,28.0,23.0,28.0
+Region X,2,Dry season,Manual,"(0, 2]",43.0,43.0,15.0,16.0,15.0,16.0
+Region X,2,Dry season,Manual,"(2, 4]",32.0,90.0,10.0,27.0,0.0,47.0
+Region X,2,Dry season,Manual,"(4, 6]",74.0,120.0,24.0,34.0,37.0,69.0
+Region X,2,Dry season,Manual,"(6, 8]",133.0,141.0,37.0,39.0,77.0,82.0
+Region X,2,Dry season,Reaper,"(0, 2]",43.0,43.0,15.0,15.0,15.0,15.0
+Region X,2,Wet season,Combined,"(0, 2]",43.0,44.0,12.0,13.0,10.0,13.0
+Region X,2,Wet season,Combined,"(2, 4]",57.0,80.0,16.0,22.0,15.0,22.0
+Region X,2,Wet season,Combined,"(4, 6]",84.0,113.0,23.0,30.0,23.0,42.0
+Region X,2,Wet season,Manual,"(0, 2]",43.0,51.0,12.0,17.0,12.0,17.0
+Region X,2,Wet season,Manual,"(2, 4]",43.0,90.0,10.0,27.0,0.0,49.0
+Region X,2,Wet season,Manual,"(4, 6]",72.0,124.0,23.0,34.0,33.0,69.0
+Region X,2,Wet season,Manual,"(6, 8]",124.0,154.0,34.0,42.0,69.0,87.0
+Region X,2,Wet season,Reaper,"(0, 2]",43.0,43.0,16.0,16.0,16.0,16.0
+Region X,3,Dry season,Combined,"(0, 2]",82.0,82.0,16.0,16.0,16.0,16.0
+Region X,3,Dry season,Combined,"(2, 4]",82.0,88.0,16.0,17.0,16.0,17.0
+Region X,3,Dry season,Combined,"(4, 6]",82.0,126.0,16.0,30.0,16.0,30.0
+Region X,3,Dry season,Combined,"(6, 8]",131.0,152.0,31.0,36.0,31.0,59.0
+Region X,3,Dry season,Combined,"(8, 10]",141.0,141.0,36.0,36.0,59.0,59.0
+Region X,3,Dry season,Manual,"(0, 2]",43.0,82.0,15.0,20.0,15.0,20.0
+Region X,3,Dry season,Manual,"(2, 4]",43.0,90.0,15.0,25.0,15.0,43.0
+Region X,3,Dry season,Manual,"(4, 6]",80.0,128.0,19.0,35.0,19.0,57.0
+Region X,3,Dry season,Manual,"(6, 8]",124.0,154.0,31.0,41.0,32.0,60.0
+Region X,3,Dry season,Manual,"(8, 10]",154.0,159.0,41.0,42.0,60.0,62.0
+Region X,3,Wet season,Combined,"(0, 2]",82.0,82.0,14.0,16.0,14.0,16.0
+Region X,3,Wet season,Combined,"(2, 4]",62.0,95.0,10.0,25.0,0.0,25.0
+Region X,3,Wet season,Combined,"(4, 6]",82.0,124.0,14.0,28.0,14.0,27.0
+Region X,3,Wet season,Combined,"(6, 8]",124.0,157.0,28.0,36.0,21.0,26.0
+Region X,3,Wet season,Combined,"(8, 10]",128.0,128.0,30.0,30.0,30.0,30.0
+Region X,3,Wet season,Manual,"(0, 2]",43.0,82.0,11.0,20.0,0.0,24.0
+Region X,3,Wet season,Manual,"(2, 4]",43.0,95.0,15.0,28.0,15.0,55.0
+Region X,3,Wet season,Manual,"(4, 6]",72.0,126.0,19.0,35.0,19.0,69.0
+Region X,3,Wet season,Manual,"(6, 8]",124.0,157.0,34.0,42.0,48.0,88.0
+Region X,3,Wet season,Manual,"(8, 10]",120.0,157.0,33.0,41.0,48.0,80.0
+Region X,3,Wet season,Reaper,"(4, 6]",113.0,113.0,31.0,31.0,44.0,44.0
+Region X,4,Dry season,Combined,"(0, 2]",82.0,82.0,15.0,16.0,15.0,16.0
+Region X,4,Dry season,Combined,"(2, 4]",72.0,88.0,10.0,17.0,0.0,17.0
+Region X,4,Dry season,Combined,"(4, 6]",72.0,133.0,12.0,31.0,12.0,32.0
+Region X,4,Dry season,Combined,"(6, 8]",118.0,165.0,26.0,39.0,26.0,39.0
+Region X,4,Dry season,Combined,"(8, 10]",131.0,169.0,31.0,39.0,31.0,39.0
+Region X,4,Dry season,Manual,"(0, 2]",59.0,82.0,13.0,20.0,13.0,20.0
+Region X,4,Dry season,Manual,"(2, 4]",41.0,98.0,10.0,27.0,0.0,27.0
+Region X,4,Dry season,Manual,"(4, 6]",59.0,137.0,13.0,36.0,0.0,45.0
+Region X,4,Dry season,Manual,"(6, 8]",104.0,169.0,23.0,45.0,23.0,72.0
+Region X,4,Dry season,Manual,"(8, 10]",128.0,175.0,35.0,46.0,44.0,76.0
+Region X,4,Dry season,Manual,"(10, 13]",139.0,146.0,37.0,39.0,42.0,55.0
+Region X,4,Dry season,Reaper,"(2, 4]",82.0,84.0,20.0,21.0,20.0,21.0
+Region X,4,Dry season,Reaper,"(4, 6]",92.0,128.0,23.0,35.0,23.0,35.0
+Region X,4,Wet season,Combined,"(0, 2]",82.0,82.0,15.0,16.0,15.0,16.0
+Region X,4,Wet season,Combined,"(2, 4]",74.0,95.0,14.0,22.0,14.0,22.0
+Region X,4,Wet season,Combined,"(4, 6]",84.0,128.0,12.0,31.0,0.0,31.0
+Region X,4,Wet season,Combined,"(6, 8]",114.0,157.0,24.0,37.0,0.0,37.0
+Region X,4,Wet season,Combined,"(8, 10]",120.0,148.0,29.0,36.0,29.0,36.0
+Region X,4,Wet season,Manual,"(0, 2]",46.0,82.0,11.0,20.0,11.0,24.0
+Region X,4,Wet season,Manual,"(2, 4]",46.0,100.0,11.0,29.0,0.0,40.0
+Region X,4,Wet season,Manual,"(4, 6]",72.0,131.0,12.0,36.0,0.0,66.0
+Region X,4,Wet season,Manual,"(6, 8]",113.0,157.0,30.0,43.0,42.0,85.0
+Region X,4,Wet season,Manual,"(8, 10]",113.0,154.0,30.0,40.0,44.0,75.0
+Region X,4,Wet season,Reaper,"(2, 4]",82.0,84.0,20.0,21.0,20.0,21.0
+Region X,4,Wet season,Reaper,"(4, 6]",90.0,113.0,22.0,31.0,22.0,42.0
+Region X,4,Wet season,Reaper,"(6, 8]",146.0,146.0,39.0,39.0,69.0,69.0
+Region X,4,Wet season,Reaper,"(8, 10]",154.0,154.0,41.0,41.0,75.0,75.0
+Region X,5,Dry season,Combined,"(2, 4]",10.0,10.0,10.0,10.0,10.0,10.0
+Region X,5,Dry season,Combined,"(4, 6]",40.0,74.0,10.0,13.0,10.0,14.0
+Region X,5,Dry season,Combined,"(6, 8]",86.0,97.0,12.0,16.0,12.0,16.0
+Region X,5,Dry season,Combined,"(8, 10]",117.0,117.0,14.0,14.0,14.0,14.0
+Region X,5,Dry season,Manual,"(0, 2]",37.0,37.0,10.0,10.0,10.0,20.0
+Region X,5,Dry season,Manual,"(2, 4]",14.0,60.0,10.0,15.0,10.0,24.0
+Region X,5,Dry season,Manual,"(4, 6]",37.0,76.0,10.0,15.0,0.0,26.0
+Region X,5,Dry season,Manual,"(6, 8]",60.0,119.0,10.0,24.0,10.0,54.0
+Region X,5,Dry season,Manual,"(8, 10]",97.0,97.0,16.0,16.0,30.0,30.0
+Region X,5,Wet season,Combined,"(0, 2]",82.0,82.0,21.0,23.0,21.0,42.0
+Region X,5,Wet season,Combined,"(2, 4]",43.0,92.0,14.0,22.0,10.0,21.0
+Region X,5,Wet season,Combined,"(4, 6]",82.0,124.0,16.0,27.0,16.0,27.0
+Region X,5,Wet season,Combined,"(6, 8]",126.0,143.0,27.0,30.0,27.0,30.0
+Region X,5,Wet season,Manual,"(0, 2]",43.0,82.0,14.0,24.0,14.0,49.0
+Region X,5,Wet season,Manual,"(2, 4]",43.0,90.0,16.0,25.0,16.0,42.0
+Region X,5,Wet season,Manual,"(4, 6]",80.0,124.0,20.0,37.0,20.0,81.0
+Region X,5,Wet season,Manual,"(6, 8]",113.0,154.0,28.0,39.0,28.0,54.0
+Region X,5,Wet season,Manual,"(8, 10]",157.0,157.0,37.0,38.0,37.0,57.0
+Region X,5,Wet season,Reaper,"(0, 2]",82.0,82.0,23.0,23.0,46.0,46.0
+Region X,5,Wet season,Reaper,"(2, 4]",82.0,82.0,21.0,21.0,21.0,21.0
+Region X,6,Dry season,Combined,"(2, 4]",62.0,62.0,13.0,13.0,0.0,0.0
+Region X,6,Dry season,Combined,"(4, 6]",113.0,126.0,29.0,32.0,29.0,47.0
+Region X,6,Dry season,Manual,"(0, 2]",43.0,51.0,15.0,17.0,15.0,17.0
+Region X,6,Dry season,Manual,"(2, 4]",44.0,90.0,16.0,26.0,15.0,48.0
+Region X,6,Dry season,Manual,"(4, 6]",84.0,128.0,25.0,35.0,39.0,71.0
+Region X,6,Dry season,Manual,"(6, 8]",126.0,154.0,36.0,42.0,75.0,90.0
+Region X,6,Dry season,Reaper,"(4, 6]",108.0,118.0,31.0,33.0,62.0,67.0
+Region X,6,Wet season,Combined,"(0, 2]",43.0,43.0,11.0,11.0,10.0,10.0
+Region X,6,Wet season,Combined,"(2, 4]",46.0,84.0,12.0,23.0,12.0,23.0
+Region X,6,Wet season,Combined,"(4, 6]",90.0,118.0,23.0,31.0,23.0,45.0
+Region X,6,Wet season,Combined,"(6, 8]",141.0,141.0,35.0,35.0,50.0,50.0
+Region X,6,Wet season,Manual,"(0, 2]",43.0,59.0,15.0,19.0,15.0,19.0
+Region X,6,Wet season,Manual,"(2, 4]",43.0,90.0,15.0,26.0,15.0,47.0
+Region X,6,Wet season,Manual,"(4, 6]",77.0,120.0,24.0,34.0,40.0,70.0
+Region X,6,Wet season,Manual,"(6, 8]",110.0,152.0,31.0,41.0,58.0,87.0
+Region X,6,Wet season,Manual,"(8, 10]",154.0,154.0,42.0,42.0,88.0,88.0
+Region XI,1,Dry season,Combined,"(2, 4]",82.0,82.0,16.0,16.0,16.0,16.0
+Region XI,1,Dry season,Combined,"(4, 6]",120.0,120.0,29.0,29.0,29.0,29.0
+Region XI,1,Dry season,Manual,"(0, 2]",82.0,82.0,20.0,20.0,20.0,20.0
+Region XI,1,Dry season,Manual,"(2, 4]",72.0,82.0,18.0,20.0,18.0,20.0
+Region XI,1,Dry season,Manual,"(4, 6]",88.0,118.0,21.0,33.0,21.0,61.0
+Region XI,1,Dry season,Reaper,"(2, 4]",72.0,72.0,14.0,14.0,14.0,14.0
+Region XI,1,Wet season,Manual,"(2, 4]",70.0,70.0,18.0,18.0,18.0,18.0
+Region XI,1,Wet season,Manual,"(4, 6]",88.0,95.0,22.0,27.0,27.0,30.0
+Region XI,2,Dry season,Combined,"(0, 2]",43.0,43.0,11.0,12.0,11.0,12.0
+Region XI,2,Dry season,Combined,"(2, 4]",43.0,82.0,11.0,21.0,11.0,21.0
+Region XI,2,Dry season,Combined,"(4, 6]",80.0,113.0,21.0,28.0,21.0,28.0
+Region XI,2,Dry season,Combined,"(6, 8]",137.0,137.0,35.0,35.0,53.0,53.0
+Region XI,2,Dry season,Manual,"(0, 2]",43.0,44.0,12.0,16.0,12.0,25.0
+Region XI,2,Dry season,Manual,"(2, 4]",43.0,82.0,15.0,25.0,15.0,52.0
+Region XI,2,Dry season,Manual,"(4, 6]",72.0,124.0,21.0,35.0,21.0,76.0
+Region XI,2,Dry season,Manual,"(6, 8]",113.0,141.0,32.0,39.0,62.0,83.0
+Region XI,2,Dry season,Manual,"(8, 10]",127.0,141.0,32.0,39.0,64.0,84.0
+Region XI,2,Dry season,Reaper,"(0, 2]",43.0,43.0,15.0,15.0,15.0,15.0
+Region XI,2,Dry season,Reaper,"(2, 4]",43.0,80.0,15.0,23.0,15.0,23.0
+Region XI,2,Dry season,Reaper,"(4, 6]",84.0,100.0,24.0,28.0,35.0,46.0
+Region XI,2,Dry season,Reaper,"(6, 8]",128.0,128.0,35.0,35.0,68.0,68.0
+Region XI,2,Wet season,Combined,"(0, 2]",43.0,43.0,12.0,13.0,12.0,13.0
+Region XI,2,Wet season,Combined,"(2, 4]",43.0,80.0,12.0,23.0,12.0,33.0
+Region XI,2,Wet season,Combined,"(4, 6]",82.0,110.0,21.0,31.0,21.0,60.0
+Region XI,2,Wet season,Manual,"(0, 2]",43.0,51.0,15.0,18.0,15.0,18.0
+Region XI,2,Wet season,Manual,"(2, 4]",43.0,82.0,15.0,25.0,15.0,44.0
+Region XI,2,Wet season,Manual,"(4, 6]",82.0,120.0,21.0,35.0,34.0,72.0
+Region XI,2,Wet season,Manual,"(6, 8]",126.0,146.0,36.0,42.0,75.0,96.0
+Region XI,3,Dry season,Combined,"(0, 2]",43.0,82.0,11.0,16.0,11.0,16.0
+Region XI,3,Dry season,Combined,"(2, 4]",49.0,88.0,12.0,21.0,0.0,21.0
+Region XI,3,Dry season,Combined,"(4, 6]",77.0,128.0,15.0,33.0,0.0,69.0
+Region XI,3,Dry season,Combined,"(6, 8]",118.0,154.0,28.0,36.0,28.0,36.0
+Region XI,3,Dry season,Combined,"(8, 10]",137.0,137.0,33.0,33.0,33.0,33.0
+Region XI,3,Dry season,Manual,"(0, 2]",43.0,82.0,15.0,20.0,15.0,20.0
+Region XI,3,Dry season,Manual,"(2, 4]",43.0,92.0,15.0,24.0,15.0,35.0
+Region XI,3,Dry season,Manual,"(4, 6]",80.0,128.0,19.0,35.0,19.0,59.0
+Region XI,3,Dry season,Manual,"(6, 8]",113.0,148.0,30.0,39.0,30.0,79.0
+Region XI,3,Dry season,Manual,"(8, 10]",143.0,159.0,39.0,42.0,54.0,58.0
+Region XI,3,Dry season,Reaper,"(2, 4]",72.0,82.0,14.0,20.0,14.0,20.0
+Region XI,3,Dry season,Reaper,"(4, 6]",90.0,116.0,22.0,32.0,22.0,32.0
+Region XI,3,Dry season,Reaper,"(6, 8]",131.0,131.0,36.0,36.0,44.0,44.0
+Region XI,3,Wet season,Combined,"(0, 2]",57.0,82.0,11.0,16.0,11.0,16.0
+Region XI,3,Wet season,Combined,"(2, 4]",43.0,88.0,11.0,22.0,11.0,22.0
+Region XI,3,Wet season,Combined,"(4, 6]",74.0,128.0,15.0,32.0,15.0,48.0
+Region XI,3,Wet season,Combined,"(6, 8]",113.0,157.0,27.0,39.0,22.0,64.0
+Region XI,3,Wet season,Combined,"(8, 10]",146.0,154.0,33.0,36.0,33.0,36.0
+Region XI,3,Wet season,Manual,"(0, 2]",57.0,70.0,15.0,18.0,15.0,18.0
+Region XI,3,Wet season,Manual,"(2, 4]",49.0,92.0,17.0,23.0,17.0,36.0
+Region XI,3,Wet season,Manual,"(4, 6]",72.0,128.0,18.0,36.0,18.0,72.0
+Region XI,3,Wet season,Manual,"(6, 8]",124.0,157.0,33.0,41.0,48.0,74.0
+Region XI,3,Wet season,Manual,"(8, 10]",154.0,154.0,40.0,40.0,69.0,69.0
+Region XI,3,Wet season,Reaper,"(0, 2]",57.0,57.0,15.0,15.0,15.0,15.0
+Region XI,3,Wet season,Reaper,"(2, 4]",70.0,70.0,18.0,18.0,18.0,18.0
+Region XI,3,Wet season,Reaper,"(4, 6]",84.0,108.0,21.0,30.0,21.0,45.0
+Region XI,4,Dry season,Combined,"(0, 2]",57.0,82.0,12.0,16.0,12.0,16.0
+Region XI,4,Dry season,Combined,"(2, 4]",70.0,90.0,14.0,18.0,14.0,18.0
+Region XI,4,Dry season,Combined,"(4, 6]",82.0,131.0,16.0,31.0,14.0,31.0
+Region XI,4,Dry season,Combined,"(6, 8]",124.0,161.0,29.0,38.0,22.0,38.0
+Region XI,4,Dry season,Combined,"(8, 10]",126.0,141.0,30.0,33.0,30.0,33.0
+Region XI,4,Dry season,Manual,"(0, 2]",67.0,82.0,11.0,20.0,0.0,20.0
+Region XI,4,Dry season,Manual,"(2, 4]",70.0,92.0,14.0,22.0,14.0,32.0
+Region XI,4,Dry season,Manual,"(4, 6]",82.0,133.0,16.0,36.0,16.0,57.0
+Region XI,4,Dry season,Manual,"(6, 8]",100.0,167.0,27.0,43.0,28.0,64.0
+Region XI,4,Dry season,Manual,"(8, 10]",113.0,178.0,31.0,46.0,31.0,73.0
+Region XI,4,Dry season,Manual,"(10, 13]",173.0,178.0,45.0,46.0,67.0,73.0
+Region XI,4,Dry season,Reaper,"(0, 2]",82.0,82.0,20.0,20.0,20.0,20.0
+Region XI,4,Dry season,Reaper,"(2, 4]",82.0,88.0,20.0,21.0,20.0,21.0
+Region XI,4,Dry season,Reaper,"(4, 6]",84.0,120.0,21.0,33.0,21.0,33.0
+Region XI,4,Dry season,Reaper,"(6, 8]",139.0,148.0,37.0,40.0,45.0,55.0
+Region XI,4,Dry season,Reaper,"(8, 10]",159.0,159.0,42.0,42.0,66.0,66.0
+Region XI,4,Wet season,Combined,"(0, 2]",57.0,82.0,10.0,16.0,0.0,16.0
+Region XI,4,Wet season,Combined,"(2, 4]",57.0,84.0,11.0,18.0,11.0,18.0
+Region XI,4,Wet season,Combined,"(4, 6]",74.0,128.0,15.0,32.0,15.0,32.0
+Region XI,4,Wet season,Combined,"(6, 8]",126.0,154.0,29.0,35.0,23.0,35.0
+Region XI,4,Wet season,Combined,"(8, 10]",154.0,154.0,35.0,35.0,35.0,35.0
+Region XI,4,Wet season,Manual,"(0, 2]",52.0,82.0,10.0,20.0,0.0,20.0
+Region XI,4,Wet season,Manual,"(2, 4]",57.0,102.0,12.0,30.0,0.0,45.0
+Region XI,4,Wet season,Manual,"(4, 6]",72.0,133.0,18.0,36.0,18.0,63.0
+Region XI,4,Wet season,Manual,"(6, 8]",124.0,173.0,33.0,42.0,46.0,80.0
+Region XI,4,Wet season,Manual,"(8, 10]",139.0,159.0,37.0,42.0,61.0,80.0
+Region XI,4,Wet season,Reaper,"(0, 2]",70.0,70.0,18.0,18.0,18.0,18.0
+Region XI,4,Wet season,Reaper,"(2, 4]",72.0,82.0,18.0,21.0,18.0,21.0
+Region XI,4,Wet season,Reaper,"(4, 6]",88.0,118.0,22.0,33.0,22.0,53.0
+Region XI,4,Wet season,Reaper,"(6, 8]",128.0,128.0,35.0,35.0,58.0,58.0
+Region XI,5,Dry season,Combined,"(4, 6]",27.0,78.0,10.0,10.0,10.0,15.0
+Region XI,5,Dry season,Combined,"(6, 8]",76.0,97.0,10.0,12.0,10.0,18.0
+Region XI,5,Dry season,Manual,"(0, 2]",37.0,37.0,10.0,10.0,10.0,10.0
+Region XI,5,Dry season,Manual,"(2, 4]",10.0,37.0,10.0,14.0,10.0,14.0
+Region XI,5,Dry season,Manual,"(4, 6]",40.0,76.0,10.0,22.0,10.0,26.0
+Region XI,5,Dry season,Manual,"(6, 8]",86.0,106.0,16.0,25.0,16.0,30.0
+Region XI,5,Dry season,Manual,"(8, 10]",95.0,95.0,20.0,20.0,33.0,33.0
+Region XI,5,Dry season,Reaper,"(4, 6]",58.0,58.0,11.0,11.0,23.0,23.0
+Region XI,5,Wet season,Combined,"(0, 2]",82.0,82.0,21.0,22.0,21.0,40.0
+Region XI,5,Wet season,Combined,"(2, 4]",82.0,82.0,17.0,20.0,17.0,20.0
+Region XI,5,Wet season,Combined,"(4, 6]",88.0,113.0,18.0,25.0,18.0,25.0
+Region XI,5,Wet season,Combined,"(6, 8]",133.0,146.0,26.0,30.0,26.0,30.0
+Region XI,5,Wet season,Manual,"(0, 2]",82.0,82.0,23.0,23.0,43.0,43.0
+Region XI,5,Wet season,Manual,"(2, 4]",43.0,84.0,16.0,24.0,16.0,54.0
+Region XI,5,Wet season,Manual,"(4, 6]",90.0,120.0,22.0,32.0,23.0,50.0
+Region XI,6,Dry season,Combined,"(0, 2]",43.0,43.0,11.0,11.0,11.0,11.0
+Region XI,6,Dry season,Combined,"(2, 4]",54.0,80.0,13.0,21.0,13.0,21.0
+Region XI,6,Dry season,Combined,"(4, 6]",88.0,116.0,21.0,29.0,21.0,29.0
+Region XI,6,Dry season,Manual,"(0, 2]",30.0,44.0,10.0,16.0,0.0,16.0
+Region XI,6,Dry season,Manual,"(2, 4]",43.0,84.0,10.0,27.0,0.0,57.0
+Region XI,6,Dry season,Manual,"(4, 6]",77.0,124.0,19.0,37.0,31.0,82.0
+Region XI,6,Dry season,Manual,"(6, 8]",116.0,141.0,31.0,38.0,64.0,77.0
+Region XI,6,Dry season,Manual,"(8, 10]",137.0,137.0,37.0,37.0,73.0,73.0
+Region XI,6,Dry season,Reaper,"(0, 2]",43.0,43.0,15.0,15.0,15.0,15.0
+Region XI,6,Dry season,Reaper,"(2, 4]",49.0,84.0,16.0,24.0,16.0,35.0
+Region XI,6,Dry season,Reaper,"(4, 6]",88.0,90.0,25.0,26.0,37.0,39.0
+Region XI,6,Dry season,Reaper,"(6, 8]",133.0,133.0,36.0,36.0,71.0,71.0
+Region XI,6,Wet season,Combined,"(2, 4]",64.0,77.0,18.0,21.0,18.0,21.0
+Region XI,6,Wet season,Combined,"(4, 6]",92.0,124.0,27.0,33.0,27.0,66.0
+Region XI,6,Wet season,Combined,"(6, 8]",137.0,141.0,35.0,38.0,55.0,78.0
+Region XI,6,Wet season,Manual,"(0, 2]",43.0,46.0,15.0,16.0,15.0,16.0
+Region XI,6,Wet season,Manual,"(2, 4]",43.0,88.0,16.0,28.0,16.0,60.0
+Region XI,6,Wet season,Manual,"(4, 6]",88.0,124.0,26.0,35.0,46.0,75.0
+Region XI,6,Wet season,Manual,"(6, 8]",137.0,143.0,40.0,42.0,86.0,94.0
+Region XI,6,Wet season,Reaper,"(4, 6]",100.0,100.0,30.0,30.0,59.0,59.0
+Region XII,1,Dry season,Combined,"(0, 2]",21.0,70.0,10.0,14.0,10.0,14.0
+Region XII,1,Dry season,Combined,"(2, 4]",33.0,88.0,10.0,23.0,10.0,23.0
+Region XII,1,Dry season,Combined,"(4, 6]",56.0,126.0,10.0,32.0,10.0,50.0
+Region XII,1,Dry season,Combined,"(6, 8]",92.0,157.0,22.0,39.0,22.0,58.0
+Region XII,1,Dry season,Combined,"(8, 10]",141.0,141.0,35.0,35.0,35.0,35.0
+Region XII,1,Dry season,Manual,"(0, 2]",33.0,82.0,10.0,20.0,0.0,20.0
+Region XII,1,Dry season,Manual,"(2, 4]",32.0,90.0,10.0,25.0,10.0,45.0
+Region XII,1,Dry season,Manual,"(4, 6]",59.0,128.0,14.0,36.0,14.0,62.0
+Region XII,1,Dry season,Manual,"(6, 8]",133.0,139.0,37.0,38.0,56.0,58.0
+Region XII,1,Dry season,Manual,"(8, 10]",133.0,133.0,37.0,37.0,49.0,49.0
+Region XII,1,Dry season,Reaper,"(2, 4]",33.0,80.0,10.0,22.0,10.0,30.0
+Region XII,1,Dry season,Reaper,"(4, 6]",78.0,90.0,23.0,30.0,23.0,51.0
+Region XII,1,Wet season,Combined,"(0, 2]",33.0,59.0,10.0,16.0,10.0,16.0
+Region XII,1,Wet season,Combined,"(2, 4]",23.0,88.0,10.0,25.0,10.0,44.0
+Region XII,1,Wet season,Combined,"(4, 6]",51.0,116.0,10.0,31.0,10.0,48.0
+Region XII,1,Wet season,Combined,"(6, 8]",100.0,146.0,23.0,36.0,16.0,60.0
+Region XII,1,Wet season,Combined,"(8, 10]",141.0,141.0,38.0,38.0,67.0,67.0
+Region XII,1,Wet season,Manual,"(0, 2]",21.0,82.0,11.0,20.0,11.0,29.0
+Region XII,1,Wet season,Manual,"(2, 4]",33.0,84.0,10.0,26.0,10.0,55.0
+Region XII,1,Wet season,Manual,"(4, 6]",56.0,124.0,13.0,35.0,13.0,62.0
+Region XII,1,Wet season,Manual,"(6, 8]",118.0,139.0,32.0,38.0,64.0,73.0
+Region XII,1,Wet season,Manual,"(8, 10]",102.0,143.0,28.0,39.0,50.0,75.0
+Region XII,1,Wet season,Reaper,"(0, 2]",33.0,33.0,10.0,10.0,10.0,10.0
+Region XII,1,Wet season,Reaper,"(2, 4]",33.0,66.0,10.0,25.0,10.0,33.0
+Region XII,1,Wet season,Reaper,"(4, 6]",51.0,110.0,14.0,32.0,14.0,52.0
+Region XII,1,Wet season,Reaper,"(6, 8]",118.0,118.0,33.0,33.0,72.0,72.0
+Region XII,2,Dry season,Combined,"(0, 2]",43.0,44.0,13.0,14.0,13.0,14.0
+Region XII,2,Dry season,Combined,"(2, 4]",21.0,80.0,10.0,23.0,0.0,23.0
+Region XII,2,Dry season,Combined,"(4, 6]",51.0,116.0,19.0,33.0,19.0,54.0
+Region XII,2,Dry season,Combined,"(6, 8]",106.0,146.0,31.0,38.0,53.0,69.0
+Region XII,2,Dry season,Manual,"(0, 2]",43.0,44.0,15.0,16.0,15.0,16.0
+Region XII,2,Dry season,Manual,"(2, 4]",39.0,82.0,13.0,26.0,13.0,48.0
+Region XII,2,Dry season,Manual,"(4, 6]",80.0,124.0,25.0,35.0,45.0,73.0
+Region XII,2,Dry season,Manual,"(6, 8]",128.0,139.0,36.0,39.0,72.0,82.0
+Region XII,2,Dry season,Manual,"(8, 10]",146.0,146.0,41.0,41.0,84.0,87.0
+Region XII,2,Dry season,Reaper,"(0, 2]",43.0,43.0,16.0,16.0,16.0,16.0
+Region XII,2,Dry season,Reaper,"(4, 6]",59.0,59.0,26.0,26.0,42.0,42.0
+Region XII,2,Wet season,Combined,"(0, 2]",21.0,51.0,12.0,17.0,10.0,17.0
+Region XII,2,Wet season,Combined,"(2, 4]",21.0,88.0,12.0,25.0,10.0,39.0
+Region XII,2,Wet season,Combined,"(4, 6]",49.0,126.0,19.0,33.0,13.0,62.0
+Region XII,2,Wet season,Combined,"(6, 8]",102.0,143.0,31.0,36.0,31.0,64.0
+Region XII,2,Wet season,Manual,"(0, 2]",43.0,51.0,15.0,19.0,15.0,31.0
+Region XII,2,Wet season,Manual,"(2, 4]",32.0,90.0,15.0,28.0,15.0,58.0
+Region XII,2,Wet season,Manual,"(4, 6]",59.0,118.0,23.0,35.0,24.0,75.0
+Region XII,2,Wet season,Manual,"(6, 8]",98.0,148.0,34.0,42.0,66.0,94.0
+Region XII,2,Wet season,Reaper,"(2, 4]",43.0,43.0,16.0,16.0,16.0,16.0
+Region XII,2,Wet season,Reaper,"(4, 6]",59.0,100.0,25.0,35.0,25.0,68.0
+Region XII,3,Dry season,Combined,"(0, 2]",33.0,82.0,10.0,16.0,10.0,16.0
+Region XII,3,Dry season,Combined,"(2, 4]",21.0,90.0,10.0,23.0,10.0,23.0
+Region XII,3,Dry season,Combined,"(4, 6]",51.0,126.0,10.0,34.0,0.0,59.0
+Region XII,3,Dry season,Combined,"(6, 8]",90.0,146.0,20.0,36.0,19.0,67.0
+Region XII,3,Dry season,Combined,"(8, 10]",90.0,134.0,20.0,35.0,20.0,63.0
+Region XII,3,Dry season,Manual,"(0, 2]",33.0,82.0,10.0,20.0,10.0,20.0
+Region XII,3,Dry season,Manual,"(2, 4]",32.0,88.0,10.0,27.0,10.0,48.0
+Region XII,3,Dry season,Manual,"(4, 6]",51.0,128.0,13.0,36.0,13.0,66.0
+Region XII,3,Dry season,Manual,"(6, 8]",92.0,159.0,26.0,44.0,26.0,79.0
+Region XII,3,Dry season,Manual,"(8, 10]",134.0,141.0,35.0,39.0,43.0,60.0
+Region XII,3,Dry season,Reaper,"(0, 2]",33.0,57.0,10.0,15.0,10.0,15.0
+Region XII,3,Dry season,Reaper,"(2, 4]",33.0,82.0,10.0,20.0,10.0,20.0
+Region XII,3,Dry season,Reaper,"(4, 6]",56.0,120.0,14.0,33.0,14.0,62.0
+Region XII,3,Dry season,Reaper,"(6, 8]",116.0,137.0,31.0,36.0,36.0,49.0
+Region XII,3,Dry season,Reaper,"(8, 10]",118.0,118.0,32.0,32.0,51.0,51.0
+Region XII,3,Wet season,Combined,"(0, 2]",33.0,82.0,10.0,18.0,10.0,18.0
+Region XII,3,Wet season,Combined,"(2, 4]",21.0,92.0,10.0,27.0,10.0,46.0
+Region XII,3,Wet season,Combined,"(4, 6]",46.0,126.0,10.0,34.0,0.0,69.0
+Region XII,3,Wet season,Combined,"(6, 8]",90.0,148.0,20.0,38.0,16.0,70.0
+Region XII,3,Wet season,Combined,"(8, 10]",100.0,148.0,23.0,36.0,23.0,41.0
+Region XII,3,Wet season,Manual,"(0, 2]",43.0,82.0,13.0,21.0,13.0,36.0
+Region XII,3,Wet season,Manual,"(2, 4]",33.0,95.0,10.0,29.0,10.0,59.0
+Region XII,3,Wet season,Manual,"(4, 6]",56.0,126.0,13.0,37.0,13.0,80.0
+Region XII,3,Wet season,Manual,"(6, 8]",100.0,148.0,27.0,43.0,41.0,96.0
+Region XII,3,Wet season,Manual,"(8, 10]",148.0,152.0,40.0,41.0,77.0,81.0
+Region XII,3,Wet season,Reaper,"(0, 2]",33.0,82.0,10.0,20.0,10.0,20.0
+Region XII,3,Wet season,Reaper,"(2, 4]",33.0,82.0,10.0,25.0,0.0,46.0
+Region XII,3,Wet season,Reaper,"(4, 6]",64.0,113.0,14.0,33.0,14.0,62.0
+Region XII,3,Wet season,Reaper,"(6, 8]",126.0,131.0,34.0,37.0,52.0,80.0
+Region XII,4,Dry season,Combined,"(0, 2]",33.0,82.0,10.0,16.0,10.0,16.0
+Region XII,4,Dry season,Combined,"(2, 4]",33.0,84.0,10.0,19.0,0.0,19.0
+Region XII,4,Dry season,Combined,"(4, 6]",59.0,128.0,11.0,31.0,0.0,31.0
+Region XII,4,Dry season,Combined,"(6, 8]",90.0,146.0,20.0,36.0,16.0,36.0
+Region XII,4,Dry season,Combined,"(8, 10]",110.0,141.0,27.0,36.0,27.0,36.0
+Region XII,4,Dry season,Manual,"(0, 2]",33.0,82.0,10.0,20.0,10.0,20.0
+Region XII,4,Dry season,Manual,"(2, 4]",33.0,92.0,10.0,23.0,10.0,23.0
+Region XII,4,Dry season,Manual,"(4, 6]",59.0,128.0,14.0,35.0,14.0,49.0
+Region XII,4,Dry season,Manual,"(6, 8]",92.0,143.0,26.0,39.0,32.0,61.0
+Region XII,4,Dry season,Manual,"(8, 10]",141.0,141.0,38.0,38.0,53.0,53.0
+Region XII,4,Dry season,Manual,"(10, 13]",146.0,146.0,35.0,35.0,47.0,47.0
+Region XII,4,Dry season,Reaper,"(0, 2]",33.0,57.0,10.0,15.0,15.0,18.0
+Region XII,4,Dry season,Reaper,"(2, 4]",41.0,82.0,10.0,21.0,10.0,21.0
+Region XII,4,Dry season,Reaper,"(4, 6]",66.0,124.0,16.0,35.0,16.0,49.0
+Region XII,4,Dry season,Reaper,"(6, 8]",92.0,139.0,26.0,39.0,29.0,61.0
+Region XII,4,Dry season,Reaper,"(10, 13]",137.0,137.0,41.0,41.0,59.0,59.0
+Region XII,4,Wet season,Combined,"(0, 2]",33.0,82.0,10.0,16.0,10.0,16.0
+Region XII,4,Wet season,Combined,"(2, 4]",33.0,92.0,10.0,23.0,10.0,23.0
+Region XII,4,Wet season,Combined,"(4, 6]",46.0,128.0,10.0,32.0,10.0,32.0
+Region XII,4,Wet season,Combined,"(6, 8]",90.0,141.0,20.0,36.0,16.0,50.0
+Region XII,4,Wet season,Combined,"(8, 10]",100.0,126.0,23.0,30.0,23.0,30.0
+Region XII,4,Wet season,Manual,"(0, 2]",33.0,82.0,10.0,20.0,10.0,20.0
+Region XII,4,Wet season,Manual,"(2, 4]",33.0,92.0,10.0,23.0,10.0,39.0
+Region XII,4,Wet season,Manual,"(4, 6]",49.0,131.0,12.0,36.0,12.0,67.0
+Region XII,4,Wet season,Manual,"(6, 8]",108.0,148.0,29.0,39.0,43.0,73.0
+Region XII,4,Wet season,Manual,"(8, 10]",137.0,154.0,36.0,42.0,58.0,85.0
+Region XII,4,Wet season,Manual,"(10, 13]",148.0,148.0,40.0,40.0,77.0,77.0
+Region XII,4,Wet season,Reaper,"(0, 2]",59.0,59.0,13.0,13.0,13.0,13.0
+Region XII,4,Wet season,Reaper,"(2, 4]",57.0,82.0,13.0,21.0,13.0,32.0
+Region XII,4,Wet season,Reaper,"(4, 6]",70.0,131.0,16.0,37.0,16.0,70.0
+Region XII,4,Wet season,Reaper,"(6, 8]",106.0,108.0,29.0,29.0,54.0,60.0
+Region XII,5,Dry season,Combined,"(2, 4]",37.0,37.0,11.0,11.0,12.0,12.0
+Region XII,5,Dry season,Combined,"(4, 6]",42.0,80.0,10.0,14.0,10.0,14.0
+Region XII,5,Dry season,Combined,"(6, 8]",86.0,111.0,10.0,14.0,10.0,17.0
+Region XII,5,Dry season,Manual,"(0, 2]",37.0,37.0,10.0,10.0,20.0,20.0
+Region XII,5,Dry season,Manual,"(2, 4]",10.0,42.0,10.0,16.0,10.0,16.0
+Region XII,5,Dry season,Manual,"(4, 6]",40.0,78.0,10.0,22.0,14.0,26.0
+Region XII,5,Dry season,Manual,"(6, 8]",80.0,111.0,16.0,27.0,17.0,32.0
+Region XII,5,Dry season,Manual,"(8, 10]",111.0,111.0,20.0,21.0,21.0,32.0
+Region XII,5,Dry season,Reaper,"(4, 6]",53.0,78.0,10.0,15.0,22.0,27.0
+Region XII,5,Wet season,Combined,"(0, 2]",33.0,82.0,10.0,23.0,10.0,42.0
+Region XII,5,Wet season,Combined,"(2, 4]",33.0,84.0,10.0,21.0,10.0,21.0
+Region XII,5,Wet season,Combined,"(4, 6]",59.0,120.0,10.0,26.0,10.0,55.0
+Region XII,5,Wet season,Combined,"(6, 8]",98.0,126.0,18.0,26.0,18.0,26.0
+Region XII,5,Wet season,Manual,"(0, 2]",43.0,70.0,10.0,20.0,10.0,40.0
+Region XII,5,Wet season,Manual,"(2, 4]",43.0,84.0,10.0,25.0,0.0,43.0
+Region XII,5,Wet season,Manual,"(4, 6]",66.0,126.0,13.0,33.0,19.0,43.0
+Region XII,5,Wet season,Manual,"(6, 8]",114.0,141.0,27.0,36.0,27.0,43.0
+Region XII,5,Wet season,Reaper,"(2, 4]",43.0,43.0,17.0,17.0,17.0,17.0
+Region XII,6,Dry season,Combined,"(0, 2]",21.0,43.0,13.0,14.0,10.0,14.0
+Region XII,6,Dry season,Combined,"(2, 4]",30.0,82.0,14.0,26.0,0.0,33.0
+Region XII,6,Dry season,Combined,"(4, 6]",59.0,124.0,21.0,33.0,21.0,56.0
+Region XII,6,Dry season,Combined,"(6, 8]",106.0,133.0,34.0,36.0,56.0,63.0
+Region XII,6,Dry season,Manual,"(0, 2]",43.0,43.0,16.0,16.0,16.0,16.0
+Region XII,6,Dry season,Manual,"(2, 4]",43.0,84.0,16.0,26.0,16.0,51.0
+Region XII,6,Dry season,Manual,"(4, 6]",66.0,110.0,27.0,32.0,43.0,63.0
+Region XII,6,Dry season,Reaper,"(2, 4]",46.0,49.0,23.0,23.0,34.0,36.0
+Region XII,6,Wet season,Combined,"(0, 2]",43.0,43.0,16.0,16.0,16.0,16.0
+Region XII,6,Wet season,Combined,"(2, 4]",32.0,88.0,12.0,24.0,12.0,29.0
+Region XII,6,Wet season,Combined,"(4, 6]",61.0,118.0,19.0,32.0,10.0,50.0
+Region XII,6,Wet season,Combined,"(6, 8]",126.0,148.0,33.0,41.0,55.0,85.0
+Region XII,6,Wet season,Manual,"(0, 2]",43.0,51.0,15.0,19.0,15.0,31.0
+Region XII,6,Wet season,Manual,"(2, 4]",43.0,90.0,15.0,28.0,15.0,58.0
+Region XII,6,Wet season,Manual,"(4, 6]",88.0,120.0,26.0,35.0,49.0,77.0
+Region XII,6,Wet season,Reaper,"(2, 4]",30.0,49.0,17.0,20.0,17.0,20.0
+Region XII,6,Wet season,Reaper,"(4, 6]",64.0,96.0,26.0,34.0,41.0,64.0
+Region XII,6,Wet season,Reaper,"(6, 8]",143.0,143.0,40.0,40.0,85.0,85.0
+Region XIII,1,Dry season,Combined,"(0, 2]",56.0,57.0,12.0,12.0,12.0,12.0
+Region XIII,1,Dry season,Combined,"(2, 4]",43.0,70.0,12.0,21.0,10.0,21.0
+Region XIII,1,Dry season,Combined,"(4, 6]",82.0,131.0,17.0,33.0,0.0,59.0
+Region XIII,1,Dry season,Combined,"(6, 8]",126.0,133.0,32.0,34.0,27.0,34.0
+Region XIII,1,Dry season,Manual,"(0, 2]",43.0,57.0,15.0,16.0,15.0,16.0
+Region XIII,1,Dry season,Manual,"(2, 4]",54.0,80.0,15.0,23.0,15.0,37.0
+Region XIII,1,Dry season,Manual,"(4, 6]",88.0,124.0,23.0,35.0,23.0,65.0
+Region XIII,1,Dry season,Manual,"(6, 8]",120.0,133.0,34.0,37.0,48.0,78.0
+Region XIII,1,Dry season,Manual,"(8, 10]",125.0,125.0,29.0,29.0,37.0,37.0
+Region XIII,1,Wet season,Combined,"(0, 2]",43.0,57.0,12.0,14.0,12.0,14.0
+Region XIII,1,Wet season,Combined,"(2, 4]",57.0,82.0,12.0,18.0,12.0,18.0
+Region XIII,1,Wet season,Combined,"(4, 6]",88.0,108.0,20.0,26.0,17.0,37.0
+Region XIII,1,Wet season,Manual,"(0, 2]",43.0,70.0,15.0,18.0,16.0,18.0
+Region XIII,1,Wet season,Manual,"(2, 4]",49.0,84.0,15.0,24.0,16.0,37.0
+Region XIII,1,Wet season,Manual,"(4, 6]",92.0,116.0,23.0,33.0,34.0,54.0
+Region XIII,1,Wet season,Manual,"(6, 8]",126.0,126.0,36.0,36.0,75.0,75.0
+Region XIII,1,Wet season,Manual,"(8, 10]",120.0,120.0,31.0,31.0,58.0,58.0
+Region XIII,1,Wet season,Reaper,"(4, 6]",88.0,88.0,26.0,26.0,49.0,49.0
+Region XIII,2,Dry season,Combined,"(0, 2]",43.0,49.0,13.0,15.0,10.0,15.0
+Region XIII,2,Dry season,Combined,"(2, 4]",43.0,82.0,13.0,23.0,10.0,32.0
+Region XIII,2,Dry season,Combined,"(4, 6]",74.0,120.0,21.0,33.0,21.0,63.0
+Region XIII,2,Dry season,Combined,"(6, 8]",106.0,143.0,30.0,37.0,51.0,68.0
+Region XIII,2,Dry season,Combined,"(8, 10]",131.0,141.0,35.0,37.0,64.0,71.0
+Region XIII,2,Dry season,Manual,"(0, 2]",43.0,46.0,16.0,17.0,16.0,18.0
+Region XIII,2,Dry season,Manual,"(2, 4]",43.0,90.0,14.0,28.0,14.0,56.0
+Region XIII,2,Dry season,Manual,"(4, 6]",74.0,126.0,20.0,36.0,30.0,76.0
+Region XIII,2,Dry season,Manual,"(6, 8]",118.0,143.0,33.0,40.0,69.0,87.0
+Region XIII,2,Dry season,Manual,"(8, 10]",118.0,152.0,34.0,42.0,69.0,92.0
+Region XIII,2,Dry season,Reaper,"(0, 2]",43.0,43.0,16.0,17.0,17.0,17.0
+Region XIII,2,Dry season,Reaper,"(2, 4]",43.0,72.0,16.0,23.0,16.0,40.0
+Region XIII,2,Dry season,Reaper,"(4, 6]",80.0,80.0,25.0,25.0,49.0,49.0
+Region XIII,2,Wet season,Combined,"(0, 2]",43.0,46.0,13.0,15.0,10.0,15.0
+Region XIII,2,Wet season,Combined,"(2, 4]",43.0,84.0,10.0,23.0,0.0,28.0
+Region XIII,2,Wet season,Combined,"(4, 6]",72.0,126.0,20.0,33.0,16.0,58.0
+Region XIII,2,Wet season,Combined,"(6, 8]",113.0,146.0,31.0,38.0,47.0,68.0
+Region XIII,2,Wet season,Combined,"(8, 10]",137.0,137.0,36.0,36.0,68.0,68.0
+Region XIII,2,Wet season,Manual,"(0, 2]",30.0,46.0,10.0,17.0,0.0,19.0
+Region XIII,2,Wet season,Manual,"(2, 4]",30.0,88.0,10.0,27.0,0.0,50.0
+Region XIII,2,Wet season,Manual,"(4, 6]",74.0,126.0,21.0,36.0,35.0,75.0
+Region XIII,2,Wet season,Manual,"(6, 8]",118.0,143.0,32.0,40.0,67.0,86.0
+Region XIII,2,Wet season,Manual,"(8, 10]",139.0,139.0,39.0,39.0,86.0,86.0
+Region XIII,2,Wet season,Reaper,"(0, 2]",43.0,44.0,16.0,16.0,16.0,19.0
+Region XIII,2,Wet season,Reaper,"(2, 4]",43.0,77.0,16.0,24.0,16.0,44.0
+Region XIII,2,Wet season,Reaper,"(4, 6]",88.0,106.0,27.0,30.0,52.0,59.0
+Region XIII,3,Dry season,Combined,"(0, 2]",43.0,70.0,10.0,15.0,10.0,15.0
+Region XIII,3,Dry season,Combined,"(2, 4]",43.0,92.0,10.0,24.0,0.0,34.0
+Region XIII,3,Dry season,Combined,"(4, 6]",72.0,128.0,13.0,34.0,0.0,63.0
+Region XIII,3,Dry season,Combined,"(6, 8]",106.0,152.0,27.0,38.0,22.0,77.0
+Region XIII,3,Dry season,Combined,"(8, 10]",106.0,165.0,27.0,42.0,27.0,46.0
+Region XIII,3,Dry season,Combined,"(10, 13]",143.0,143.0,36.0,36.0,36.0,36.0
+Region XIII,3,Dry season,Manual,"(0, 2]",43.0,70.0,12.0,18.0,12.0,18.0
+Region XIII,3,Dry season,Manual,"(2, 4]",43.0,88.0,13.0,27.0,0.0,53.0
+Region XIII,3,Dry season,Manual,"(4, 6]",72.0,126.0,19.0,36.0,19.0,76.0
+Region XIII,3,Dry season,Manual,"(6, 8]",126.0,152.0,35.0,41.0,45.0,87.0
+Region XIII,3,Dry season,Manual,"(8, 10]",165.0,165.0,45.0,45.0,78.0,78.0
+Region XIII,3,Dry season,Manual,"(10, 13]",141.0,141.0,39.0,39.0,58.0,58.0
+Region XIII,3,Dry season,Reaper,"(0, 2]",57.0,57.0,15.0,15.0,15.0,15.0
+Region XIII,3,Dry season,Reaper,"(2, 4]",51.0,80.0,15.0,20.0,15.0,20.0
+Region XIII,3,Dry season,Reaper,"(4, 6]",82.0,124.0,21.0,35.0,21.0,75.0
+Region XIII,3,Wet season,Combined,"(0, 2]",43.0,70.0,10.0,15.0,10.0,15.0
+Region XIII,3,Wet season,Combined,"(2, 4]",43.0,95.0,10.0,25.0,0.0,32.0
+Region XIII,3,Wet season,Combined,"(4, 6]",72.0,128.0,11.0,33.0,0.0,58.0
+Region XIII,3,Wet season,Combined,"(6, 8]",118.0,154.0,30.0,39.0,28.0,70.0
+Region XIII,3,Wet season,Combined,"(8, 10]",131.0,154.0,32.0,39.0,32.0,58.0
+Region XIII,3,Wet season,Manual,"(0, 2]",43.0,70.0,13.0,18.0,13.0,21.0
+Region XIII,3,Wet season,Manual,"(2, 4]",43.0,95.0,15.0,28.0,15.0,48.0
+Region XIII,3,Wet season,Manual,"(4, 6]",74.0,124.0,19.0,35.0,19.0,72.0
+Region XIII,3,Wet season,Manual,"(6, 8]",126.0,143.0,35.0,40.0,61.0,81.0
+Region XIII,3,Wet season,Manual,"(8, 10]",113.0,139.0,32.0,39.0,52.0,84.0
+Region XIII,3,Wet season,Reaper,"(0, 2]",43.0,57.0,11.0,16.0,11.0,19.0
+Region XIII,3,Wet season,Reaper,"(2, 4]",46.0,90.0,15.0,23.0,15.0,36.0
+Region XIII,3,Wet season,Reaper,"(4, 6]",80.0,124.0,21.0,35.0,28.0,78.0
+Region XIII,3,Wet season,Reaper,"(6, 8]",128.0,128.0,36.0,36.0,64.0,64.0
+Region XIII,3,Wet season,Reaper,"(8, 10]",141.0,141.0,39.0,39.0,74.0,74.0
+Region XIII,4,Dry season,Combined,"(0, 2]",56.0,70.0,10.0,14.0,0.0,14.0
+Region XIII,4,Dry season,Combined,"(2, 4]",49.0,92.0,10.0,20.0,0.0,20.0
+Region XIII,4,Dry season,Combined,"(4, 6]",71.0,131.0,11.0,34.0,0.0,34.0
+Region XIII,4,Dry season,Combined,"(6, 8]",92.0,167.0,21.0,40.0,18.0,48.0
+Region XIII,4,Dry season,Combined,"(8, 10]",106.0,165.0,28.0,42.0,26.0,52.0
+Region XIII,4,Dry season,Combined,"(10, 13]",98.0,131.0,25.0,33.0,25.0,33.0
+Region XIII,4,Dry season,Manual,"(0, 2]",46.0,70.0,10.0,18.0,0.0,18.0
+Region XIII,4,Dry season,Manual,"(2, 4]",42.0,98.0,10.0,28.0,0.0,28.0
+Region XIII,4,Dry season,Manual,"(4, 6]",56.0,128.0,12.0,36.0,0.0,52.0
+Region XIII,4,Dry season,Manual,"(6, 8]",88.0,161.0,22.0,44.0,22.0,72.0
+Region XIII,4,Dry season,Manual,"(8, 10]",88.0,159.0,22.0,43.0,22.0,70.0
+Region XIII,4,Dry season,Reaper,"(0, 2]",57.0,70.0,15.0,18.0,15.0,18.0
+Region XIII,4,Dry season,Reaper,"(2, 4]",56.0,82.0,15.0,22.0,15.0,24.0
+Region XIII,4,Dry season,Reaper,"(4, 6]",77.0,118.0,20.0,34.0,20.0,46.0
+Region XIII,4,Dry season,Reaper,"(6, 8]",131.0,131.0,36.0,36.0,49.0,49.0
+Region XIII,4,Wet season,Combined,"(0, 2]",56.0,70.0,10.0,14.0,10.0,14.0
+Region XIII,4,Wet season,Combined,"(2, 4]",50.0,98.0,10.0,25.0,0.0,20.0
+Region XIII,4,Wet season,Combined,"(4, 6]",72.0,131.0,13.0,34.0,0.0,44.0
+Region XIII,4,Wet season,Combined,"(6, 8]",113.0,169.0,29.0,43.0,28.0,70.0
+Region XIII,4,Wet season,Combined,"(8, 10]",120.0,165.0,27.0,41.0,24.0,63.0
+Region XIII,4,Wet season,Combined,"(10, 13]",165.0,165.0,41.0,41.0,63.0,63.0
+Region XIII,4,Wet season,Manual,"(0, 2]",56.0,70.0,11.0,18.0,11.0,21.0
+Region XIII,4,Wet season,Manual,"(2, 4]",45.0,90.0,10.0,24.0,0.0,46.0
+Region XIII,4,Wet season,Manual,"(4, 6]",72.0,128.0,16.0,36.0,16.0,70.0
+Region XIII,4,Wet season,Manual,"(6, 8]",113.0,154.0,32.0,42.0,51.0,83.0
+Region XIII,4,Wet season,Manual,"(8, 10]",110.0,154.0,32.0,42.0,52.0,83.0
+Region XIII,4,Wet season,Manual,"(10, 13]",137.0,137.0,38.0,38.0,70.0,70.0
+Region XIII,4,Wet season,Reaper,"(0, 2]",57.0,70.0,15.0,18.0,18.0,21.0
+Region XIII,4,Wet season,Reaper,"(2, 4]",56.0,82.0,13.0,21.0,13.0,31.0
+Region XIII,4,Wet season,Reaper,"(4, 6]",74.0,118.0,19.0,33.0,19.0,57.0
+Region XIII,4,Wet season,Reaper,"(6, 8]",133.0,141.0,37.0,39.0,65.0,76.0
+Region XIII,5,Dry season,Combined,"(0, 2]",43.0,43.0,15.0,16.0,15.0,16.0
+Region XIII,5,Dry season,Combined,"(2, 4]",10.0,88.0,10.0,22.0,0.0,22.0
+Region XIII,5,Dry season,Combined,"(4, 6]",37.0,100.0,10.0,23.0,10.0,23.0
+Region XIII,5,Dry season,Combined,"(6, 8]",47.0,97.0,10.0,16.0,10.0,17.0
+Region XIII,5,Dry season,Combined,"(8, 10]",60.0,91.0,10.0,15.0,10.0,16.0
+Region XIII,5,Dry season,Manual,"(0, 2]",10.0,46.0,10.0,17.0,10.0,29.0
+Region XIII,5,Dry season,Manual,"(2, 4]",10.0,59.0,10.0,20.0,10.0,28.0
+Region XIII,5,Dry season,Manual,"(4, 6]",29.0,116.0,10.0,31.0,10.0,49.0
+Region XIII,5,Dry season,Manual,"(6, 8]",37.0,102.0,10.0,26.0,16.0,30.0
+Region XIII,5,Dry season,Manual,"(8, 10]",78.0,104.0,15.0,21.0,20.0,31.0
+Region XIII,5,Dry season,Reaper,"(4, 6]",42.0,70.0,14.0,18.0,15.0,25.0
+Region XIII,5,Dry season,Reaper,"(6, 8]",91.0,91.0,24.0,24.0,25.0,25.0
+Region XIII,5,Wet season,Combined,"(0, 2]",43.0,57.0,15.0,17.0,10.0,21.0
+Region XIII,5,Wet season,Combined,"(2, 4]",43.0,84.0,11.0,20.0,10.0,20.0
+Region XIII,5,Wet season,Combined,"(4, 6]",74.0,124.0,15.0,27.0,15.0,27.0
+Region XIII,5,Wet season,Combined,"(6, 8]",102.0,139.0,19.0,29.0,19.0,29.0
+Region XIII,5,Wet season,Combined,"(8, 10]",141.0,141.0,25.0,25.0,25.0,25.0
+Region XIII,5,Wet season,Manual,"(0, 2]",43.0,70.0,12.0,20.0,12.0,35.0
+Region XIII,5,Wet season,Manual,"(2, 4]",42.0,82.0,10.0,27.0,0.0,60.0
+Region XIII,5,Wet season,Manual,"(4, 6]",80.0,124.0,19.0,32.0,19.0,48.0
+Region XIII,5,Wet season,Manual,"(6, 8]",128.0,131.0,32.0,34.0,32.0,52.0
+Region XIII,5,Wet season,Reaper,"(2, 4]",43.0,56.0,16.0,16.0,19.0,20.0
+Region XIII,6,Dry season,Combined,"(0, 2]",43.0,46.0,13.0,15.0,10.0,15.0
+Region XIII,6,Dry season,Combined,"(2, 4]",43.0,90.0,11.0,24.0,0.0,34.0
+Region XIII,6,Dry season,Combined,"(4, 6]",74.0,128.0,21.0,34.0,21.0,61.0
+Region XIII,6,Dry season,Combined,"(6, 8]",108.0,148.0,29.0,39.0,45.0,77.0
+Region XIII,6,Dry season,Combined,"(8, 10]",131.0,131.0,35.0,35.0,63.0,63.0
+Region XIII,6,Dry season,Manual,"(0, 2]",33.0,57.0,10.0,19.0,0.0,29.0
+Region XIII,6,Dry season,Manual,"(2, 4]",43.0,88.0,12.0,27.0,12.0,53.0
+Region XIII,6,Dry season,Manual,"(4, 6]",72.0,128.0,21.0,37.0,35.0,78.0
+Region XIII,6,Dry season,Manual,"(6, 8]",44.0,159.0,16.0,44.0,16.0,100.0
+Region XIII,6,Dry season,Manual,"(8, 10]",137.0,146.0,38.0,41.0,82.0,89.0
+Region XIII,6,Dry season,Reaper,"(0, 2]",43.0,43.0,16.0,16.0,16.0,16.0
+Region XIII,6,Dry season,Reaper,"(2, 4]",57.0,82.0,19.0,26.0,19.0,48.0
+Region XIII,6,Wet season,Combined,"(0, 2]",43.0,49.0,10.0,15.0,0.0,15.0
+Region XIII,6,Wet season,Combined,"(2, 4]",43.0,90.0,11.0,25.0,0.0,33.0
+Region XIII,6,Wet season,Combined,"(4, 6]",74.0,126.0,21.0,34.0,17.0,66.0
+Region XIII,6,Wet season,Combined,"(6, 8]",124.0,146.0,32.0,37.0,49.0,70.0
+Region XIII,6,Wet season,Combined,"(8, 10]",131.0,131.0,35.0,35.0,61.0,61.0
+Region XIII,6,Wet season,Manual,"(0, 2]",43.0,51.0,16.0,19.0,16.0,29.0
+Region XIII,6,Wet season,Manual,"(2, 4]",43.0,88.0,11.0,27.0,11.0,53.0
+Region XIII,6,Wet season,Manual,"(4, 6]",72.0,120.0,23.0,35.0,39.0,74.0
+Region XIII,6,Wet season,Manual,"(6, 8]",118.0,139.0,34.0,39.0,72.0,83.0
+Region XIII,6,Wet season,Reaper,"(2, 4]",59.0,62.0,19.0,21.0,26.0,33.0
