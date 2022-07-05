@@ -20,7 +20,7 @@ warnings.simplefilter('ignore')
 
 
 # In[ ]:
-recom = pd.read_excel('assets/recommender_table_v3.csv')
+recom = pd.read_csv('assets/recommender_table_v3.csv')
 
 # For getting coordinates
 df_coords = recom.copy()
