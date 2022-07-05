@@ -115,7 +115,7 @@ if st.button('Show Fertilizer ranges'):
     st.success(f'Potassium (K): {p_K-K_range:.2f} - {p_K+K_range:.2f} kg/ha')
     
 if st.button('Show SHAP plots'):
-    test = [yield_1*yield_2, season, method, cluster]
+    test = [yield_1*yield_2/1_000, season, method, cluster]
     X_ho = pd.DataFrame(test).T
     col_names = ['RCM Normal Yield t/ha in 14% MC',
              'Growing season', 
