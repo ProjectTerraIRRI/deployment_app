@@ -20,7 +20,11 @@ warnings.simplefilter('ignore')
 
 
 # In[ ]:
-recom = pd.read_csv('assets/recommender_table_v3.csv')
+recom = pd.read_csv('recommender_table_v3.csv', header=2)
+
+recom.columns = ['Location_Region','cluster','Growing season',
+                 'RCM Harvesting Method','yield', 'N_min', 'N_max',
+                'P_min', 'P_max', 'K_min', 'K_max']
 
 # For getting coordinates
 df_coords = recom.copy()
