@@ -29,14 +29,16 @@ df_coords = df_coords.set_index(['Location_Region', 'cluster', 'Growing season',
                                  'RCM Harvesting Method', 'yield'])
 
 # For getting dropdown values
-loc_dict = (coordinates[['Location_Region', 'cluster', 'Growing season',
+loc_dict = (recom[['Location_Region', 'cluster', 'Growing season',
                                  'RCM Harvesting Method', 'yield']].astype(str)
-            .groupby(['cluster', 'Location_Region'])
+            .groupby(['RCM Harvesting Method', 'Growing season','cluster', 'Location_Region'])
             .agg(list).reset_index()
-            .groupby('Location_Region')[['cluster', 'Growing season']]
-            .apply(lambda x: x.set_index('cluster').to_dict(orient='index'))
+            .groupby('Location_Region')[['cluster', 'Growing season',
+                                 'RCM Harvesting Method', 'yield']]
+            .apply(lambda x: x.set_index(['cluster','Growing season',
+                                          'RCM Harvesting Method']).to_dict(orient='index'))
             .to_dict()
-            )
+                  )
 regions = ['1', '2', '3', '4A', '4B', '5', '6', '7', '8', '9', '10', '11',
            '12', '13', 'ARMM', 'CAR', 'NCR']
 
