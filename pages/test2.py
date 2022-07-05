@@ -26,6 +26,10 @@ recom.columns = ['Location_Region','cluster','Growing season',
                  'RCM Harvesting Method','yield', 'N_min', 'N_max',
                 'P_min', 'P_max', 'K_min', 'K_max']
 
+reg = ['ARMM', 'BARMM', '4A', 'CAR', '4B', '1', '2', '3', '9', '5', '6', '7', '8',
+       '10', '11', '12', '13']
+recom.Location_Region = recom.Location_Region.map(dict(zip(recom.Location_Region.unique(),reg)))
+
 # For getting coordinates
 df_coords = recom.copy()
 df_coords['Location_Region'] = df_coords['Location_Region'].apply(lambda x: str(x))
